@@ -1,0 +1,26 @@
+[
+  {
+    "file": "game:entities/land/chicken-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 64
+  },
+  {
+    "file": "game:entities/land/chicken-hen.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrow",
+    "value": 36
+  },
+  {
+    "file": "game:entities/land/chicken-hen.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
+    "value": 0
+  },
+  {
+    "file": "game:entities/land/chicken-hen.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
+    "value": 2
+  }
+]

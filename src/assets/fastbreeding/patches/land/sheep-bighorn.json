@@ -1,0 +1,26 @@
+[
+  {
+    "file": "game:entities/land/sheep-bighorn-lamb.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrow",
+    "value": 168
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDays",
+    "value": 10
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 2
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 6
+  }
+]

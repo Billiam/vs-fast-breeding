@@ -1,0 +1,26 @@
+[
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrow",
+    "value": 168
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/pregnancyDays",
+    "value": 10
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMin",
+    "value": 4
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMax",
+    "value": 11
+  }
+]

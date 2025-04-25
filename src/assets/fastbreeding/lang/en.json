@@ -1,0 +1,7 @@
+{
+  "chicken-cycle": "Chicken breeding rate",
+  "pig-cycle": "Pig breeding rate",
+  "sheep-cycle": "Sheep breeding rate",
+  "goat-cycle": "Goat breeding rate",
+  "cycle-comment": "Lower = faster, default: 1.0"
+}

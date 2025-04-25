@@ -1,0 +1,26 @@
+[
+  {
+    "file": "game:entities/land/pig-wild-piglet.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrow",
+    "value": 84
+  },
+  {
+    "file": "game:entities/land/pig-wild-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDays",
+    "value": 13
+  },
+  {
+    "file": "game:entities/land/pig-wild-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 3
+  },
+  {
+    "file": "game:entities/land/pig-wild-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 6
+  }
+]
