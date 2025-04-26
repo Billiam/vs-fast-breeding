@@ -1,0 +1,200 @@
+[
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByTypeByType/*-elephasmaximus",
+    "value": 61,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByTypeByType/*-elephasmaximusborneensis",
+    "value": 61,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByTypeByType/*-loxodontaafricana",
+    "value": 70,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByTypeByType/*-loxodontacyclotis",
+    "value": 70,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByTypeByType/*-mammuthuscolumbi",
+    "value": 68,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByTypeByType/*-mammuthusexilis",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByTypeByType/*-mammuthusprimigenius",
+    "value": 68,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByTypeByType/*-palaeoloxodoncypriotes",
+    "value": 19,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/multiplyCooldownDaysMinByTypeByType/*",
+    "value": 27,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/multiplyCooldownDaysMaxByTypeByType/*",
+    "value": 45,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByTypeByType/*-elephasmaximus",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByTypeByType/*-elephasmaximusborneensis",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByTypeByType/*-loxodontaafricana",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByTypeByType/*-loxodontacyclotis",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByTypeByType/*-mammuthuscolumbi",
+    "value": 1314,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByTypeByType/*-mammuthusexilis",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByTypeByType/*-mammuthusprimigenius",
+    "value": 1314,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByTypeByType/*-palaeoloxodoncypriotes",
+    "value": 1314,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  }
+]

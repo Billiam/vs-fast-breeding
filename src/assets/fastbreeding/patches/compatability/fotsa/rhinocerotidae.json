@@ -1,0 +1,156 @@
+[
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-ceratotheriumsimum",
+    "value": 49,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-coelodontaantiquitatis",
+    "value": 50,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-dicerorhinussumatrensis",
+    "value": 46,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-dicerosbicornis",
+    "value": 46,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-rhinocerossondaicus",
+    "value": 46,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-rhinocerosunicornis",
+    "value": 48,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*",
+    "value": 27,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*",
+    "value": 45,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-ceratotheriumsimum",
+    "value": 525,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-coelodontaantiquitatis",
+    "value": 525,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-dicerorhinussumatrensis",
+    "value": 525,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-dicerosbicornis",
+    "value": 438,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-rhinocerossondaicus",
+    "value": 350,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-rhinocerosunicornis",
+    "value": 350,
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ]
+  }
+]
