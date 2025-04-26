@@ -1,0 +1,46 @@
+[
+  {
+    "file": "game:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByTypeByType/*-megalocerosgiganteus",
+    "value": 25,
+    "dependsOn": [
+      {
+        "modId": "cervini"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/multiplyCooldownDaysMinByTypeByType/*-cervini-*",
+    "value": 4,
+    "dependsOn": [
+      {
+        "modId": "cervini"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/multiplyCooldownDaysMaxByTypeByType/*-cervini-*",
+    "value": 11,
+    "dependsOn": [
+      {
+        "modId": "cervini"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByTypeByType/*-megalocerosgiganteus",
+    "value": 525,
+    "dependsOn": [
+      {
+        "modId": "cervini"
+      }
+    ]
+  }
+]

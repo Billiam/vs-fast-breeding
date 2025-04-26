@@ -1,0 +1,1960 @@
+[
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-aenocyon-dirus",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-aureus",
+    "value": 80,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-familiaris",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-latrans",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-lupastor",
+    "value": 80,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-lupus",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-lupusarctos",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-lupusdingo",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-lycaon",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-rufus",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-canis-simensis",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-cuon-alpinus",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-cynotherium-sardous",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lupulella-adusta",
+    "value": 80,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lupulella-mesomelas",
+    "value": 80,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lycaon-pictus",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-atelocynus-microtis",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-cerdocyon-thous",
+    "value": 66,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-chrysocyon-brachyurus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-dusicyon-australis",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-dusicyon-avus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lycalopex-culpaeus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lycalopex-fulvipes",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lycalopex-griseus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lycalopex-gymnocercus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lycalopex-sechurae",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lycalopex-vetulus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-speothos-pacivorus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-speothos-venaticus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/urocyonini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-urocyon-cinereoargenteus",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/urocyonini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-urocyon-littoralis",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-nyctereutes-procyonoides",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-nyctereutes-viverrinus",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-otocyon-megalotis",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-bengalensis",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-cana",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-chama",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-corsac",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-ferrilata",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-lagopus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-macrotis",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-pallida",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-rueppellii",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-velox",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-vulpes",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-vulpes-zerda",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-dirus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-aureus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-familiaris",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-latrans",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-lupastor",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-lupus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-lupusarctos",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-lupusdingo",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-lycaon",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-rufus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-simensis",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-alpinus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-sardous",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-adusta",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-mesomelas",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-pictus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-dirus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-aureus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-familiaris",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-latrans",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-lupastor",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-lupus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-lupusarctos",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-lupusdingo",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-lycaon",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-rufus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-simensis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-alpinus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-sardous",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-adusta",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-mesomelas",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-pictus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-dirus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-aureus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-familiaris",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-latrans",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-lupastor",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-lupus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-lupusarctos",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-lupusdingo",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-lycaon",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-rufus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-simensis",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-alpinus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-sardous",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-adusta",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-mesomelas",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-pictus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-microtis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-thous",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-brachyurus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-dusicyon-*",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-culpaeus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-fulvipes",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-griseus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-gymnocercus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-sechurae",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-vetulus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-pacivorus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-venaticus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-microtis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-thous",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-brachyurus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-dusicyon-*",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-culpaeus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-fulvipes",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-griseus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-gymnocercus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-sechurae",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-vetulus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-pacivorus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-venaticus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-microtis",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-thous",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-brachyurus",
+    "value": 14,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-dusicyon-*",
+    "value": 14,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-culpaeus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-fulvipes",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-griseus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-gymnocercus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-sechurae",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-vetulus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-pacivorus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-venaticus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-urocyon-cinereoargenteus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-urocyon-littoralis",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-urocyon-cinereoargenteus",
+    "value": 1,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-urocyon-littoralis",
+    "value": 1,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-urocyon-cinereoargenteus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-urocyon-littoralis",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-nyctereutes-*",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-otocyon-*",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-bengalensis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-cana",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-chama",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-corsac",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-ferrilata",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-lagopus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-macrotis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-pallida",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-rueppellii",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-velox",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-vulpes",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-zerda",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-nyctereutes-*",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-otocyon-*",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-bengalensis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  }
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-cana",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-chama",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-corsac",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-ferrilata",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-lagopus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-macrotis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-pallida",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-rueppellii",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-velox",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-vulpes",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*-zerda",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-nyctereutes-*",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-otocyon-*",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-bengalensis",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-cana",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-chama",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-corsac",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-ferrilata",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-lagopus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-macrotis",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-pallida",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-rueppellii",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-velox",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-vulpes",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*-zerda",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  }
+]

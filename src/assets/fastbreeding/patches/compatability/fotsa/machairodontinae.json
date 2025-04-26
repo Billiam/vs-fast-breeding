@@ -1,0 +1,68 @@
+[
+  {
+    "file": "game:entities/land/machairodontinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*",
+    "value": 292,
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/machairodontinae-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-fatalis",
+    "value": 12,
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/machairodontinae-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-populator",
+    "value": 13,
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/machairodontinae-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-serum",
+    "value": 12,
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/machairodontinae-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 2,
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/machairodontinae-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-caracalcaracal",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-lynxcanadensis",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-lynxlynx",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-lynxpardinus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*",
+    "value": 14,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByTypeByType/*",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByTypeByType/*",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-caracalcaracal",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lynxcanadensis",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lynxlynx",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-lynxpardinus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  },
+  {
+    "file": "game:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*",
+    "value": 175,
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ]
+  }
+]
