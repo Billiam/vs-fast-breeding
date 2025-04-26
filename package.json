@@ -1,0 +1,12 @@
+{
+  "name": "vs-fast-breeding",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:Billiam/vs-fast-breeding.git",
+  "author": "Billiam <billiamthesecond@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "json5": "^2.2.3"
+  }
+}
