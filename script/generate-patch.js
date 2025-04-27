@@ -29,8 +29,9 @@ const targets = ['hoursToGrow', 'pregnancyDays', 'multiplyCooldownDaysMin', 'mul
 const output = []
 
 const buildPatch = (file, suffix, key, value) => {
+  const filePrefix = opts.mod ?? 'game'
   const patch = {
-    file: `game:${file}`,
+    file: `${filePrefix}:${file}`,
     op: 'replace',
     path: `/server/behaviors/${suffix}${key}`,
     value: Math.ceil(value * 0.5)
@@ -73,7 +74,7 @@ files.forEach(file => {
         addPatch(patchPath, suffix, key, value)
       } else if (targets.includes(keyWithoutType)) {
         Object.entries(value).forEach(([typeName, value]) => {
-          addPatch(patchPath, `${suffix}${key}ByType/`, typeName, value)
+          addPatch(patchPath, `${suffix}${key}/`, typeName, value)
         })
       }
     })
@@ -86,7 +87,9 @@ if (opts.output) {
 
   const configLibFile = path.resolve(__dirname, '../src/assets/fastbreeding/config/configlib-patches.json')
   const configLibData = JSON.parse(fs.readFileSync(configLibFile, 'utf8'))
-  configLibData.patches.integer[opts.output] = configLibPatches
+
+  const outputKey = `fastbreeding:${opts.output}`
+  configLibData.patches.integer[outputKey] = configLibPatches
 
   fs.writeFileSync(configLibFile, JSON.stringify(configLibData, null, 2))
 }

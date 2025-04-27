@@ -1,8 +1,8 @@
 [
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByTypeByType/*-dugon",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-dugon",
     "value": 43,
     "dependsOn": [
       {
@@ -11,9 +11,9 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByTypeByType/*-gigas",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-gigas",
     "value": 43,
     "dependsOn": [
       {
@@ -22,9 +22,9 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByTypeByType/*-inunguis",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-inunguis",
     "value": 37,
     "dependsOn": [
       {
@@ -33,9 +33,9 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByTypeByType/*-manatus",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-manatus",
     "value": 37,
     "dependsOn": [
       {
@@ -44,9 +44,9 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByTypeByType/*-senegalensis",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-senegalensis",
     "value": 37,
     "dependsOn": [
       {
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
     "path": "/server/behaviors/7/multiplyCooldownDaysMin",
     "value": 37,
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
     "path": "/server/behaviors/7/multiplyCooldownDaysMax",
     "value": 73,
@@ -77,9 +77,9 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/8/hoursToGrowByTypeByType/*-dugon",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-dugon",
     "value": 700,
     "dependsOn": [
       {
@@ -88,9 +88,9 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/8/hoursToGrowByTypeByType/*-gigas",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-gigas",
     "value": 1100,
     "dependsOn": [
       {
@@ -99,9 +99,9 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/8/hoursToGrowByTypeByType/*-inunguis",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-inunguis",
     "value": 876,
     "dependsOn": [
       {
@@ -110,9 +110,9 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/8/hoursToGrowByTypeByType/*-manatus",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-manatus",
     "value": 438,
     "dependsOn": [
       {
@@ -121,9 +121,9 @@
     ]
   },
   {
-    "file": "game:entities/water/sirenia.json",
+    "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
-    "path": "/server/behaviors/8/hoursToGrowByTypeByType/*-senegalensis",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-senegalensis",
     "value": 438,
     "dependsOn": [
       {

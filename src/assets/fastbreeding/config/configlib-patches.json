@@ -26,13 +26,13 @@
         "2/value": "round(GOAT_CYCLE * 4)",
         "3/value": "round(GOAT_CYCLE * 11)"
       },
-      "fastbreeding:patches/compatability/fotsa/bovinae.json": {
+      "fastbreeding:patches/compatibility/fotsa/bovinae.json": {
         "0/value": "max(1, round(BOVINAE_CYCLE * 350))",
         "1/value": "round(BOVINAE_CYCLE * 57)",
         "2/value": "round(BOVINAE_CYCLE * 8)",
         "3/value": "round(BOVINAE_CYCLE * 22)"
       },
-      "fastbreeding:patches/compatability/fotsa/caninae.json": {
+      "fastbreeding:patches/compatibility/fotsa/caninae.json": {
         "0/value": "max(1, round(CANINAE_CYCLE * 525))",
         "1/value": "max(1, round(CANINAE_CYCLE * 160))",
         "2/value": "max(1, round(CANINAE_CYCLE * 345))",
@@ -212,19 +212,13 @@
         "176/value": "round(CANINAE_CYCLE * 18)",
         "177/value": "round(CANINAE_CYCLE * 18)"
       },
-      "patches/compatability/fotsa/bovinae.json": {
-        "0/value": "max(1, round(BOVINAE_CYCLE * 350))",
-        "1/value": "round(BOVINAE_CYCLE * 57)",
-        "2/value": "round(BOVINAE_CYCLE * 8)",
-        "3/value": "round(BOVINAE_CYCLE * 22)"
-      },
-      "patches/compatability/fotsa/cervini.json": {
+      "fastbreeding:patches/compatibility/fotsa/cervini.json": {
         "0/value": "round(CERVINI_CYCLE * 50)",
         "1/value": "round(CERVINI_CYCLE * 8)",
         "2/value": "round(CERVINI_CYCLE * 22)",
         "3/value": "max(1, round(CERVINI_CYCLE * 1050))"
       },
-      "patches/compatability/fotsa/elephantidae.json": {
+      "fastbreeding:patches/compatibility/fotsa/elephantidae.json": {
         "0/value": "round(ELEPHANTIDAE_CYCLE * 121)",
         "1/value": "round(ELEPHANTIDAE_CYCLE * 121)",
         "2/value": "round(ELEPHANTIDAE_CYCLE * 140)",
@@ -244,7 +238,7 @@
         "16/value": "max(1, round(ELEPHANTIDAE_CYCLE * 2628))",
         "17/value": "max(1, round(ELEPHANTIDAE_CYCLE * 2628))"
       },
-      "patches/compatability/fotsa/capreolinae.json": {
+      "fastbreeding:patches/compatibility/fotsa/capreolinae.json": {
         "0/value": "round(CAPREOLINAE_CYCLE * 48)",
         "1/value": "round(CAPREOLINAE_CYCLE * 8)",
         "2/value": "round(CAPREOLINAE_CYCLE * 22)",
@@ -283,7 +277,7 @@
         "35/value": "max(1, round(CAPREOLINAE_CYCLE * 700))",
         "36/value": "max(1, round(CAPREOLINAE_CYCLE * 175))"
       },
-      "patches/compatability/fotsa/sirenia.json": {
+      "fastbreeding:patches/compatibility/fotsa/sirenia.json": {
         "0/value": "round(SIRENIA_CYCLE * 85)",
         "1/value": "round(SIRENIA_CYCLE * 85)",
         "2/value": "round(SIRENIA_CYCLE * 73)",
@@ -297,17 +291,21 @@
         "10/value": "max(1, round(SIRENIA_CYCLE * 876))",
         "11/value": "max(1, round(SIRENIA_CYCLE * 876))"
       },
-      "patches/compatability/fotsa/vombatidae.json": {
-        "0/value": "round(VOMBATIDAE_CYCLE * 36)",
-        "1/value": "round(VOMBATIDAE_CYCLE * 9)",
-        "2/value": "round(VOMBATIDAE_CYCLE * 18)",
-        "3/value": "max(1, round(VOMBATIDAE_CYCLE * 525))",
+      "fastbreeding:patches/compatibility/fotsa/vombatidae.json": {
+        "0/value": "round(VOMBATIDAE_CYCLE * 56)",
+        "1/value": "round(VOMBATIDAE_CYCLE * 4)",
+        "2/value": "round(VOMBATIDAE_CYCLE * 11)",
+        "3/value": "max(1, round(VOMBATIDAE_CYCLE * 350))",
         "4/value": "round(VOMBATIDAE_CYCLE * 36)",
-        "5/value": "round(VOMBATIDAE_CYCLE * 4)",
-        "6/value": "round(VOMBATIDAE_CYCLE * 11)",
-        "7/value": "max(1, round(VOMBATIDAE_CYCLE * 525))"
+        "5/value": "round(VOMBATIDAE_CYCLE * 9)",
+        "6/value": "round(VOMBATIDAE_CYCLE * 18)",
+        "7/value": "max(1, round(VOMBATIDAE_CYCLE * 525))",
+        "8/value": "round(VOMBATIDAE_CYCLE * 36)",
+        "9/value": "round(VOMBATIDAE_CYCLE * 4)",
+        "10/value": "round(VOMBATIDAE_CYCLE * 11)",
+        "11/value": "max(1, round(VOMBATIDAE_CYCLE * 525))"
       },
-      "patches/compatability/fotsa/pantherinae.json": {
+      "fastbreeding:patches/compatibility/fotsa/pantherinae.json": {
         "0/value": "round(PANTHERINAE_CYCLE * 336)",
         "1/value": "round(PANTHERINAE_CYCLE * 18)",
         "2/value": "round(PANTHERINAE_CYCLE * 4)",
@@ -331,7 +329,7 @@
         "20/value": "round(PANTHERINAE_CYCLE * 4)",
         "21/value": "round(PANTHERINAE_CYCLE * 11)"
       },
-      "patches/compatability/fotsa/viverridae.json": {
+      "fastbreeding:patches/compatibility/fotsa/viverridae.json": {
         "0/value": "round(VIVERRIDAE_CYCLE * 18)",
         "1/value": "round(VIVERRIDAE_CYCLE * 28)",
         "2/value": "round(VIVERRIDAE_CYCLE * 9)",
@@ -343,7 +341,7 @@
         "8/value": "round(VIVERRIDAE_CYCLE * 18)",
         "9/value": "max(1, round(VIVERRIDAE_CYCLE * 175))"
       },
-      "patches/compatability/fotsa/meiolaniidae.json": {
+      "fastbreeding:patches/compatibility/fotsa/meiolaniidae.json": {
         "0/value": "max(1, round(MEIOLANIIDAE_CYCLE * 300))",
         "1/value": "max(1, round(MEIOLANIIDAE_CYCLE * 172))",
         "2/value": "round(MEIOLANIIDAE_CYCLE * 10)",
@@ -351,7 +349,7 @@
         "4/value": "round(MEIOLANIIDAE_CYCLE * 75)",
         "5/value": "max(1, round(MEIOLANIIDAE_CYCLE * 3500))"
       },
-      "patches/compatability/fotsa/felinae.json": {
+      "fastbreeding:patches/compatibility/fotsa/felinae.json": {
         "0/value": "round(FELINAE_CYCLE * 14)",
         "1/value": "round(FELINAE_CYCLE * 12)",
         "2/value": "round(FELINAE_CYCLE * 12)",
@@ -365,7 +363,7 @@
         "10/value": "max(1, round(FELINAE_CYCLE * 175))",
         "11/value": "max(1, round(FELINAE_CYCLE * 350))"
       },
-      "patches/compatability/fotsa/manidae.json": {
+      "fastbreeding:patches/compatibility/fotsa/manidae.json": {
         "0/value": "round(MANIDAE_CYCLE * 14)",
         "1/value": "round(MANIDAE_CYCLE * 25)",
         "2/value": "round(MANIDAE_CYCLE * 28)",
@@ -380,7 +378,7 @@
         "11/value": "max(1, round(MANIDAE_CYCLE * 87))",
         "12/value": "max(1, round(MANIDAE_CYCLE * 350))"
       },
-      "patches/compatability/fotsa/rhinocerotidae.json": {
+      "fastbreeding:patches/compatibility/fotsa/rhinocerotidae.json": {
         "0/value": "round(RHINOCEROTIDAE_CYCLE * 97)",
         "1/value": "round(RHINOCEROTIDAE_CYCLE * 100)",
         "2/value": "round(RHINOCEROTIDAE_CYCLE * 91)",
@@ -396,13 +394,24 @@
         "12/value": "max(1, round(RHINOCEROTIDAE_CYCLE * 700))",
         "13/value": "max(1, round(RHINOCEROTIDAE_CYCLE * 700))"
       },
-      "patches/compatability/fotsa/machairodontinae.json": {
+      "fastbreeding:patches/compatibility/fotsa/machairodontinae.json": {
         "0/value": "max(1, round(MACHAIRODONTINAE_CYCLE * 584))",
         "1/value": "round(MACHAIRODONTINAE_CYCLE * 24)",
         "2/value": "round(MACHAIRODONTINAE_CYCLE * 26)",
         "3/value": "round(MACHAIRODONTINAE_CYCLE * 24)",
         "4/value": "round(MACHAIRODONTINAE_CYCLE * 4)",
         "5/value": "round(MACHAIRODONTINAE_CYCLE * 11)"
+      },
+      "fastbreeding:patches/compatibility/fotsa/spheniscidae.json": {
+        "0/value": "max(1, round(SPHENISCIDAE_CYCLE * 321))",
+        "1/value": "max(1, round(SPHENISCIDAE_CYCLE * 270))",
+        "2/value": "max(1, round(SPHENISCIDAE_CYCLE * 200))",
+        "3/value": "max(1, round(SPHENISCIDAE_CYCLE * 200))",
+        "4/value": "max(1, round(SPHENISCIDAE_CYCLE * 172))",
+        "5/value": "round(SPHENISCIDAE_CYCLE * 10)",
+        "6/value": "round(SPHENISCIDAE_CYCLE * 73)",
+        "7/value": "round(SPHENISCIDAE_CYCLE * 81)",
+        "8/value": "max(1, round(SPHENISCIDAE_CYCLE * 800))"
       }
     }
   },
@@ -421,6 +430,7 @@
         "comment": "cycle-comment",
         "weight": 1,
         "default": 0.5,
+        "logarithmic": true,
         "range": {
           "min": 0,
           "max": 10
@@ -432,6 +442,7 @@
         "comment": "cycle-comment",
         "weight": 2,
         "default": 0.5,
+        "logarithmic": true,
         "range": {
           "min": 0,
           "max": 10
@@ -443,6 +454,7 @@
         "comment": "cycle-comment",
         "weight": 3,
         "default": 0.5,
+        "logarithmic": true,
         "range": {
           "min": 0,
           "max": 10
@@ -454,6 +466,7 @@
         "comment": "cycle-comment",
         "weight": 4,
         "default": 0.5,
+        "logarithmic": true,
         "range": {
           "min": 0,
           "max": 10
@@ -465,6 +478,7 @@
         "comment": "cycle-comment",
         "weight": 101,
         "default": 0.5,
+        "logarithmic": true,
         "range": {
           "min": 0,
           "max": 10
@@ -476,141 +490,166 @@
         "comment": "cycle-comment",
         "weight": 102,
         "default": 0.5,
+        "logarithmic": true,
         "range": {
           "min": 0,
           "max": 10
-        },
-        "CAPREOLINAE_CYCLE": {
-          "name": "capreolinae-cycle",
-          "ingui": "fastbreeding:capreolinae-cycle",
-          "comment": "cycle-comment",
-          "weight": 103,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "CERVINI_CYCLE": {
-          "name": "cervini-cycle",
-          "ingui": "fastbreeding:cervini-cycle",
-          "comment": "cycle-comment",
-          "weight": 104,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "ELEPHANTIDAE_CYCLE": {
-          "name": "elephantidae-cycle",
-          "ingui": "fastbreeding:elephantidae-cycle",
-          "comment": "cycle-comment",
-          "weight": 105,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "FELINAE_CYCLE": {
-          "name": "felinae-cycle",
-          "ingui": "fastbreeding:felinae-cycle",
-          "comment": "cycle-comment",
-          "weight": 106,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "MACHAIRODONTINAE_CYCLE": {
-          "name": "machairodontinae-cycle",
-          "ingui": "fastbreeding:machairodontinae-cycle",
-          "comment": "cycle-comment",
-          "weight": 107,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "MANIDAE_CYCLE": {
-          "name": "manidae-cycle",
-          "ingui": "fastbreeding:manidae-cycle",
-          "comment": "cycle-comment",
-          "weight": 108,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "MEIOLANIIDAE_CYCLE": {
-          "name": "meiolaniidae-cycle",
-          "ingui": "fastbreeding:meiolaniidae-cycle",
-          "comment": "cycle-comment",
-          "weight": 109,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "PANTHERINAE_CYCLE": {
-          "name": "pantherinae-cycle",
-          "ingui": "fastbreeding:pantherinae-cycle",
-          "comment": "cycle-comment",
-          "weight": 110,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "RHINOCEROTIDAE_CYCLE": {
-          "name": "rhinocerotidae-cycle",
-          "ingui": "fastbreeding:rhinocerotidae-cycle",
-          "comment": "cycle-comment",
-          "weight": 111,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "SIRENIA_CYCLE": {
-          "name": "sirenia-cycle",
-          "ingui": "fastbreeding:sirenia-cycle",
-          "comment": "cycle-comment",
-          "weight": 112,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "VIVERRIDAE_CYCLE": {
-          "name": "viverridae-cycle",
-          "ingui": "fastbreeding:viverridae-cycle",
-          "comment": "cycle-comment",
-          "weight": 113,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
-        },
-        "VOMBATIDAE_CYCLE": {
-          "name": "vombatidae-cycle",
-          "ingui": "fastbreeding:vombatidae-cycle",
-          "comment": "cycle-comment",
-          "weight": 114,
-          "default": 0.5,
-          "range": {
-            "min": 0,
-            "max": 10
-          }
+        }
+      },
+      "CAPREOLINAE_CYCLE": {
+        "name": "capreolinae-cycle",
+        "ingui": "fastbreeding:capreolinae-cycle",
+        "comment": "cycle-comment",
+        "weight": 103,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "CERVINI_CYCLE": {
+        "name": "cervini-cycle",
+        "ingui": "fastbreeding:cervini-cycle",
+        "comment": "cycle-comment",
+        "weight": 104,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "ELEPHANTIDAE_CYCLE": {
+        "name": "elephantidae-cycle",
+        "ingui": "fastbreeding:elephantidae-cycle",
+        "comment": "cycle-comment",
+        "weight": 105,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "FELINAE_CYCLE": {
+        "name": "felinae-cycle",
+        "ingui": "fastbreeding:felinae-cycle",
+        "comment": "cycle-comment",
+        "weight": 106,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "MACHAIRODONTINAE_CYCLE": {
+        "name": "machairodontinae-cycle",
+        "ingui": "fastbreeding:machairodontinae-cycle",
+        "comment": "cycle-comment",
+        "weight": 107,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "MANIDAE_CYCLE": {
+        "name": "manidae-cycle",
+        "ingui": "fastbreeding:manidae-cycle",
+        "comment": "cycle-comment",
+        "weight": 108,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "MEIOLANIIDAE_CYCLE": {
+        "name": "meiolaniidae-cycle",
+        "ingui": "fastbreeding:meiolaniidae-cycle",
+        "comment": "cycle-comment",
+        "weight": 109,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "PANTHERINAE_CYCLE": {
+        "name": "pantherinae-cycle",
+        "ingui": "fastbreeding:pantherinae-cycle",
+        "comment": "cycle-comment",
+        "weight": 110,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "RHINOCEROTIDAE_CYCLE": {
+        "name": "rhinocerotidae-cycle",
+        "ingui": "fastbreeding:rhinocerotidae-cycle",
+        "comment": "cycle-comment",
+        "weight": 111,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "SIRENIA_CYCLE": {
+        "name": "sirenia-cycle",
+        "ingui": "fastbreeding:sirenia-cycle",
+        "comment": "cycle-comment",
+        "weight": 112,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "SPHENISCIDAE_CYCLE": {
+        "name": "spheniscidae-cycle",
+        "ingui": "fastbreeding:spheniscidae-cycle",
+        "comment": "cycle-comment",
+        "weight": 113,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "VIVERRIDAE_CYCLE": {
+        "name": "viverridae-cycle",
+        "ingui": "fastbreeding:viverridae-cycle",
+        "comment": "cycle-comment",
+        "weight": 114,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
+        }
+      },
+      "VOMBATIDAE_CYCLE": {
+        "name": "vombatidae-cycle",
+        "ingui": "fastbreeding:vombatidae-cycle",
+        "comment": "cycle-comment",
+        "weight": 115,
+        "default": 0.5,
+        "logarithmic": true,
+        "range": {
+          "min": 0,
+          "max": 10
         }
       }
     }

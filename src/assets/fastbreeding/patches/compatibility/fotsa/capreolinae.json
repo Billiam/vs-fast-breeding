@@ -1,0 +1,409 @@
+[
+  {
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-alceini-*",
+    "value": 24,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-alceini-*",
+    "value": 4,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-alceini-*",
+    "value": 11,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-alceini-*",
+    "value": 168,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-capreoluscapreolus",
+    "value": 30,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-capreoluspygargus",
+    "value": 29,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-hydropotesinermis",
+    "value": 19,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 2,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-hydropotesinermis",
+    "value": 50,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*",
+    "value": 47,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-blastocerusdichotomus",
+    "value": 27,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-hippocamelusantisensis",
+    "value": 24,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-hippocamelusbisulcus",
+    "value": 24,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-mazama*",
+    "value": 21,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-odocoileushemionus",
+    "value": 20,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-odocoileuspandora",
+    "value": 20,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-odocoileusvirginianus",
+    "value": 20,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pudellamephistophiles",
+    "value": 21,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pudupuda",
+    "value": 21,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-rangifertarandus",
+    "value": 21,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
+    "value": 30,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-ozotocerosbezoarticus",
+    "value": 1,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 2,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-ozotocerosbezoarticus",
+    "value": 1,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-blastocerusdichotomus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-hippocamelusantisensis",
+    "value": 44,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-hippocamelusbisulcus",
+    "value": 44,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-odocoileushemionus",
+    "value": 131,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-odocoileuspandora",
+    "value": 111,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-odocoileusvirginianus",
+    "value": 131,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-ozotocerosbezoarticus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-pudellamephistophiles",
+    "value": 44,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-pudupuda",
+    "value": 44,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*-rangifertarandus",
+    "value": 350,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  },
+  {
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ]
+  }
+]

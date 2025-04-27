@@ -1,8 +1,8 @@
 [
   {
-    "file": "game:entities/land/meiolaniidae-egg.json",
+    "file": "meiolaniidae:entities/land/meiolaniidae-egg.json",
     "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByTypeByType/*-ninjemysoweni-*",
+    "path": "/server/behaviors/7/hoursToGrowByType/*-ninjemysoweni-*",
     "value": 150,
     "dependsOn": [
       {
@@ -11,9 +11,9 @@
     ]
   },
   {
-    "file": "game:entities/land/meiolaniidae-egg.json",
+    "file": "meiolaniidae:entities/land/meiolaniidae-egg.json",
     "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByTypeByType/*",
+    "path": "/server/behaviors/7/hoursToGrowByType/*",
     "value": 86,
     "dependsOn": [
       {
@@ -22,9 +22,9 @@
     ]
   },
   {
-    "file": "game:entities/land/meiolaniidae.json",
+    "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByTypeByType/*",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*",
     "value": 5,
     "dependsOn": [
       {
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "file": "game:entities/land/meiolaniidae.json",
+    "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/7/multiplyCooldownDaysMin",
     "value": 33,
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "file": "game:entities/land/meiolaniidae.json",
+    "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/7/multiplyCooldownDaysMax",
     "value": 38,
@@ -55,9 +55,9 @@
     ]
   },
   {
-    "file": "game:entities/land/meiolaniidae.json",
+    "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
-    "path": "/server/behaviors/8/hoursToGrowByTypeByType/*",
+    "path": "/server/behaviors/8/hoursToGrowByType/*",
     "value": 1750,
     "dependsOn": [
       {

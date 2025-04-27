@@ -1,0 +1,200 @@
+[
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByType/*-elephasmaximus",
+    "value": 61,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByType/*-elephasmaximusborneensis",
+    "value": 61,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByType/*-loxodontaafricana",
+    "value": 70,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByType/*-loxodontacyclotis",
+    "value": 70,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByType/*-mammuthuscolumbi",
+    "value": 68,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByType/*-mammuthusexilis",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByType/*-mammuthusprimigenius",
+    "value": 68,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/pregnancyDaysByType/*-palaeoloxodoncypriotes",
+    "value": 19,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/multiplyCooldownDaysMinByType/*",
+    "value": 27,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/multiplyCooldownDaysMaxByType/*",
+    "value": 45,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByType/*-elephasmaximus",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByType/*-elephasmaximusborneensis",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByType/*-loxodontaafricana",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByType/*-loxodontacyclotis",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByType/*-mammuthuscolumbi",
+    "value": 1314,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByType/*-mammuthusexilis",
+    "value": 1008,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByType/*-mammuthusprimigenius",
+    "value": 1314,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  },
+  {
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/15/hoursToGrowByType/*-palaeoloxodoncypriotes",
+    "value": 1314,
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ]
+  }
+]
