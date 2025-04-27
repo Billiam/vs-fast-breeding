@@ -1,145 +1,145 @@
 [
   {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-crassicaudata",
-    "value": 7,
     "dependsOn": [
       {
         "modId": "manidae"
       }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-culionensis",
-    "value": 13,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-gigantea",
-    "value": 14,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-javanica",
-    "value": 13,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-mysteria",
-    "value": 13,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-pentadactyla",
-    "value": 7,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*",
-    "value": 14,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
-    "value": 2,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
-    "value": 6,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-culionensis",
-    "value": 44,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-javanica",
-    "value": 44,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
-    "file": "manidae:entities/land/manidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-mysteria",
-    "value": 44,
-    "dependsOn": [
-      {
-        "modId": "manidae"
-      }
-    ]
-  },
-  {
+    ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*",
-    "value": 175,
+    "value": 175
+  },
+  {
     "dependsOn": [
       {
         "modId": "manidae"
       }
-    ]
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-culionensis",
+    "value": 44
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-javanica",
+    "value": 44
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-mysteria",
+    "value": 44
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-crassicaudata",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-culionensis",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-gigantea",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-javanica",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-mysteria",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pentadactyla",
+    "value": 7
   }
 ]

@@ -1,68 +1,68 @@
 [
   {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
     "file": "machairodontinae:entities/land/machairodontinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*",
-    "value": 292,
+    "value": 292
+  },
+  {
     "dependsOn": [
       {
         "modId": "machairodontinae"
       }
-    ]
-  },
-  {
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-fatalis",
-    "value": 12,
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ]
-  },
-  {
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-populator",
-    "value": 13,
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ]
-  },
-  {
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-serum",
-    "value": 12,
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ]
-  },
-  {
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
-    "value": 2,
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ]
-  },
-  {
+    ],
     "file": "machairodontinae:entities/land/machairodontinae-female.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMax",
-    "value": 6,
+    "value": 6
+  },
+  {
     "dependsOn": [
       {
         "modId": "machairodontinae"
       }
-    ]
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-fatalis",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-populator",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-serum",
+    "value": 12
   }
 ]

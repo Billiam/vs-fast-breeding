@@ -1,112 +1,112 @@
 [
   {
-    "file": "viverridae:entities/land/nandiniidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-nandiniabinotata",
-    "value": 9,
     "dependsOn": [
       {
         "modId": "viverridae"
       }
-    ]
-  },
-  {
+    ],
     "file": "viverridae:entities/land/nandiniidae.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*",
-    "value": 14,
+    "path": "/server/behaviors/9/hoursToGrowByType/*",
+    "value": 175
+  },
+  {
     "dependsOn": [
       {
         "modId": "viverridae"
       }
-    ]
-  },
-  {
-    "file": "viverridae:entities/land/nandiniidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
-    "value": 5,
-    "dependsOn": [
-      {
-        "modId": "viverridae"
-      }
-    ]
-  },
-  {
-    "file": "viverridae:entities/land/nandiniidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
-    "value": 9,
-    "dependsOn": [
-      {
-        "modId": "viverridae"
-      }
-    ]
-  },
-  {
+    ],
     "file": "viverridae:entities/land/nandiniidae.json",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*-nandiniabinotata",
-    "value": 263,
+    "value": 263
+  },
+  {
     "dependsOn": [
       {
         "modId": "viverridae"
       }
-    ]
-  },
-  {
+    ],
     "file": "viverridae:entities/land/nandiniidae.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*",
-    "value": 175,
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 9
+  },
+  {
     "dependsOn": [
       {
         "modId": "viverridae"
       }
-    ]
-  },
-  {
-    "file": "viverridae:entities/land/viverridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*",
-    "value": 7,
-    "dependsOn": [
-      {
-        "modId": "viverridae"
-      }
-    ]
-  },
-  {
-    "file": "viverridae:entities/land/viverridae.json",
+    ],
+    "file": "viverridae:entities/land/nandiniidae.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
-    "value": 5,
+    "value": 5
+  },
+  {
     "dependsOn": [
       {
         "modId": "viverridae"
       }
-    ]
+    ],
+    "file": "viverridae:entities/land/nandiniidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
+    "value": 14
   },
   {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/nandiniidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-nandiniabinotata",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*",
+    "value": 88
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
-    "value": 9,
-    "dependsOn": [
-      {
-        "modId": "viverridae"
-      }
-    ]
+    "value": 9
   },
   {
-    "file": "viverridae:entities/land/viverridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*",
-    "value": 88,
     "dependsOn": [
       {
         "modId": "viverridae"
       }
-    ]
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
+    "value": 7
   }
 ]

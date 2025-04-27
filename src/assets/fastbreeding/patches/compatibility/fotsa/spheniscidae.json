@@ -1,101 +1,101 @@
 [
   {
-    "file": "spheniscidae:entities/land/spheniscidae-egg.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByType/*-aptenodytesforsteri-*",
-    "value": 161,
     "dependsOn": [
       {
         "modId": "spheniscidae"
       }
-    ]
-  },
-  {
-    "file": "spheniscidae:entities/land/spheniscidae-egg.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByType/*-aptenodytespatagonicus-*",
-    "value": 135,
-    "dependsOn": [
-      {
-        "modId": "spheniscidae"
-      }
-    ]
-  },
-  {
-    "file": "spheniscidae:entities/land/spheniscidae-egg.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByType/*-spheniscushumboldti-*",
-    "value": 100,
-    "dependsOn": [
-      {
-        "modId": "spheniscidae"
-      }
-    ]
-  },
-  {
-    "file": "spheniscidae:entities/land/spheniscidae-egg.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByType/*-spheniscusmagellanicus-*",
-    "value": 100,
-    "dependsOn": [
-      {
-        "modId": "spheniscidae"
-      }
-    ]
-  },
-  {
+    ],
     "file": "spheniscidae:entities/land/spheniscidae-egg.json",
     "op": "replace",
     "path": "/server/behaviors/7/hoursToGrowByType/*",
-    "value": 86,
+    "value": 86
+  },
+  {
     "dependsOn": [
       {
         "modId": "spheniscidae"
       }
-    ]
-  },
-  {
-    "file": "spheniscidae:entities/land/spheniscidae.json",
+    ],
+    "file": "spheniscidae:entities/land/spheniscidae-egg.json",
     "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByType/*",
-    "value": 5,
+    "path": "/server/behaviors/7/hoursToGrowByType/*-aptenodytesforsteri-*",
+    "value": 161
+  },
+  {
     "dependsOn": [
       {
         "modId": "spheniscidae"
       }
-    ]
-  },
-  {
-    "file": "spheniscidae:entities/land/spheniscidae.json",
+    ],
+    "file": "spheniscidae:entities/land/spheniscidae-egg.json",
     "op": "replace",
-    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
-    "value": 37,
+    "path": "/server/behaviors/7/hoursToGrowByType/*-aptenodytespatagonicus-*",
+    "value": 135
+  },
+  {
     "dependsOn": [
       {
         "modId": "spheniscidae"
       }
-    ]
-  },
-  {
-    "file": "spheniscidae:entities/land/spheniscidae.json",
+    ],
+    "file": "spheniscidae:entities/land/spheniscidae-egg.json",
     "op": "replace",
-    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
-    "value": 41,
+    "path": "/server/behaviors/7/hoursToGrowByType/*-spheniscushumboldti-*",
+    "value": 100
+  },
+  {
     "dependsOn": [
       {
         "modId": "spheniscidae"
       }
-    ]
+    ],
+    "file": "spheniscidae:entities/land/spheniscidae-egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrowByType/*-spheniscusmagellanicus-*",
+    "value": 100
   },
   {
+    "dependsOn": [
+      {
+        "modId": "spheniscidae"
+      }
+    ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*",
-    "value": 400,
+    "value": 400
+  },
+  {
     "dependsOn": [
       {
         "modId": "spheniscidae"
       }
-    ]
+    ],
+    "file": "spheniscidae:entities/land/spheniscidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
+    "value": 41
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spheniscidae"
+      }
+    ],
+    "file": "spheniscidae:entities/land/spheniscidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
+    "value": 37
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spheniscidae"
+      }
+    ],
+    "file": "spheniscidae:entities/land/spheniscidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*",
+    "value": 5
   }
 ]

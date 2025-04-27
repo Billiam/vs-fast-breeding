@@ -1,244 +1,244 @@
 [
   {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
     "file": "pantherinae:entities/land/pantherinae-neofelis-cub.json",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrow",
-    "value": 168,
+    "value": 168
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 6
   },
   {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
     "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDays",
-    "value": 9,
+    "value": 9
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
-    "value": 2,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
-    "value": 6,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-atrox-*",
-    "value": 292,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-leo-*",
-    "value": 292,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-onca-*",
-    "value": 219,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-pardus-*",
-    "value": 219,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-spelaea-*",
-    "value": 292,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-tigris-*",
-    "value": 292,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-uncia-*",
-    "value": 219,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
+    ],
     "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*",
-    "value": 219,
+    "value": 219
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-atrox-*",
-    "value": 12,
+    "path": "/server/behaviors/9/hoursToGrowByType/*-atrox-*",
+    "value": 292
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-leo-*",
-    "value": 11,
+    "path": "/server/behaviors/9/hoursToGrowByType/*-leo-*",
+    "value": 292
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-onca-*",
-    "value": 9,
+    "path": "/server/behaviors/9/hoursToGrowByType/*-onca-*",
+    "value": 219
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-pardus-*",
-    "value": 9,
+    "path": "/server/behaviors/9/hoursToGrowByType/*-pardus-*",
+    "value": 219
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-spelaea-*",
-    "value": 12,
+    "path": "/server/behaviors/9/hoursToGrowByType/*-spelaea-*",
+    "value": 292
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-tigris-*",
-    "value": 10,
+    "path": "/server/behaviors/9/hoursToGrowByType/*-tigris-*",
+    "value": 292
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-uncia-*",
-    "value": 9,
+    "path": "/server/behaviors/9/hoursToGrowByType/*-uncia-*",
+    "value": 219
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*",
-    "value": 9,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
-    "value": 2,
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ]
-  },
-  {
+    ],
     "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMax",
-    "value": 6,
+    "value": 6
+  },
+  {
     "dependsOn": [
       {
         "modId": "pantherinae"
       }
-    ]
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-atrox-*",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-leo-*",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-onca-*",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pardus-*",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-spelaea-*",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tigris-*",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-uncia-*",
+    "value": 9
   }
 ]

@@ -1,68 +1,68 @@
 [
   {
-    "file": "meiolaniidae:entities/land/meiolaniidae-egg.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByType/*-ninjemysoweni-*",
-    "value": 150,
     "dependsOn": [
       {
         "modId": "meiolaniidae"
       }
-    ]
-  },
-  {
+    ],
     "file": "meiolaniidae:entities/land/meiolaniidae-egg.json",
     "op": "replace",
     "path": "/server/behaviors/7/hoursToGrowByType/*",
-    "value": 86,
+    "value": 86
+  },
+  {
     "dependsOn": [
       {
         "modId": "meiolaniidae"
       }
-    ]
-  },
-  {
-    "file": "meiolaniidae:entities/land/meiolaniidae.json",
+    ],
+    "file": "meiolaniidae:entities/land/meiolaniidae-egg.json",
     "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByType/*",
-    "value": 5,
+    "path": "/server/behaviors/7/hoursToGrowByType/*-ninjemysoweni-*",
+    "value": 150
+  },
+  {
     "dependsOn": [
       {
         "modId": "meiolaniidae"
       }
-    ]
-  },
-  {
-    "file": "meiolaniidae:entities/land/meiolaniidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
-    "value": 33,
-    "dependsOn": [
-      {
-        "modId": "meiolaniidae"
-      }
-    ]
-  },
-  {
-    "file": "meiolaniidae:entities/land/meiolaniidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
-    "value": 38,
-    "dependsOn": [
-      {
-        "modId": "meiolaniidae"
-      }
-    ]
-  },
-  {
+    ],
     "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*",
-    "value": 1750,
+    "value": 1750
+  },
+  {
     "dependsOn": [
       {
         "modId": "meiolaniidae"
       }
-    ]
+    ],
+    "file": "meiolaniidae:entities/land/meiolaniidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "meiolaniidae"
+      }
+    ],
+    "file": "meiolaniidae:entities/land/meiolaniidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
+    "value": 33
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "meiolaniidae"
+      }
+    ],
+    "file": "meiolaniidae:entities/land/meiolaniidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*",
+    "value": 5
   }
 ]

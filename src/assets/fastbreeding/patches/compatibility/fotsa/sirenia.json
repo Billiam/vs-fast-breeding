@@ -1,134 +1,134 @@
 [
   {
-    "file": "sirenia:entities/water/sirenia.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByType/*-dugon",
-    "value": 43,
     "dependsOn": [
       {
         "modId": "sirenia"
       }
-    ]
-  },
-  {
-    "file": "sirenia:entities/water/sirenia.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByType/*-gigas",
-    "value": 43,
-    "dependsOn": [
-      {
-        "modId": "sirenia"
-      }
-    ]
-  },
-  {
-    "file": "sirenia:entities/water/sirenia.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByType/*-inunguis",
-    "value": 37,
-    "dependsOn": [
-      {
-        "modId": "sirenia"
-      }
-    ]
-  },
-  {
-    "file": "sirenia:entities/water/sirenia.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByType/*-manatus",
-    "value": 37,
-    "dependsOn": [
-      {
-        "modId": "sirenia"
-      }
-    ]
-  },
-  {
-    "file": "sirenia:entities/water/sirenia.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/pregnancyDaysByType/*-senegalensis",
-    "value": 37,
-    "dependsOn": [
-      {
-        "modId": "sirenia"
-      }
-    ]
-  },
-  {
-    "file": "sirenia:entities/water/sirenia.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
-    "value": 37,
-    "dependsOn": [
-      {
-        "modId": "sirenia"
-      }
-    ]
-  },
-  {
-    "file": "sirenia:entities/water/sirenia.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
-    "value": 73,
-    "dependsOn": [
-      {
-        "modId": "sirenia"
-      }
-    ]
-  },
-  {
+    ],
     "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*-dugon",
-    "value": 700,
+    "value": 700
+  },
+  {
     "dependsOn": [
       {
         "modId": "sirenia"
       }
-    ]
-  },
-  {
+    ],
     "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*-gigas",
-    "value": 1100,
+    "value": 1100
+  },
+  {
     "dependsOn": [
       {
         "modId": "sirenia"
       }
-    ]
-  },
-  {
+    ],
     "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*-inunguis",
-    "value": 876,
+    "value": 876
+  },
+  {
     "dependsOn": [
       {
         "modId": "sirenia"
       }
-    ]
-  },
-  {
+    ],
     "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*-manatus",
-    "value": 438,
+    "value": 438
+  },
+  {
     "dependsOn": [
       {
         "modId": "sirenia"
       }
-    ]
-  },
-  {
+    ],
     "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*-senegalensis",
-    "value": 438,
+    "value": 438
+  },
+  {
     "dependsOn": [
       {
         "modId": "sirenia"
       }
-    ]
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
+    "value": 73
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
+    "value": 37
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-dugon",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-gigas",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-inunguis",
+    "value": 37
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-manatus",
+    "value": 37
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-senegalensis",
+    "value": 37
   }
 ]

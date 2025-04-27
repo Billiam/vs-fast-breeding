@@ -1,134 +1,134 @@
 [
   {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-caracalcaracal",
-    "value": 7,
     "dependsOn": [
       {
         "modId": "felinae"
       }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-lynxcanadensis",
-    "value": 6,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-lynxlynx",
-    "value": 6,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-lynxpardinus",
-    "value": 6,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*",
-    "value": 14,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
-    "value": 5,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
-    "value": 9,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-caracalcaracal",
-    "value": 88,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-lynxcanadensis",
-    "value": 88,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-lynxlynx",
-    "value": 88,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-lynxpardinus",
-    "value": 88,
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ]
-  },
-  {
+    ],
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*",
-    "value": 175,
+    "value": 175
+  },
+  {
     "dependsOn": [
       {
         "modId": "felinae"
       }
-    ]
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-caracalcaracal",
+    "value": 88
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lynxcanadensis",
+    "value": 88
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lynxlynx",
+    "value": 88
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lynxpardinus",
+    "value": 88
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-caracalcaracal",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-lynxcanadensis",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-lynxlynx",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-lynxpardinus",
+    "value": 6
   }
 ]
