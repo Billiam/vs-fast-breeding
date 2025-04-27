@@ -1,53 +1,9 @@
 [
   {
-    "file": "vombatidae:entities/land/thylacoleonidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-thylacoleocarnifex",
-    "value": 18,
-    "dependsOn": [
-      {
-        "modId": "vombatidae"
-      }
-    ]
-  },
-  {
-    "file": "vombatidae:entities/land/thylacoleonidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
-    "value": 5,
-    "dependsOn": [
-      {
-        "modId": "vombatidae"
-      }
-    ]
-  },
-  {
-    "file": "vombatidae:entities/land/thylacoleonidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
-    "value": 9,
-    "dependsOn": [
-      {
-        "modId": "vombatidae"
-      }
-    ]
-  },
-  {
-    "file": "vombatidae:entities/land/thylacoleonidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*-thylacoleocarnifex",
-    "value": 263,
-    "dependsOn": [
-      {
-        "modId": "vombatidae"
-      }
-    ]
-  },
-  {
-    "file": "vombatidae:entities/land/vombatidae.json",
+    "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDaysByType/*",
-    "value": 18,
+    "value": 28,
     "dependsOn": [
       {
         "modId": "vombatidae"
@@ -55,7 +11,7 @@
     ]
   },
   {
-    "file": "vombatidae:entities/land/vombatidae.json",
+    "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
     "value": 2,
@@ -66,7 +22,7 @@
     ]
   },
   {
-    "file": "vombatidae:entities/land/vombatidae.json",
+    "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
     "value": 6,
@@ -77,9 +33,97 @@
     ]
   },
   {
-    "file": "vombatidae:entities/land/vombatidae.json",
+    "file": "vombatidae:entities/land/diprotodontidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByType/*",
+    "path": "/server/behaviors/8/hoursToGrowByType/*",
+    "value": 175,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-thylacoleocarnifex",
+    "value": 18,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/thylacoleonidae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-thylacoleocarnifex",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/vombatidae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
+    "value": 18,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/vombatidae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 2,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/vombatidae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/vombatidae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*",
     "value": 263,
     "dependsOn": [
       {
