@@ -1,6 +1,6 @@
 [
   {
-    "file": "game:entities/land/pantherinae-neofelis-cub.json",
+    "file": "pantherinae:entities/land/pantherinae-neofelis-cub.json",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrow",
     "value": 168,
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDays",
     "value": 9,
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMin",
     "value": 2,
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMax",
     "value": 6,
@@ -44,9 +44,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-cub.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-atrox-*",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-atrox-*",
     "value": 292,
     "dependsOn": [
       {
@@ -55,9 +55,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-cub.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-leo-*",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-leo-*",
     "value": 292,
     "dependsOn": [
       {
@@ -66,9 +66,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-cub.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-onca-*",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-onca-*",
     "value": 219,
     "dependsOn": [
       {
@@ -77,9 +77,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-cub.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-pardus-*",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-pardus-*",
     "value": 219,
     "dependsOn": [
       {
@@ -88,9 +88,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-cub.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-spelaea-*",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-spelaea-*",
     "value": 292,
     "dependsOn": [
       {
@@ -99,9 +99,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-cub.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-tigris-*",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-tigris-*",
     "value": 292,
     "dependsOn": [
       {
@@ -110,9 +110,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-cub.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*-uncia-*",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-uncia-*",
     "value": 219,
     "dependsOn": [
       {
@@ -121,9 +121,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-cub.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-cub.json",
     "op": "replace",
-    "path": "/server/behaviors/9/hoursToGrowByTypeByType/*",
+    "path": "/server/behaviors/9/hoursToGrowByType/*",
     "value": 219,
     "dependsOn": [
       {
@@ -132,9 +132,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-atrox-*",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-atrox-*",
     "value": 12,
     "dependsOn": [
       {
@@ -143,9 +143,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-leo-*",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-leo-*",
     "value": 11,
     "dependsOn": [
       {
@@ -154,9 +154,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-onca-*",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-onca-*",
     "value": 9,
     "dependsOn": [
       {
@@ -165,9 +165,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-pardus-*",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pardus-*",
     "value": 9,
     "dependsOn": [
       {
@@ -176,9 +176,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-spelaea-*",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-spelaea-*",
     "value": 12,
     "dependsOn": [
       {
@@ -187,9 +187,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-tigris-*",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tigris-*",
     "value": 10,
     "dependsOn": [
       {
@@ -198,9 +198,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*-uncia-*",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-uncia-*",
     "value": 9,
     "dependsOn": [
       {
@@ -209,9 +209,9 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByTypeByType/*",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
     "value": 9,
     "dependsOn": [
       {
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMin",
     "value": 2,
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "file": "game:entities/land/pantherinae-panthera-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMax",
     "value": 6,

@@ -1,0 +1,46 @@
+[
+  {
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*",
+    "value": 175,
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ]
+  },
+  {
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bovinae-*",
+    "value": 29,
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ]
+  },
+  {
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 4,
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ]
+  },
+  {
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 11,
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ]
+  }
+]

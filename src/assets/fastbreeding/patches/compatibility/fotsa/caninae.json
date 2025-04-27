@@ -1,0 +1,1960 @@
+[
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-aenocyon-dirus",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-aureus",
+    "value": 80,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-familiaris",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-latrans",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-lupastor",
+    "value": 80,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-lupus",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-lupusarctos",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-lupusdingo",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-lycaon",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-rufus",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-canis-simensis",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-cuon-alpinus",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-cynotherium-sardous",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lupulella-adusta",
+    "value": 80,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lupulella-mesomelas",
+    "value": 80,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lycaon-pictus",
+    "value": 173,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-atelocynus-microtis",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-cerdocyon-thous",
+    "value": 66,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-chrysocyon-brachyurus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-dusicyon-australis",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-dusicyon-avus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lycalopex-culpaeus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lycalopex-fulvipes",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lycalopex-griseus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lycalopex-gymnocercus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lycalopex-sechurae",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-lycalopex-vetulus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-speothos-pacivorus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-speothos-venaticus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/urocyonini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-urocyon-cinereoargenteus",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/urocyonini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-urocyon-littoralis",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-nyctereutes-procyonoides",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-nyctereutes-viverrinus",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-otocyon-megalotis",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-bengalensis",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-cana",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-chama",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-corsac",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-ferrilata",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-lagopus",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-macrotis",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-pallida",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-rueppellii",
+    "value": 58,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-velox",
+    "value": 88,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-vulpes",
+    "value": 73,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-zerda",
+    "value": 65,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-dirus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-aureus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-familiaris",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-latrans",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-lupastor",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-lupus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-lupusarctos",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-lupusdingo",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-lycaon",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-rufus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-simensis",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-alpinus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-sardous",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-adusta",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-mesomelas",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pictus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-dirus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-aureus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-familiaris",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-latrans",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-lupastor",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-lupus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-lupusarctos",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-lupusdingo",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-lycaon",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-rufus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-simensis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-alpinus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-sardous",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-adusta",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-mesomelas",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-pictus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-dirus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-aureus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-familiaris",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-latrans",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-lupastor",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-lupus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-lupusarctos",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-lupusdingo",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-lycaon",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-rufus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-simensis",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-alpinus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-sardous",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-adusta",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-mesomelas",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-pictus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-microtis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-thous",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-brachyurus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-dusicyon-*",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-culpaeus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-fulvipes",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-griseus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-gymnocercus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-sechurae",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-vetulus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pacivorus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-venaticus",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-microtis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-thous",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-brachyurus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-dusicyon-*",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-culpaeus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-fulvipes",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-griseus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-gymnocercus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-sechurae",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-vetulus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-pacivorus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-venaticus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-microtis",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-thous",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-brachyurus",
+    "value": 14,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-dusicyon-*",
+    "value": 14,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-culpaeus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-fulvipes",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-griseus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-gymnocercus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-sechurae",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-vetulus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-pacivorus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-venaticus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-urocyon-cinereoargenteus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-urocyon-littoralis",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-urocyon-cinereoargenteus",
+    "value": 1,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-urocyon-littoralis",
+    "value": 1,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-urocyon-cinereoargenteus",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-urocyon-littoralis",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-nyctereutes-*",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-otocyon-*",
+    "value": 7,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bengalensis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-cana",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-chama",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-corsac",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-ferrilata",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-lagopus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-macrotis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pallida",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-rueppellii",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-velox",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-vulpes",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-zerda",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-nyctereutes-*",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-otocyon-*",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-bengalensis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-cana",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-chama",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-corsac",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-ferrilata",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-lagopus",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-macrotis",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-pallida",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-rueppellii",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-velox",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-vulpes",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*-zerda",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-nyctereutes-*",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-otocyon-*",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-bengalensis",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-cana",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-chama",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-corsac",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-ferrilata",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-lagopus",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-macrotis",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-pallida",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-rueppellii",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-velox",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-vulpes",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  },
+  {
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*-zerda",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ]
+  }
+]

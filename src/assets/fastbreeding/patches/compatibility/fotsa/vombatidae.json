@@ -1,0 +1,90 @@
+[
+  {
+    "file": "vombatidae:entities/land/thylacoleonidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-thylacoleocarnifex",
+    "value": 18,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/thylacoleonidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 5,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/thylacoleonidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 9,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/thylacoleonidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*-thylacoleocarnifex",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/vombatidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
+    "value": 18,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/vombatidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 2,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/vombatidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 6,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  },
+  {
+    "file": "vombatidae:entities/land/vombatidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrowByType/*",
+    "value": 263,
+    "dependsOn": [
+      {
+        "modId": "vombatidae"
+      }
+    ]
+  }
+]
