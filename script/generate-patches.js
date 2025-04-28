@@ -36,6 +36,12 @@ const patchList = [
     output: 'land/chicken.json',
     key: 'CHICKEN_CYCLE',
   },
+  {
+    input: ['land/hare-*.json'],
+    output: 'land/hare.json',
+    key: 'HARE_CYCLE',
+  },
+
 ]
 
 const opts = options.reduce((list, option) => {

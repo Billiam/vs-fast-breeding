@@ -402,6 +402,12 @@
         "3/value": "greater(CHICKEN_CYCLE, 1.0, ceiling(CHICKEN_CYCLE - 1), 0)",
         "4/value": "max(1, round(CHICKEN_CYCLE * 80))"
       },
+      "fastbreeding:patches/land/hare.json": {
+        "0/value": "max(1, round(HARE_CYCLE * 336))",
+        "1/value": "round(HARE_CYCLE * 5)",
+        "2/value": "round(HARE_CYCLE * 2)",
+        "3/value": "round(HARE_CYCLE * 5)"
+      },
       "fastbreeding:patches/land/hooved/goat.json": {
         "0/value": "max(1, round(GOAT_CYCLE * 336))",
         "1/value": "round(GOAT_CYCLE * 11)",
@@ -520,6 +526,18 @@
         },
         "weight": 2
       },
+      "HARE_CYCLE": {
+        "comment": "cycle-comment",
+        "default": 0.5,
+        "ingui": "fastbreeding:hare-cycle",
+        "logarithmic": true,
+        "name": "hare-cycle",
+        "range": {
+          "max": 10,
+          "min": 0
+        },
+        "weight": 3
+      },
       "MACHAIRODONTINAE_CYCLE": {
         "comment": "cycle-comment",
         "default": 0.5,
@@ -578,7 +596,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 3
+        "weight": 4
       },
       "RHINOCEROTIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -602,7 +620,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 4
+        "weight": 5
       },
       "SIRENIA_CYCLE": {
         "comment": "cycle-comment",

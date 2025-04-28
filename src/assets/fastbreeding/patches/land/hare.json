@@ -1,0 +1,26 @@
+[
+  {
+    "file": "game:entities/land/hare-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrow",
+    "value": 168
+  },
+  {
+    "file": "game:entities/land/hare-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMax",
+    "value": 3
+  },
+  {
+    "file": "game:entities/land/hare-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMin",
+    "value": 1
+  },
+  {
+    "file": "game:entities/land/hare-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/pregnancyDays",
+    "value": 3
+  }
+]
