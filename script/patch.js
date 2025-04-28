@@ -9,12 +9,25 @@ import StreamZip from 'node-stream-zip'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const BEHAVIOR_TARGETS = ['hoursToGrow', 'pregnancyDays', 'multiplyCooldownDaysMin', 'multiplyCooldownDaysMax']
+const BEHAVIOR_TARGETS = ['drops', 'hoursToGrow', 'pregnancyDays', 'multiplyCooldownDaysMin', 'multiplyCooldownDaysMax']
 const MOD_PREFIXES = ['fotsa']
 
+const configLibValue = (modId, section, value) => {
+  const configLibSetting = `${modId.toUpperCase()}_CYCLE`
+
+  let configValue = `round(${configLibSetting} * ${value})`
+  if (section.includes('hoursToGrow')) {
+    configValue = `max(1, ${configValue})`
+  } else if (section.includes('multiplyCooldownDaysMin') && value === 0) {
+    configValue = `greater(${configLibSetting}, 1.0, ceiling(${configLibSetting} - 1), 0)`
+  } else if (section.startsWith('drops')) {
+    configValue = `(REDUCE_DROPS) ? min(1.0, ${configLibSetting}) * ${value} : ${value}`
+  }
+  return configValue
+}
+
 const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
-  const domain = modId ?? 'game'
-  const patch = {
+  const domain = modId ?? 'game'  const patch = {
     file: `${domain}:${file}`,
     op: 'replace',
     path: `/server/behaviors/${pathSuffix}${key}`,
@@ -27,16 +40,7 @@ const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
 
   patch.sortKey = `${pathSuffix.replace(/^\d+\//, '')}${key}`
 
-  const configLibSetting = settingKey ?? `${modId.toUpperCase()}_CYCLE`
-
-  let configValue = `round(${configLibSetting} * ${value})`
-  if (patch.path.includes('hoursToGrow')) {
-    configValue = `max(1, ${configValue})`
-  } else if (patch.path.includes('multiplyCooldownDaysMin') && value === 0) {
-    configValue = `greater(${configLibSetting}, 1.0, ceiling(${configLibSetting} - 1), 0)`
-  }
-
-  patch.configLib = configValue
+  patch.configLib = configLibValue(modId, pathSuffix, value)
 
   return patch
 }
@@ -51,8 +55,27 @@ export const filePatch = async (modId, filename, fileData, settingKey) => {
       const keyWithoutType = key.replace(/ByType$/, '')
 
       if (BEHAVIOR_TARGETS.includes(key)) {
-        patches.push(buildPatch(patchPath, modId, suffix, key, value, settingKey))
 
+        if (key === 'drops') {
+          value.forEach((drop, dropIndex) => {
+            const dropPrefix = `${key}/${dropIndex}/${drop.quantityByType ? 'quantityByType' : 'quantity'}/`
+
+            const children = drop.quantityByType ? Object.entries(drop.quantityByType) : [null, drop.quantity]
+            children.forEach(([childKey, childValue]) => {
+              const quantityPath = childKey ? `${dropPrefix}/${childKey}` : dropPrefix
+              Object.entries(childValue).forEach(([quantityKey, quantityValue]) => {
+                if (quantityValue > 0) {
+                  const patch = buildPatch(patchPath, modId, quantityPath, quantityKey, quantityValue, settingKey)
+                  // remove rounding, not needed for drops
+                  patch.value = quantityValue
+                  patches.push(patch)
+                }
+              })
+            })
+          })
+        } else {
+          patches.push(buildPatch(patchPath, modId, suffix, key, value, settingKey))
+        }
       } else if (BEHAVIOR_TARGETS.includes(keyWithoutType)) {
         Object.entries(value).forEach(([subKey, value]) => {
           patches.push(buildPatch(patchPath, modId, `${suffix}${key}/`, subKey, value, settingKey))
