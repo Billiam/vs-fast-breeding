@@ -12,29 +12,36 @@ const __dirname = path.dirname(__filename)
 const BEHAVIOR_TARGETS = ['hoursToGrow', 'pregnancyDays', 'multiplyCooldownDaysMin', 'multiplyCooldownDaysMax']
 const MOD_PREFIXES = ['fotsa']
 
-const buildPatch = (file, modId, pathSuffix, key, value) => {
+const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
+  const domain = modId ?? 'game'
   const patch = {
-    file: `${modId}:${file}`,
+    file: `${domain}:${file}`,
     op: 'replace',
     path: `/server/behaviors/${pathSuffix}${key}`,
     value: Math.ceil(value * 0.5)
   }
 
-  patch.dependsOn = [{ modId }]
+  if (modId) {
+    patch.dependsOn = [{ modId }]
+  }
+
   patch.sortKey = `${pathSuffix.replace(/^\d+\//, '')}${key}`
 
-  const configLibSetting = `${modId.toUpperCase()}_CYCLE`
+  const configLibSetting = settingKey ?? `${modId.toUpperCase()}_CYCLE`
 
   let configValue = `round(${configLibSetting} * ${value})`
-  if (pathSuffix.includes('hoursToGrow')) {
+  if (patch.path.includes('hoursToGrow')) {
     configValue = `max(1, ${configValue})`
+  } else if (patch.path.includes('multiplyCooldownDaysMin') && value === 0) {
+    configValue = `greater(${configLibSetting}, 1.0, ceiling(${configLibSetting} - 1), 0)`
   }
+
   patch.configLib = configValue
 
   return patch
 }
 
-export const filePatch = async (modId, filename, fileData) => {
+export const filePatch = async (modId, filename, fileData, settingKey) => {
   const patchPath = filename.match(/entities.*/)[0]
 
   return fileData.server.behaviors.reduce((patches, behavior, behaviorIndex) => {
@@ -44,11 +51,11 @@ export const filePatch = async (modId, filename, fileData) => {
       const keyWithoutType = key.replace(/ByType$/, '')
 
       if (BEHAVIOR_TARGETS.includes(key)) {
-        patches.push(buildPatch(patchPath, modId, suffix, key, value))
+        patches.push(buildPatch(patchPath, modId, suffix, key, value, settingKey))
 
       } else if (BEHAVIOR_TARGETS.includes(keyWithoutType)) {
         Object.entries(value).forEach(([subKey, value]) => {
-          patches.push(buildPatch(patchPath, modId, `${suffix}${key}/`, subKey, value))
+          patches.push(buildPatch(patchPath, modId, `${suffix}${key}/`, subKey, value, settingKey))
         })
       }
     })
@@ -57,11 +64,11 @@ export const filePatch = async (modId, filename, fileData) => {
   }, [])
 }
 
-const buildModPatch = async (modId, files) => {
+const buildModPatch = async (modId, files, { settingKey }) => {
   // order matters when adding config lib
   const results = []
   for await (const { file, data } of files) {
-    results.push(...await filePatch(modId, file, data))
+    results.push(...await filePatch(modId, file, data, settingKey))
   }
   results.sort((a, b) => {
     return a.file.localeCompare(b.file) || a.sortKey.localeCompare(b.sortKey)
@@ -100,9 +107,14 @@ class DirectoryModReader {
 
   get modId () {
     if (!this._modPromise) {
-      this._modPromise = new Promise(async resolve => {
+      this._modPromise = new Promise(async (resolve, reject) => {
         const fileData = await fs.readFile(path.join(this.path, 'modinfo.json'), 'utf8')
-        resolve(json5.parse(fileData).modid)
+        const modId = json5.parse(fileData).modid
+        if (modId) {
+          resolve(modId)
+        } else {
+          reject(modId)
+        }
       })
     }
     return this._modPromise
@@ -120,7 +132,25 @@ class DirectoryModReader {
     }
   }
 
-  async cleanup () {}
+  cleanup () {}
+}
+
+class PathReader {
+  constructor (paths, modId) {
+    this.paths = paths
+    this.modid = modId
+  }
+
+  async * files () {
+    for (const file of this.paths) {
+      yield {
+        file,
+        data: json5.parse(await fs.readFile(file, 'utf8'))
+      }
+    }
+  }
+
+  cleanup () {}
 }
 
 class ZipModReader {
@@ -143,10 +173,15 @@ class ZipModReader {
 
   get modId () {
     if (!this._modPromise) {
-      this._modPromise = new Promise(async resolve => {
+      this._modPromise = new Promise(async (resolve, reject) => {
         const buffer = await this.zipFile.entryData('modinfo.json')
         const manifest = buffer.toString()
-        resolve(json5.parse(manifest).modid)
+        const modId = json5.parse(manifest).modid
+        if (modId) {
+          resolve(modId)
+        } else {
+          reject()
+        }
       })
     }
     return this._modPromise
@@ -172,32 +207,44 @@ class ZipModReader {
   }
 }
 
-export default async modPath => {
-  const readerType = modPath.endsWith('.zip') ? ZipModReader : DirectoryModReader
-  const reader = new readerType(modPath)
+const getReaderType = modPath => {
+  if (Array.isArray(modPath)) {
+    return PathReader
+  } else if (modPath.endsWith('.zip')) {
+    return ZipModReader
+  } else {
+    return DirectoryModReader
+  }
+}
+
+export default async (modPath, { overrideModId, patchOutput, settingKey } = {}) => {
+  const readerType = getReaderType(modPath, overrideModId)
+  const reader = new readerType(modPath, overrideModId)
 
   const modId = await reader.modId
-  if (!modId) {
-    throw new Error('mod could not be identified')
+
+  let patchProjectPath
+  if (modId) {
+    const modDirectory = path.basename(modPath).toLowerCase()
+    const prefix = MOD_PREFIXES.find(str =>
+      modDirectory.startsWith(str)
+    )
+    patchProjectPath = `compatibility/${prefix ? prefix + '/' : ''}${modId}.json`
+  } else {
+    patchProjectPath = `${patchOutput}`
   }
 
-  const modDirectory = path.basename(modPath).toLowerCase()
-  const prefix = MOD_PREFIXES.find(str =>
-    modDirectory.startsWith(str)
-  )
-
-  const patchData = await buildModPatch(modId, reader.files())
+  const patchData = await buildModPatch(modId, reader.files(), { settingKey })
   await reader.cleanup()
 
-  const patchProjectPath = `patches/compatibility/${prefix ? prefix + '/' : ''}${modId}.json`
-  const patchPath = path.resolve(__dirname, `../src/assets/fastbreeding/${patchProjectPath}`)
+  const patchPath = path.resolve(__dirname, `../src/assets/fastbreeding/patches/${patchProjectPath}`)
 
   await fs.writeFile(patchPath, stringify(patchData.patches, { cmp: sortedKeys, space: '  ' }) + '\n')
 
   const configLibFile = path.resolve(__dirname, '../src/assets/fastbreeding/config/configlib-patches.json')
   const configLibData = JSON.parse(await fs.readFile(configLibFile, 'utf8'))
 
-  const outputKey = `fastbreeding:${patchProjectPath}`
+  const outputKey = `fastbreeding:patches/${patchProjectPath}`
   configLibData.patches.integer[outputKey] = patchData.configLib
 
   return fs.writeFile(configLibFile, stringify(configLibData, { cmp: sortedKeys, space: '  ' }) + '\n')

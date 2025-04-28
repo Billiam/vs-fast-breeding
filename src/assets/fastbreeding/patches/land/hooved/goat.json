@@ -8,19 +8,19 @@
   {
     "file": "game:entities/land/hooved/goat.json",
     "op": "replace",
-    "path": "/server/behaviors/9/pregnancyDays",
-    "value": 10
+    "path": "/server/behaviors/9/multiplyCooldownDaysMax",
+    "value": 6
   },
   {
     "file": "game:entities/land/hooved/goat.json",
     "op": "replace",
     "path": "/server/behaviors/9/multiplyCooldownDaysMin",
-    "value": 4
+    "value": 2
   },
   {
     "file": "game:entities/land/hooved/goat.json",
     "op": "replace",
-    "path": "/server/behaviors/9/multiplyCooldownDaysMax",
-    "value": 11
+    "path": "/server/behaviors/9/pregnancyDays",
+    "value": 10
   }
 ]

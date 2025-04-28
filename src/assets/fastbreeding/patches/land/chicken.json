@@ -14,13 +14,19 @@
   {
     "file": "game:entities/land/chicken-hen.json",
     "op": "replace",
-    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
-    "value": 0
+    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
+    "value": 2
   },
   {
     "file": "game:entities/land/chicken-hen.json",
     "op": "replace",
-    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
-    "value": 2
+    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
+    "value": 0
+  },
+  {
+    "file": "game:entities/land/chicken-rooster.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 40
   }
 ]

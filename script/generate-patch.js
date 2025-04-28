@@ -20,10 +20,11 @@ const opts = options.reduce((list, option) => {
   }, {})
 
 ;(async () => {
-  const modDir = mods[0]
+  const modArgs = mods[0].endsWith('.json') ? mods : mods[0]
 
-  if (!modDir) {
-    throw new Error('Mod directory is required and must exist')
+  if (!modArgs) {
+    throw new Error('Mod directory or file paths are required')
   }
-  patch(modDir)
+
+  patch(modArgs, { overrideModId: opts.mod, patchOutput: opts.patch, settingKey: opts['setting-key'] })
 })()

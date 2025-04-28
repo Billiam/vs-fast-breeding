@@ -7,7 +7,9 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "update": "node script/update-all"
+    "update": "node script/update-all",
+    "generate-patch": "node script/generate-patch",
+    "generate-patches": "node script/generate-patches"
   },
   "dependencies": {
     "glob": "^11.0.2",

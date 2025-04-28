@@ -397,27 +397,28 @@
       },
       "fastbreeding:patches/land/chicken.json": {
         "0/value": "max(1, round(CHICKEN_CYCLE * 128))",
-        "1/value": "round(CHICKEN_CYCLE * 72)",
-        "2/value": "greater(CHICKEN_CYCLE, 1.0, ceiling(CHICKEN_CYCLE - 1), 0)",
-        "3/value": "round(CHICKEN_CYCLE * 3)"
+        "1/value": "max(1, round(CHICKEN_CYCLE * 72))",
+        "2/value": "round(CHICKEN_CYCLE * 3)",
+        "3/value": "greater(CHICKEN_CYCLE, 1.0, ceiling(CHICKEN_CYCLE - 1), 0)",
+        "4/value": "max(1, round(CHICKEN_CYCLE * 80))"
       },
       "fastbreeding:patches/land/hooved/goat.json": {
         "0/value": "max(1, round(GOAT_CYCLE * 336))",
-        "1/value": "round(GOAT_CYCLE * 20)",
+        "1/value": "round(GOAT_CYCLE * 11)",
         "2/value": "round(GOAT_CYCLE * 4)",
-        "3/value": "round(GOAT_CYCLE * 11)"
+        "3/value": "round(GOAT_CYCLE * 20)"
       },
       "fastbreeding:patches/land/pig-wild.json": {
-        "0/value": "max(1, round(PIG_CYCLE * 168))",
-        "1/value": "round(PIG_CYCLE * 50)",
-        "2/value": "round(PIG_CYCLE * 6)",
-        "3/value": "round(PIG_CYCLE * 11)"
+        "0/value": "round(PIG_CYCLE * 11)",
+        "1/value": "round(PIG_CYCLE * 6)",
+        "2/value": "round(PIG_CYCLE * 25)",
+        "3/value": "max(1, round(PIG_CYCLE * 168))"
       },
       "fastbreeding:patches/land/sheep-bighorn.json": {
-        "0/value": "max(1, round(SHEEP_CYCLE * 336))",
-        "1/value": "round(SHEEP_CYCLE * 20)",
-        "2/value": "round(SHEEP_CYCLE * 4)",
-        "3/value": "round(SHEEP_CYCLE * 11)"
+        "0/value": "round(SHEEP_CYCLE * 11)",
+        "1/value": "round(SHEEP_CYCLE * 4)",
+        "2/value": "round(SHEEP_CYCLE * 20)",
+        "3/value": "max(1, round(SHEEP_CYCLE * 336))"
       }
     }
   },
@@ -653,5 +654,5 @@
       }
     }
   },
-  "version": 0
+  "version": 1
 }
