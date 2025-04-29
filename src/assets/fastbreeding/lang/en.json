@@ -1,6 +1,6 @@
 {
   "reduce-drops": "Reduce drops by breeding rate",
-  "reduce-drop-comment": "Animal drops will be reduced to compensate for faster breeding times",
+  "reduce-drops-comment": "Animal drops will be reduced to compensate for faster breeding times",
   "chicken-cycle": "Chicken breeding rate",
   "hare-cycle": "Hare breeding rate",
   "pig-cycle": "Pig breeding rate",
@@ -21,5 +21,6 @@
   "spheniscidae-cycle": "Spheniscidae breeding rate",
   "viverridae-cycle": "Viverridae breeding rate",
   "vombatidae-cycle": "Vombatidae breeding rate",
-  "cycle-comment": "Lower = faster, default: 1.0"
+  "cycle-comment": "Lower = faster, default: 1.0",
+  "fotsa": "Fauna of the Stone Age"
 }
