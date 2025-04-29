@@ -5,6 +5,138 @@
         "modId": "pantherinae"
       }
     ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-diardi-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-diardi-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-nebulosa-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-nebulosa-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-diardi-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-diardi-*/var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-nebulosa-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-nebulosa-*/var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-neofelis-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDays",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
     "file": "pantherinae:entities/land/pantherinae-neofelis-carcass.json",
     "op": "replace",
     "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
@@ -93,9 +225,20 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-diardi-*/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-atrox-*/avg",
+    "value": 19
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-atrox-*/var",
     "value": 2
   },
   {
@@ -104,10 +247,10 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-diardi-*/var",
-    "value": 1
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-leo-*/avg",
+    "value": 15
   },
   {
     "dependsOn": [
@@ -115,9 +258,9 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-nebulosa-*/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-leo-*/var",
     "value": 2
   },
   {
@@ -126,9 +269,273 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-nebulosa-*/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-onca-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-onca-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-pardus-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-pardus-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-spelaea-*/avg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-spelaea-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-tigris-*/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-tigris-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-uncia-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-uncia-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-atrox-*/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-atrox-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-leo-*/avg",
+    "value": 21
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-leo-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-onca-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-onca-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-pardus-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-pardus-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-spelaea-*/avg",
+    "value": 22
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-spelaea-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-tigris-*/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-tigris-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-uncia-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-uncia-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-onca-*/avg",
     "value": 1
   },
   {
@@ -137,20 +544,9 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-diardi-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-diardi-*/var",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-onca-*/var",
     "value": 0.3
   },
   {
@@ -159,9 +555,9 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-nebulosa-*/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-pardus-*/avg",
     "value": 1
   },
   {
@@ -170,9 +566,9 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-nebulosa-*/var",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-pardus-*/var",
     "value": 0.3
   },
   {
@@ -181,7 +577,51 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-uncia-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-uncia-*/var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*/var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "pantherinae"
+      }
+    ],
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*/avg",
     "value": 1
@@ -192,7 +632,7 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMax",
     "value": 6
@@ -203,7 +643,7 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMin",
     "value": 2
@@ -214,9 +654,9 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-female.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDays",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
     "value": 9
   },
   {
@@ -225,10 +665,10 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-male.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-diardi-*/avg",
-    "value": 2
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-atrox-*",
+    "value": 12
   },
   {
     "dependsOn": [
@@ -236,10 +676,10 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-male.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-diardi-*/var",
-    "value": 1
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-leo-*",
+    "value": 11
   },
   {
     "dependsOn": [
@@ -247,10 +687,10 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-male.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-nebulosa-*/avg",
-    "value": 2
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-onca-*",
+    "value": 9
   },
   {
     "dependsOn": [
@@ -258,10 +698,10 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-male.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-nebulosa-*/var",
-    "value": 1
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pardus-*",
+    "value": 9
   },
   {
     "dependsOn": [
@@ -269,10 +709,10 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-male.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-diardi-*/avg",
-    "value": 1
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-spelaea-*",
+    "value": 12
   },
   {
     "dependsOn": [
@@ -280,10 +720,10 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-male.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-diardi-*/var",
-    "value": 0.3
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tigris-*",
+    "value": 10
   },
   {
     "dependsOn": [
@@ -291,32 +731,10 @@
         "modId": "pantherinae"
       }
     ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-male.json",
+    "file": "pantherinae:entities/land/pantherinae-panthera-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-nebulosa-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-nebulosa-*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-neofelis-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*/avg",
-    "value": 1
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-uncia-*",
+    "value": 9
   },
   {
     "dependsOn": [
@@ -482,621 +900,5 @@
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*-uncia-*",
     "value": 219
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-atrox-*/avg",
-    "value": 19
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-atrox-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-leo-*/avg",
-    "value": 15
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-leo-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-onca-*/avg",
-    "value": 6
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-onca-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-pardus-*/avg",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-pardus-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-spelaea-*/avg",
-    "value": 16
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-spelaea-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-tigris-*/avg",
-    "value": 15
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-tigris-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-uncia-*/avg",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-uncia-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-onca-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-onca-*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-pardus-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-pardus-*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-uncia-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-uncia-*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*/avg",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
-    "value": 6
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*",
-    "value": 9
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-atrox-*",
-    "value": 12
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-leo-*",
-    "value": 11
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-onca-*",
-    "value": 9
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-pardus-*",
-    "value": 9
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-spelaea-*",
-    "value": 12
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-tigris-*",
-    "value": 10
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-uncia-*",
-    "value": 9
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-atrox-*/avg",
-    "value": 24
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-atrox-*/var",
-    "value": 3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-leo-*/avg",
-    "value": 21
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-leo-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-onca-*/avg",
-    "value": 7
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-onca-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-pardus-*/avg",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-pardus-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-spelaea-*/avg",
-    "value": 22
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-spelaea-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-tigris-*/avg",
-    "value": 20
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-tigris-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-uncia-*/avg",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-uncia-*/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-onca-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-onca-*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-pardus-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-pardus-*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-uncia-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-uncia-*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*/avg",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pantherinae"
-      }
-    ],
-    "file": "pantherinae:entities/land/pantherinae-panthera-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*/avg",
-    "value": 1
   }
 ]
