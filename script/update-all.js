@@ -67,10 +67,14 @@ const updateMod = async (modId, lastVersion) => {
   const modIds = Object.keys(modVersions.mods)
   for (const modId of modIds) {
     //TODO: limit updates to targeted VS versions
-    const lastVersion = opts.force ? null : modVersions.mods[modId]
-    const newVersion = await updateMod(modId, lastVersion)
-    if (newVersion) {
-      modVersions.mods[modId] = newVersion
+    try {
+      const lastVersion = opts.force ? null : modVersions.mods[modId]
+      const newVersion = await updateMod(modId, lastVersion)
+      if (newVersion) {
+        modVersions.mods[modId] = newVersion
+      }
+    } catch (err) {
+      console.error(`Error updating mod (${modId}):`, err.message)
     }
   }
 
