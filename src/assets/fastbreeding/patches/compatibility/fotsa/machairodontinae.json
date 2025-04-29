@@ -5,6 +5,226 @@
         "modId": "machairodontinae"
       }
     ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-homotherium-serum/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-homotherium-serum/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-smilodon-fatalis/avg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-smilodon-fatalis/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-smilodon-populator/avg",
+    "value": 23
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-female-smilodon-populator/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-homotherium-serum/avg",
+    "value": 21
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-homotherium-serum/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-smilodon-fatalis/avg",
+    "value": 23
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-smilodon-fatalis/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-smilodon-populator/avg",
+    "value": 25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-male-smilodon-populator/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*/var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-fatalis",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-populator",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
+    "file": "machairodontinae:entities/land/machairodontinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-serum",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "machairodontinae"
+      }
+    ],
     "file": "machairodontinae:entities/land/machairodontinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*/avg",
@@ -86,269 +306,5 @@
     "op": "replace",
     "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
     "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-fatalis/avg",
-    "value": 16
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-fatalis/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-populator/avg",
-    "value": 23
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-populator/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-serum/avg",
-    "value": 15
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-serum/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*/avg",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
-    "value": 6
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-fatalis",
-    "value": 12
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-populator",
-    "value": 13
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-serum",
-    "value": 12
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-fatalis/avg",
-    "value": 23
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-fatalis/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-populator/avg",
-    "value": 25
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-populator/var",
-    "value": 3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-serum/avg",
-    "value": 21
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-serum/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*/avg",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*/var",
-    "value": 0.3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "machairodontinae"
-      }
-    ],
-    "file": "machairodontinae:entities/land/machairodontinae-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/3/quantityByType/*-populator/avg",
-    "value": 0.1
   }
 ]
