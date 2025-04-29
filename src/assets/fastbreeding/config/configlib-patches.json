@@ -893,6 +893,26 @@
         "30/value": "round(FELINAE_CYCLE * 12)",
         "31/value": "round(FELINAE_CYCLE * 12)"
       },
+      "fastbreeding:patches/compatibility/fotsa/iniidae.json": {
+        "0/value": "round(INIIDAE_CYCLE * 25)",
+        "1/value": "round(INIIDAE_CYCLE * 2)",
+        "2/value": "round(INIIDAE_CYCLE * 20)",
+        "3/value": "round(INIIDAE_CYCLE * 2)",
+        "4/value": "round(INIIDAE_CYCLE * 1)",
+        "5/value": "round(INIIDAE_CYCLE * 7)",
+        "6/value": "round(INIIDAE_CYCLE * 1)",
+        "7/value": "round(INIIDAE_CYCLE * 5.5)",
+        "8/value": "round(INIIDAE_CYCLE * 0.5)",
+        "9/value": "round(INIIDAE_CYCLE * 81)",
+        "10/value": "round(INIIDAE_CYCLE * 73)",
+        "11/value": "round(INIIDAE_CYCLE * 60)",
+        "12/value": "round(INIIDAE_CYCLE * 8.5)",
+        "13/value": "round(INIIDAE_CYCLE * 0.5)",
+        "14/value": "round(INIIDAE_CYCLE * 1)",
+        "15/value": "round(INIIDAE_CYCLE * 1)",
+        "16/value": "round(INIIDAE_CYCLE * 0.3)",
+        "17/value": "max(1, round(INIIDAE_CYCLE * 700))"
+      },
       "fastbreeding:patches/compatibility/fotsa/machairodontinae.json": {
         "0/value": "round(MACHAIRODONTINAE_CYCLE * 2)",
         "1/value": "round(MACHAIRODONTINAE_CYCLE * 1)",
@@ -1714,6 +1734,18 @@
         },
         "weight": 3
       },
+      "INIIDAE_CYCLE": {
+        "comment": "cycle-comment",
+        "default": 0.5,
+        "ingui": "fastbreeding:iniidae-cycle",
+        "logarithmic": true,
+        "name": "iniidae-cycle",
+        "range": {
+          "max": 10,
+          "min": 0
+        },
+        "weight": 107
+      },
       "MACHAIRODONTINAE_CYCLE": {
         "comment": "cycle-comment",
         "default": 0.5,
@@ -1724,7 +1756,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 107
+        "weight": 108
       },
       "MANIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1736,7 +1768,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 108
+        "weight": 109
       },
       "MEIOLANIIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1748,7 +1780,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 109
+        "weight": 110
       },
       "PANTHERINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1760,7 +1792,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 110
+        "weight": 111
       },
       "PIG_CYCLE": {
         "comment": "cycle-comment",
@@ -1784,7 +1816,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 111
+        "weight": 112
       },
       "SHEEP_CYCLE": {
         "comment": "cycle-comment",
@@ -1808,7 +1840,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 112
+        "weight": 113
       },
       "SPHENISCIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1820,7 +1852,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 113
+        "weight": 114
       },
       "THYLACINIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1832,7 +1864,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 114
+        "weight": 115
       },
       "VIVERRIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1844,7 +1876,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 115
+        "weight": 116
       },
       "VOMBATIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1856,7 +1888,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 116
+        "weight": 117
       }
     }
   },
