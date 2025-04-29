@@ -12,6 +12,14 @@ import { finished } from 'stream/promises'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
+const options = process.argv.slice(2).filter(arg => arg.startsWith('--'))
+
+const opts = options.reduce((list, option) => {
+  const parsed = option.match(/^--([^=]+)(?:=(.*))?/)
+  list[parsed[1]] = parsed[2] === '' || parsed[2] == null ? true : parsed[2]
+  return list
+}, {})
+
 const downloadZip = async (url, filename) => {
   console.log('Fetching', url)
   const tmpDirPath = path.resolve(__dirname, '../tmp')
@@ -24,7 +32,7 @@ const downloadZip = async (url, filename) => {
   if (!existsSync(tmpDirPath)) {
     await fs.mkdir(tmpDirPath)
   }
-  
+
   const res = await fetch(url, { redirect: 'follow' })
 
   const fileStream = createWriteStream(destination, { flags: 'w' })
@@ -59,10 +67,12 @@ const updateMod = async (modId, lastVersion) => {
   const modIds = Object.keys(modVersions.mods)
   for (const modId of modIds) {
     //TODO: limit updates to targeted VS versions
-    const newVersion = await updateMod(modId, modVersions.mods[modId])
+    const lastVersion = opts.force ? null : modVersions.mods[modId]
+    const newVersion = await updateMod(modId, lastVersion)
     if (newVersion) {
       modVersions.mods[modId] = newVersion
     }
   }
+
   return fs.writeFile(modsConfigPath, stringify(modVersions, { space: '  ' }) + '\n')
 })()

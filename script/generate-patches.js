@@ -45,8 +45,8 @@ const patchList = [
 ]
 
 const opts = options.reduce((list, option) => {
-    const parsed = option.match(/^--(.*?)=(.*)/)
-    list[parsed[1]] = parsed[2]
+    const parsed = option.match(/^--([^=]+)(?:=(.*))?/)
+    list[parsed[1]] = parsed[2] === '' || parsed[2] == null ? true : parsed[2]
     return list
   }, {})
 

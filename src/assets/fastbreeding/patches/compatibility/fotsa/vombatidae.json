@@ -7,7 +7,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-zygomaturustrilobusavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-zygomaturustrilobus/avg",
     "value": 18
   },
   {
@@ -18,7 +18,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-zygomaturustrilobusvar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-zygomaturustrilobus/var",
     "value": 1
   },
   {
@@ -29,7 +29,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-zygomaturustrilobusavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-zygomaturustrilobus/avg",
     "value": 25
   },
   {
@@ -40,7 +40,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-zygomaturustrilobusvar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-zygomaturustrilobus/var",
     "value": 1
   },
   {
@@ -51,7 +51,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-zygomaturustrilobusavg",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-zygomaturustrilobus/avg",
     "value": 18
   },
   {
@@ -62,7 +62,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-zygomaturustrilobusvar",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-zygomaturustrilobus/var",
     "value": 1
   },
   {
@@ -73,7 +73,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-zygomaturustrilobusavg",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-zygomaturustrilobus/avg",
     "value": 25
   },
   {
@@ -84,7 +84,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-zygomaturustrilobusvar",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-zygomaturustrilobus/var",
     "value": 1
   },
   {
@@ -95,7 +95,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-zygomaturustrilobusavg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-zygomaturustrilobus/avg",
     "value": 7.5
   },
   {
@@ -106,7 +106,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-zygomaturustrilobusvar",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-zygomaturustrilobus/var",
     "value": 0.5
   },
   {
@@ -117,7 +117,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-zygomaturustrilobusavg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-zygomaturustrilobus/avg",
     "value": 10
   },
   {
@@ -128,7 +128,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-zygomaturustrilobusvar",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-zygomaturustrilobus/var",
     "value": 1
   },
   {
@@ -139,7 +139,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*avg",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*/avg",
     "value": 1
   },
   {
@@ -183,7 +183,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-zygomaturustrilobusavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-zygomaturustrilobus/avg",
     "value": 3
   },
   {
@@ -194,7 +194,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-zygomaturustrilobusvar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-zygomaturustrilobus/var",
     "value": 0.5
   },
   {
@@ -205,7 +205,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-zygomaturustrilobusavg",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-zygomaturustrilobus/avg",
     "value": 3
   },
   {
@@ -216,7 +216,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-zygomaturustrilobusvar",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-zygomaturustrilobus/var",
     "value": 0.5
   },
   {
@@ -227,7 +227,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*avg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*/avg",
     "value": 3
   },
   {
@@ -238,7 +238,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*var",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*/var",
     "value": 0.5
   },
   {
@@ -249,7 +249,7 @@
     ],
     "file": "vombatidae:entities/land/diprotodontidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/3/quantityByType/*-baby-*avg",
+    "path": "/server/behaviors/drops/3/quantityByType/*-baby-*/avg",
     "value": 1
   },
   {
@@ -271,7 +271,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-thylacoleocarnifexavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-thylacoleocarnifex/avg",
     "value": 14
   },
   {
@@ -282,7 +282,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-thylacoleocarnifexvar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-thylacoleocarnifex/var",
     "value": 1
   },
   {
@@ -293,7 +293,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*avg",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*/avg",
     "value": 1
   },
   {
@@ -304,7 +304,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-thylacoleocarnifexavg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-thylacoleocarnifex/avg",
     "value": 2.5
   },
   {
@@ -315,7 +315,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-thylacoleocarnifexvar",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-thylacoleocarnifex/var",
     "value": 0.5
   },
   {
@@ -326,7 +326,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/3/quantityByType/*-adult-female-*avg",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-female-*/avg",
     "value": 0.05
   },
   {
@@ -337,7 +337,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/*-adult-female-*avg",
+    "path": "/server/behaviors/drops/4/quantityByType/*-adult-female-*/avg",
     "value": 0.05
   },
   {
@@ -381,7 +381,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*avg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*/avg",
     "value": 2.5
   },
   {
@@ -392,7 +392,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*var",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*/var",
     "value": 0.5
   },
   {
@@ -403,7 +403,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*avg",
+    "path": "/server/behaviors/drops/1/quantityByType/*/avg",
     "value": 1
   },
   {
@@ -414,7 +414,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*avg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*/avg",
     "value": 1
   },
   {
@@ -425,7 +425,7 @@
     ],
     "file": "vombatidae:entities/land/thylacoleonidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*var",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*/var",
     "value": 0.3
   },
   {
@@ -447,7 +447,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lasiorhinuskrefftiiavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lasiorhinuskrefftii/avg",
     "value": 4
   },
   {
@@ -458,7 +458,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lasiorhinuskrefftiivar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lasiorhinuskrefftii/var",
     "value": 1
   },
   {
@@ -469,7 +469,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lasiorhinuslatifronsavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lasiorhinuslatifrons/avg",
     "value": 3
   },
   {
@@ -480,7 +480,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lasiorhinuslatifronsvar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lasiorhinuslatifrons/var",
     "value": 1
   },
   {
@@ -491,7 +491,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-phascolonusgigasavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-phascolonusgigas/avg",
     "value": 11.5
   },
   {
@@ -502,7 +502,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-phascolonusgigasvar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-phascolonusgigas/var",
     "value": 1.5
   },
   {
@@ -513,7 +513,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-vombatushackettiavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-vombatushacketti/avg",
     "value": 1
   },
   {
@@ -524,7 +524,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-vombatushackettivar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-vombatushacketti/var",
     "value": 0.3
   },
   {
@@ -535,7 +535,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-vombatusursinusavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-vombatusursinus/avg",
     "value": 3
   },
   {
@@ -546,7 +546,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-vombatusursinusvar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-vombatusursinus/var",
     "value": 1
   },
   {
@@ -557,7 +557,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-phascolonusgigasavg",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-phascolonusgigas/avg",
     "value": 11.5
   },
   {
@@ -568,7 +568,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-phascolonusgigasvar",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-phascolonusgigas/var",
     "value": 1.5
   },
   {
@@ -579,7 +579,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-lasiorhinuskrefftiiavg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-lasiorhinuskrefftii/avg",
     "value": 1
   },
   {
@@ -590,7 +590,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-lasiorhinuskrefftiivar",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-lasiorhinuskrefftii/var",
     "value": 0.3
   },
   {
@@ -601,7 +601,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-lasiorhinuslatifronsavg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-lasiorhinuslatifrons/avg",
     "value": 1
   },
   {
@@ -612,7 +612,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-lasiorhinuslatifronsvar",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-lasiorhinuslatifrons/var",
     "value": 0.3
   },
   {
@@ -623,7 +623,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-phascolonusgigasavg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-phascolonusgigas/avg",
     "value": 4.5
   },
   {
@@ -634,7 +634,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-phascolonusgigasvar",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-phascolonusgigas/var",
     "value": 0.5
   },
   {
@@ -645,7 +645,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-vombatushackettiavg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-vombatushacketti/avg",
     "value": 1
   },
   {
@@ -656,7 +656,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-vombatushackettivar",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-vombatushacketti/var",
     "value": 0.3
   },
   {
@@ -667,7 +667,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-vombatusursinusavg",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-vombatusursinus/avg",
     "value": 1
   },
   {
@@ -678,7 +678,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-vombatusursinusvar",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*-vombatusursinus/var",
     "value": 0.3
   },
   {
@@ -689,7 +689,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*avg",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*/avg",
     "value": 1
   },
   {
@@ -700,7 +700,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/*-adult-female-*avg",
+    "path": "/server/behaviors/drops/4/quantityByType/*-adult-female-*/avg",
     "value": 0.05
   },
   {
@@ -711,7 +711,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/5/quantityByType/*-adult-female-*avg",
+    "path": "/server/behaviors/drops/5/quantityByType/*-adult-female-*/avg",
     "value": 0.05
   },
   {
@@ -755,7 +755,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-phascolonusgigasavg",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-phascolonusgigas/avg",
     "value": 1.5
   },
   {
@@ -766,7 +766,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-phascolonusgigasvar",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-phascolonusgigas/var",
     "value": 0.5
   },
   {
@@ -777,7 +777,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*var",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*/var",
     "value": 0.3
   },
   {
@@ -788,7 +788,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-phascolonusgigasavg",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-phascolonusgigas/avg",
     "value": 1.5
   },
   {
@@ -799,7 +799,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-phascolonusgigasvar",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-phascolonusgigas/var",
     "value": 0.5
   },
   {
@@ -810,7 +810,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*var",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*/var",
     "value": 0.3
   },
   {
@@ -821,7 +821,7 @@
     ],
     "file": "vombatidae:entities/land/vombatidae-baby.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/3/quantityByType/*-phascolonusgigasavg",
+    "path": "/server/behaviors/drops/3/quantityByType/*-phascolonusgigas/avg",
     "value": 1
   },
   {

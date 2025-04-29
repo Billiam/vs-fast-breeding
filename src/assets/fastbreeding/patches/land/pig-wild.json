@@ -2,25 +2,25 @@
   {
     "file": "game:entities/land/pig-wild-female.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityavg",
+    "path": "/server/behaviors/drops/0/quantity/avg",
     "value": 9
   },
   {
     "file": "game:entities/land/pig-wild-female.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityvar",
+    "path": "/server/behaviors/drops/0/quantity/var",
     "value": 1.5
   },
   {
     "file": "game:entities/land/pig-wild-female.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityavg",
+    "path": "/server/behaviors/drops/1/quantity/avg",
     "value": 1.5
   },
   {
     "file": "game:entities/land/pig-wild-female.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityavg",
+    "path": "/server/behaviors/drops/2/quantity/avg",
     "value": 2
   },
   {
@@ -44,37 +44,37 @@
   {
     "file": "game:entities/land/pig-wild-male.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityavg",
+    "path": "/server/behaviors/drops/0/quantity/avg",
     "value": 9
   },
   {
     "file": "game:entities/land/pig-wild-male.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityvar",
+    "path": "/server/behaviors/drops/0/quantity/var",
     "value": 1.5
   },
   {
     "file": "game:entities/land/pig-wild-male.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityavg",
+    "path": "/server/behaviors/drops/1/quantity/avg",
     "value": 1.5
   },
   {
     "file": "game:entities/land/pig-wild-male.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityavg",
+    "path": "/server/behaviors/drops/2/quantity/avg",
     "value": 2
   },
   {
     "file": "game:entities/land/pig-wild-piglet.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityavg",
+    "path": "/server/behaviors/drops/0/quantity/avg",
     "value": 1.5
   },
   {
     "file": "game:entities/land/pig-wild-piglet.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityavg",
+    "path": "/server/behaviors/drops/1/quantity/avg",
     "value": 1
   },
   {

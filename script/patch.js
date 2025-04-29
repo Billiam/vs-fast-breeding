@@ -68,7 +68,7 @@ export const filePatch = async (modId, filename, fileData, settingKey) => {
               const quantityPath = childKey ? `${dropPrefix}/${childKey}` : dropPrefix
               Object.entries(childValue).forEach(([quantityKey, quantityValue]) => {
                 if (quantityValue > 0) {
-                  const patch = buildPatch(patchPath, modId, quantityPath, quantityKey, quantityValue, settingKey)
+                  const patch = buildPatch(patchPath, modId, quantityPath + '/', quantityKey, quantityValue, settingKey)
                   // remove rounding, not needed for drops
                   patch.value = quantityValue
                   patches.push(patch)

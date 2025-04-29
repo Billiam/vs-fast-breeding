@@ -8,13 +8,13 @@
   {
     "file": "game:entities/land/hare-female.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityavg",
+    "path": "/server/behaviors/drops/0/quantity/avg",
     "value": 2
   },
   {
     "file": "game:entities/land/hare-female.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityavg",
+    "path": "/server/behaviors/drops/1/quantity/avg",
     "value": 0.5
   },
   {
@@ -38,13 +38,13 @@
   {
     "file": "game:entities/land/hare-male.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityavg",
+    "path": "/server/behaviors/drops/0/quantity/avg",
     "value": 2
   },
   {
     "file": "game:entities/land/hare-male.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityavg",
+    "path": "/server/behaviors/drops/1/quantity/avg",
     "value": 0.5
   }
 ]
