@@ -40,7 +40,7 @@ const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
 
   patch.sortKey = `${pathSuffix.replace(/^\d+\//, '')}${key}`
 
-  patch.configLib = configLibValue(settingKey ?? `${modId}_CYCLE`, pathSuffix, value)
+  patch.configLib = configLibValue(settingKey ?? `${modId.toUpperCase()}_CYCLE`, pathSuffix, value)
 
   return patch
 }
@@ -68,7 +68,7 @@ export const filePatch = async (modId, filename, fileData, settingKey) => {
               const quantityPath = childKey ? `${dropPrefix}/${childKey}` : dropPrefix
               Object.entries(childValue).forEach(([quantityKey, quantityValue]) => {
                 if (quantityValue > 0) {
-                  const patch = buildPatch(patchPath, modId, quantityPath + '/', quantityKey, quantityValue, settingKey)
+                  const patch = buildPatch(patchPath, modId, `${suffix}${quantityPath}/`, quantityKey, quantityValue, settingKey)
                   // remove rounding, not needed for drops
                   patch.value = quantityValue
                   patches.push(patch)
