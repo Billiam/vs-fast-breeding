@@ -62,7 +62,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/avg",
     "value": 1
   },
   {
@@ -73,7 +73,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/var",
     "value": 0.5
   },
   {
@@ -84,7 +84,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-adult-*/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-adult-*/var",
     "value": 0.5
   },
   {
@@ -95,7 +95,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-adult-female-aptenodytesforsteri/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-adult-female-aptenodytesforsteri/avg",
     "value": 2
   },
   {
@@ -106,7 +106,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-adult-female-aptenodytesforsteri/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-adult-female-aptenodytesforsteri/var",
     "value": 0.5
   },
   {
@@ -117,7 +117,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-adult-male-aptenodytesforsteri/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-adult-male-aptenodytesforsteri/avg",
     "value": 3
   },
   {
@@ -128,7 +128,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-adult-male-aptenodytesforsteri/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-adult-male-aptenodytesforsteri/var",
     "value": 0.5
   },
   {
@@ -139,7 +139,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-baby-*-aptenodytesforsteri/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-baby-*-aptenodytesforsteri/avg",
     "value": 0.5
   },
   {
@@ -150,7 +150,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-baby-*-aptenodytespatagonicus/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-baby-*-aptenodytespatagonicus/avg",
     "value": 0.75
   },
   {
@@ -161,7 +161,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/spheniscidae-baby-*/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/spheniscidae-baby-*/avg",
     "value": 0.25
   },
   {
@@ -172,7 +172,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/avg",
     "value": 1
   },
   {
@@ -183,7 +183,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/var",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/var",
     "value": 0.5
   },
   {
@@ -194,7 +194,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-adult-*/var",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-adult-*/var",
     "value": 0.5
   },
   {
@@ -205,7 +205,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-adult-female-aptenodytesforsteri/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-adult-female-aptenodytesforsteri/avg",
     "value": 2
   },
   {
@@ -216,7 +216,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-adult-female-aptenodytesforsteri/var",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-adult-female-aptenodytesforsteri/var",
     "value": 0.5
   },
   {
@@ -227,7 +227,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-adult-male-aptenodytesforsteri/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-adult-male-aptenodytesforsteri/avg",
     "value": 3
   },
   {
@@ -238,7 +238,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-adult-male-aptenodytesforsteri/var",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-adult-male-aptenodytesforsteri/var",
     "value": 0.5
   },
   {
@@ -249,7 +249,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-baby-*-aptenodytesforsteri/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-baby-*-aptenodytesforsteri/avg",
     "value": 0.5
   },
   {
@@ -260,7 +260,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-baby-*-aptenodytespatagonicus/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-baby-*-aptenodytespatagonicus/avg",
     "value": 0.75
   },
   {
@@ -271,7 +271,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/spheniscidae-baby-*/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/spheniscidae-baby-*/avg",
     "value": 0.25
   },
   {
@@ -282,7 +282,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*/avg",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-*/avg",
     "value": 1
   },
   {
@@ -293,7 +293,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/3/quantityByType/*-baby-/avg",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-baby-/avg",
     "value": 4
   },
   {
@@ -304,7 +304,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/3/quantityByType/*-baby-/var",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-baby-/var",
     "value": 1
   },
   {
@@ -315,7 +315,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/3/quantityByType/*/avg",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*/avg",
     "value": 15
   },
   {
@@ -326,7 +326,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/3/quantityByType/*/var",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*/var",
     "value": 7
   },
   {
@@ -337,7 +337,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/spheniscidae-adult-*-aptenodytesforsteri/avg",
+    "path": "/server/behaviors/6/drops/4/quantityByType/spheniscidae-adult-*-aptenodytesforsteri/avg",
     "value": 2.3
   },
   {
@@ -348,7 +348,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/spheniscidae-adult-*-aptenodytesforsteri/var",
+    "path": "/server/behaviors/6/drops/4/quantityByType/spheniscidae-adult-*-aptenodytesforsteri/var",
     "value": 0.3
   },
   {
@@ -359,7 +359,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/avg",
+    "path": "/server/behaviors/6/drops/4/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/avg",
     "value": 2.3
   },
   {
@@ -370,7 +370,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/var",
+    "path": "/server/behaviors/6/drops/4/quantityByType/spheniscidae-adult-*-aptenodytespatagonicus/var",
     "value": 0.3
   },
   {
@@ -381,7 +381,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/spheniscidae-adult-*/avg",
+    "path": "/server/behaviors/6/drops/4/quantityByType/spheniscidae-adult-*/avg",
     "value": 1.3
   },
   {
@@ -392,7 +392,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/spheniscidae-adult-*/var",
+    "path": "/server/behaviors/6/drops/4/quantityByType/spheniscidae-adult-*/var",
     "value": 0.3
   },
   {
@@ -403,7 +403,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/spheniscidae-baby-*-aptenodytespatagonicus/avg",
+    "path": "/server/behaviors/6/drops/4/quantityByType/spheniscidae-baby-*-aptenodytespatagonicus/avg",
     "value": 1.3
   },
   {
@@ -414,7 +414,7 @@
     ],
     "file": "spheniscidae:entities/land/spheniscidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/4/quantityByType/spheniscidae-baby-*-aptenodytespatagonicus/var",
+    "path": "/server/behaviors/6/drops/4/quantityByType/spheniscidae-baby-*-aptenodytespatagonicus/var",
     "value": 0.3
   },
   {

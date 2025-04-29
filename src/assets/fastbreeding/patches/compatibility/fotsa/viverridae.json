@@ -7,7 +7,7 @@
     ],
     "file": "viverridae:entities/land/nandiniidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-nandiniabinotata/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-nandiniabinotata/avg",
     "value": 0.5
   },
   {
@@ -18,7 +18,7 @@
     ],
     "file": "viverridae:entities/land/nandiniidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*/var",
     "value": 0.1
   },
   {
@@ -29,7 +29,7 @@
     ],
     "file": "viverridae:entities/land/nandiniidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-*/avg",
     "value": 1
   },
   {
@@ -106,7 +106,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-arctictisbinturong/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-arctictisbinturong/avg",
     "value": 1.5
   },
   {
@@ -117,7 +117,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-arctictisbinturong/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-arctictisbinturong/var",
     "value": 0.5
   },
   {
@@ -128,7 +128,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-civettictiscivetta/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-civettictiscivetta/avg",
     "value": 1.5
   },
   {
@@ -139,7 +139,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-civettictiscivetta/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-civettictiscivetta/var",
     "value": 0.5
   },
   {
@@ -150,7 +150,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-macrogalidiamusschenbroekii/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-macrogalidiamusschenbroekii/avg",
     "value": 1.5
   },
   {
@@ -161,7 +161,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-macrogalidiamusschenbroekii/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-macrogalidiamusschenbroekii/var",
     "value": 0.5
   },
   {
@@ -172,7 +172,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverracivettina/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-viverracivettina/avg",
     "value": 1.5
   },
   {
@@ -183,7 +183,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverracivettina/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-viverracivettina/var",
     "value": 0.5
   },
   {
@@ -194,7 +194,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverramegaspila/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-viverramegaspila/avg",
     "value": 1.5
   },
   {
@@ -205,7 +205,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverramegaspila/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-viverramegaspila/var",
     "value": 0.5
   },
   {
@@ -216,7 +216,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverrazibetha/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-viverrazibetha/avg",
     "value": 1.5
   },
   {
@@ -227,7 +227,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverrazibetha/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-viverrazibetha/var",
     "value": 0.5
   },
   {
@@ -238,7 +238,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*/avg",
     "value": 0.5
   },
   {
@@ -249,7 +249,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*/var",
     "value": 0.1
   },
   {
@@ -260,7 +260,7 @@
     ],
     "file": "viverridae:entities/land/viverridae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-*/avg",
     "value": 1
   },
   {

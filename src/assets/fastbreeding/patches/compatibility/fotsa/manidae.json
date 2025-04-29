@@ -7,7 +7,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-crassicaudata/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-crassicaudata/avg",
     "value": 1
   },
   {
@@ -18,7 +18,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-crassicaudata/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-crassicaudata/var",
     "value": 0.5
   },
   {
@@ -29,7 +29,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-culionensis/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-culionensis/avg",
     "value": 1
   },
   {
@@ -40,7 +40,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-culionensis/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-culionensis/var",
     "value": 0.5
   },
   {
@@ -51,7 +51,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-javanica/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-javanica/avg",
     "value": 1
   },
   {
@@ -62,7 +62,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-javanica/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-javanica/var",
     "value": 0.5
   },
   {
@@ -73,7 +73,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mysteria/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-mysteria/avg",
     "value": 1
   },
   {
@@ -84,7 +84,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mysteria/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-mysteria/var",
     "value": 0.5
   },
   {
@@ -95,7 +95,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-pentadactyla/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-pentadactyla/avg",
     "value": 1
   },
   {
@@ -106,7 +106,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-pentadactyla/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-pentadactyla/var",
     "value": 0.3
   },
   {
@@ -117,7 +117,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-temminckii/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-temminckii/avg",
     "value": 1
   },
   {
@@ -128,7 +128,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-temminckii/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-temminckii/var",
     "value": 0.5
   },
   {
@@ -139,7 +139,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-tetradactyla/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-tetradactyla/avg",
     "value": 1
   },
   {
@@ -150,7 +150,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-tetradactyla/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-tetradactyla/var",
     "value": 0.3
   },
   {
@@ -161,7 +161,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-tricuspis/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-tricuspis/avg",
     "value": 1
   },
   {
@@ -172,7 +172,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-tricuspis/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-tricuspis/var",
     "value": 0.3
   },
   {
@@ -183,7 +183,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-gigantea/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-gigantea/avg",
     "value": 2.5
   },
   {
@@ -194,7 +194,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-gigantea/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-gigantea/var",
     "value": 0.5
   },
   {
@@ -205,7 +205,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-gigantea/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-gigantea/avg",
     "value": 4
   },
   {
@@ -216,7 +216,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-gigantea/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-gigantea/var",
     "value": 0.5
   },
   {
@@ -227,7 +227,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*/var",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*/var",
     "value": 0.3
   },
   {
@@ -238,7 +238,7 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
-    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*/avg",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-*/avg",
     "value": 1
   },
   {
