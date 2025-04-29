@@ -19,6 +19,7 @@
   "rhinocerotidae-cycle": "Rhinocerotidae breeding rate",
   "sirenia-cycle": "Sirenia breeding rate",
   "spheniscidae-cycle": "Spheniscidae breeding rate",
+  "thylacinidae-cycle": "Thylacinidae breeding rate",
   "viverridae-cycle": "Viverridae breeding rate",
   "vombatidae-cycle": "Vombatidae breeding rate",
   "cycle-comment": "Lower = faster, default: 1.0",

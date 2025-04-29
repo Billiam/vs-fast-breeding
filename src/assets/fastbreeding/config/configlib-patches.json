@@ -1361,6 +1361,23 @@
         "40/value": "round(SPHENISCIDAE_CYCLE * 73)",
         "41/value": "round(SPHENISCIDAE_CYCLE * 10)"
       },
+      "fastbreeding:patches/compatibility/fotsa/thylacinidae.json": {
+        "0/value": "round(THYLACINIDAE_CYCLE * 1)",
+        "1/value": "round(THYLACINIDAE_CYCLE * 0.5)",
+        "2/value": "round(THYLACINIDAE_CYCLE * 1)",
+        "3/value": "round(THYLACINIDAE_CYCLE * 0.5)",
+        "4/value": "round(THYLACINIDAE_CYCLE * 1)",
+        "5/value": "round(THYLACINIDAE_CYCLE * 0.05)",
+        "6/value": "round(THYLACINIDAE_CYCLE * 0.05)",
+        "7/value": "round(THYLACINIDAE_CYCLE * 18)",
+        "8/value": "round(THYLACINIDAE_CYCLE * 9)",
+        "9/value": "round(THYLACINIDAE_CYCLE * 28)",
+        "10/value": "round(THYLACINIDAE_CYCLE * 24)",
+        "11/value": "round(THYLACINIDAE_CYCLE * 24)",
+        "12/value": "round(THYLACINIDAE_CYCLE * 0.3)",
+        "13/value": "round(THYLACINIDAE_CYCLE * 1)",
+        "14/value": "max(1, round(THYLACINIDAE_CYCLE * 350))"
+      },
       "fastbreeding:patches/compatibility/fotsa/viverridae.json": {
         "0/value": "round(VIVERRIDAE_CYCLE * 0.5)",
         "1/value": "round(VIVERRIDAE_CYCLE * 0.1)",
@@ -1805,6 +1822,18 @@
         },
         "weight": 113
       },
+      "THYLACINIDAE_CYCLE": {
+        "comment": "cycle-comment",
+        "default": 0.5,
+        "ingui": "fastbreeding:thylacinidae-cycle",
+        "logarithmic": true,
+        "name": "thylacinidae-cycle",
+        "range": {
+          "max": 10,
+          "min": 0
+        },
+        "weight": 114
+      },
       "VIVERRIDAE_CYCLE": {
         "comment": "cycle-comment",
         "default": 0.5,
@@ -1815,7 +1844,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 114
+        "weight": 115
       },
       "VOMBATIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1827,7 +1856,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 115
+        "weight": 116
       }
     }
   },

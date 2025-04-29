@@ -1,0 +1,167 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-sarcophilusharrisii/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-sarcophilusharrisii/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-sarcophiluslaniarius/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-sarcophiluslaniarius/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-*/avg",
+    "value": 0.05
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-female-*/avg",
+    "value": 0.05
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-sarcophilusharrisii",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-sarcophiluslaniarius",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*/var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "thylacinidae"
+      }
+    ],
+    "file": "thylacinidae:entities/land/dasyuridae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*",
+    "value": 175
+  }
+]
