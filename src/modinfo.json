@@ -1,13 +1,15 @@
 {
-	"type": "content",
-	"modid": "fastbreeding",
-	"name": "Fast Breeding",
-	"description": "Alter animal breeding times",
-	"authors": ["Billiam"],
-	"version": "0.0.1",
-	"side": "server",
-	"dependencies": {
-		"game": "1.20.8",
-		"survival": ""
-	}
+  "type": "content",
+  "modid": "fastbreeding",
+  "name": "Fast Breeding",
+  "description": "Alter animal breeding times",
+  "authors": [
+    "Billiam"
+  ],
+  "version": "0.0.1",
+  "side": "server",
+  "dependencies": {
+    "game": "1.20.9",
+    "survival": ""
+  }
 }
