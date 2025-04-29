@@ -3,6 +3,7 @@ import path from 'path'
 import json5 from 'json5'
 import { glob } from 'glob'
 import { fileURLToPath } from 'url'
+import sortedKeys from './lib/sorted-keys.js'
 import stringify from 'json-stable-stringify'
 import StreamZip from 'node-stream-zip'
 
@@ -114,16 +115,6 @@ const buildModPatch = async (modId, files, { settingKey }) => {
   })
 
   return output
-}
-
-const sortedKeys = (a, b) => {
-  const aNumeric = a.key.search(/\D/)
-  const bNumeric = b.key.search(/\D/)
-
-  if (aNumeric > 0 && bNumeric > 0) {
-    return Number(a.key.slice(0, aNumeric)) - Number(b.key.slice(0, bNumeric)) || a.key.slice(aNumeric).localeCompare(b.key.slice(bNumeric))
-  }
-  return a.key.localeCompare(b.key)
 }
 
 class DirectoryModReader {

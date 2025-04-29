@@ -2,12 +2,12 @@
   "formatting": [
     {
       "type": "separator",
-      "weight": 0.99
+      "weight": 1
     },
     {
       "title": "fotsa",
       "type": "separator",
-      "weight": 100
+      "weight": 7
     }
   ],
   "patches": {
@@ -1636,7 +1636,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 101
+        "weight": 8
       },
       "CANINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1648,7 +1648,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 102
+        "weight": 9
       },
       "CAPREOLINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1660,7 +1660,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 103
+        "weight": 10
       },
       "CERVINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1672,7 +1672,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 104
+        "weight": 11
       },
       "CHICKEN_CYCLE": {
         "comment": "cycle-comment",
@@ -1684,7 +1684,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 1
+        "weight": 2
       },
       "ELEPHANTIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1696,7 +1696,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 105
+        "weight": 12
       },
       "FELINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1708,7 +1708,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 106
+        "weight": 13
       },
       "GOAT_CYCLE": {
         "comment": "cycle-comment",
@@ -1720,7 +1720,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 2
+        "weight": 3
       },
       "HARE_CYCLE": {
         "comment": "cycle-comment",
@@ -1732,7 +1732,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 3
+        "weight": 4
       },
       "INIIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1744,7 +1744,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 107
+        "weight": 14
       },
       "MACHAIRODONTINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1756,7 +1756,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 108
+        "weight": 15
       },
       "MANIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1768,7 +1768,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 109
+        "weight": 16
       },
       "MEIOLANIIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1780,7 +1780,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 110
+        "weight": 17
       },
       "PANTHERINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1792,7 +1792,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 111
+        "weight": 18
       },
       "PIG_CYCLE": {
         "comment": "cycle-comment",
@@ -1804,7 +1804,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 4
+        "weight": 5
       },
       "RHINOCEROTIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1816,7 +1816,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 112
+        "weight": 19
       },
       "SHEEP_CYCLE": {
         "comment": "cycle-comment",
@@ -1828,7 +1828,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 5
+        "weight": 6
       },
       "SIRENIA_CYCLE": {
         "comment": "cycle-comment",
@@ -1840,7 +1840,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 113
+        "weight": 20
       },
       "SPHENISCIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1852,7 +1852,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 114
+        "weight": 21
       },
       "THYLACINIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1864,7 +1864,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 115
+        "weight": 22
       },
       "VIVERRIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1876,7 +1876,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 116
+        "weight": 23
       },
       "VOMBATIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -1888,7 +1888,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 117
+        "weight": 24
       }
     }
   },

@@ -8,6 +8,7 @@
   "type": "module",
   "scripts": {
     "build": "script/package.sh",
+    "build-settings": "node script/build-settings",
     "update": "node script/update-all",
     "generate-patch": "node script/generate-patch",
     "generate-patches": "node script/generate-patches"
