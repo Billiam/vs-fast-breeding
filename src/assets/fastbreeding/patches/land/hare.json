@@ -8,6 +8,18 @@
   {
     "file": "game:entities/land/hare-female.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityavg",
+    "value": 2
+  },
+  {
+    "file": "game:entities/land/hare-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityavg",
+    "value": 0.5
+  },
+  {
+    "file": "game:entities/land/hare-female.json",
+    "op": "replace",
     "path": "/server/behaviors/9/multiplyCooldownDaysMax",
     "value": 3
   },
@@ -22,5 +34,17 @@
     "op": "replace",
     "path": "/server/behaviors/9/pregnancyDays",
     "value": 3
+  },
+  {
+    "file": "game:entities/land/hare-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityavg",
+    "value": 2
+  },
+  {
+    "file": "game:entities/land/hare-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityavg",
+    "value": 0.5
   }
 ]

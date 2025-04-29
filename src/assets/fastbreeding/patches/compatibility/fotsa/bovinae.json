@@ -7,6 +7,193 @@
     ],
     "file": "bovinae:entities/land/bovinae-adult.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-bosprimigeniusprimigeniusavg",
+    "value": 34
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-bosprimigeniusprimigeniusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-tragelaphuseurycerusavg",
+    "value": 22
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-tragelaphuseurycerusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-bosprimigeniusprimigeniusavg",
+    "value": 54
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-bosprimigeniusprimigeniusvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-tragelaphuseurycerusavg",
+    "value": 34
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-tragelaphuseurycerusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-bosprimigeniusprimigeniusavg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-bosprimigeniusprimigeniusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-tragelaphuseurycerusavg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-tragelaphuseurycerusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-bosprimigeniusprimigeniusavg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-bosprimigeniusprimigeniusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-tragelaphuseurycerusavg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-tragelaphuseurycerusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-adult.json",
+    "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
     "value": 11
   },
@@ -40,7 +227,128 @@
     ],
     "file": "bovinae:entities/land/bovinae-baby.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-bosprimigeniusprimigeniusavg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-bosprimigeniusprimigeniusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-tragelaphuseurycerusavg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-tragelaphuseurycerusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-bosprimigeniusprimigeniusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-bosprimigeniusprimigeniusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-tragelaphuseurycerusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-tragelaphuseurycerusvar",
+    "value": 0.2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-baby.json",
+    "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*",
     "value": 175
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/land/bovinae-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 2
   }
 ]

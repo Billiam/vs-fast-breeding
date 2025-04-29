@@ -8,6 +8,42 @@
   {
     "file": "game:entities/land/chicken-hen.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-henpoultavg",
+    "value": 1.25
+  },
+  {
+    "file": "game:entities/land/chicken-hen.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-henpoultvar",
+    "value": 0.25
+  },
+  {
+    "file": "game:entities/land/chicken-hen.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 1.75
+  },
+  {
+    "file": "game:entities/land/chicken-hen.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 0.25
+  },
+  {
+    "file": "game:entities/land/chicken-hen.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityavg",
+    "value": 12
+  },
+  {
+    "file": "game:entities/land/chicken-hen.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityvar",
+    "value": 4
+  },
+  {
+    "file": "game:entities/land/chicken-hen.json",
+    "op": "replace",
     "path": "/server/behaviors/8/hoursToGrow",
     "value": 36
   },
@@ -22,6 +58,42 @@
     "op": "replace",
     "path": "/server/behaviors/7/multiplyCooldownDaysMin",
     "value": 0
+  },
+  {
+    "file": "game:entities/land/chicken-rooster.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-roosterpoultavg",
+    "value": 1.25
+  },
+  {
+    "file": "game:entities/land/chicken-rooster.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-roosterpoultvar",
+    "value": 0.25
+  },
+  {
+    "file": "game:entities/land/chicken-rooster.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 1.75
+  },
+  {
+    "file": "game:entities/land/chicken-rooster.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 0.25
+  },
+  {
+    "file": "game:entities/land/chicken-rooster.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityavg",
+    "value": 12
+  },
+  {
+    "file": "game:entities/land/chicken-rooster.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityvar",
+    "value": 4
   },
   {
     "file": "game:entities/land/chicken-rooster.json",

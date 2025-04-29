@@ -7,6 +7,160 @@
     ],
     "file": "cervinae:entities/land/cervini.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-megalocerosgiganteusavg",
+    "value": 35.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-megalocerosgiganteusvar",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-megalocerosgiganteusavg",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-megalocerosgiganteusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-megalocerosgiganteusavg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-megalocerosgiganteusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-megalocerosgiganteusavg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-megalocerosgiganteusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-megalocerosgiganteusavg",
+    "value": 5.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-megalocerosgiganteusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-megalocerosgiganteusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-megalocerosgiganteusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-baby-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cervinae"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini.json",
+    "op": "replace",
     "path": "/server/behaviors/15/hoursToGrowByType/*-megalocerosgiganteus",
     "value": 525
   },

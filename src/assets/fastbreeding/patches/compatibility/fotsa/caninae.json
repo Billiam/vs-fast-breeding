@@ -7,6 +7,17 @@
     ],
     "file": "caninae:entities/land/canina-baby.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-baby.json",
+    "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*-aenocyon-dirus",
     "value": 263
   },
@@ -174,6 +185,633 @@
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*-lycaon-pictus",
     "value": 173
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-aenocyon-dirusavg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-aenocyon-dirusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-aureusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-aureusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-familiarisavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-familiarisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-latransavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-latransvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupastoravg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupastorvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusarctosavg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusarctosvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusdingoavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusdingovar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lycaonavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lycaonvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-rufusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-rufusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-simensisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-simensisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cuon-alpinusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cuon-alpinusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cynotherium-sardousavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cynotherium-sardousvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lupulella-adustaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lupulella-adustavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lupulella-mesomelasavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lupulella-mesomelasvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycaon-pictusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycaon-pictusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-aenocyon-dirusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-aenocyon-dirusvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-familiarisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-familiarisvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-latransavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-latransvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusarctosavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusarctosvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusdingoavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusdingovar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lycaonavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lycaonvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-rufusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-rufusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-simensisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-simensisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-cuon-alpinusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-cuon-alpinusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-lycaon-pictusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-lycaon-pictusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*avg",
+    "value": 1
   },
   {
     "dependsOn": [
@@ -709,6 +1347,710 @@
         "modId": "caninae"
       }
     ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-aenocyon-dirusavg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-aenocyon-dirusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-aureusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-aureusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-familiarisavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-familiarisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-latransavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-latransvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupastoravg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupastorvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusarctosavg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusarctosvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusdingoavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusdingovar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lupusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lycaonavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-lycaonvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-rufusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-rufusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-simensisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-canis-simensisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cuon-alpinusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cuon-alpinusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cynotherium-sardousavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cynotherium-sardousvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lupulella-adustaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lupulella-adustavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lupulella-mesomelasavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lupulella-mesomelasvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycaon-pictusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycaon-pictusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-aenocyon-dirusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-aenocyon-dirusvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-familiarisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-familiarisvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-latransavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-latransvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusarctosavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusarctosvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusdingoavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusdingovar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lupusvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lycaonavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-lycaonvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-rufusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-rufusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-simensisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-canis-simensisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-cuon-alpinusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-cuon-alpinusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-lycaon-pictusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-lycaon-pictusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/canina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-chrysocyon-brachyurusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-chrysocyon-brachyurusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-australisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-australisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-avusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-avusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-pacivorusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-pacivorusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
     "file": "caninae:entities/land/cerdocyonina-baby.json",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*-atelocynus-microtis",
@@ -845,6 +2187,413 @@
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*-speothos-venaticus",
     "value": 88
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-atelocynus-microtisavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-atelocynus-microtisvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cerdocyon-thousavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cerdocyon-thousvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-chrysocyon-brachyurusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-chrysocyon-brachyurusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-australisavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-australisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-avusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-avusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-culpaeusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-culpaeusvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-fulvipesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-fulvipesvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-griseusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-griseusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-gymnocercusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-gymnocercusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-vetulusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-vetulusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-pacivorusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-pacivorusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-venaticusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-venaticusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-chrysocyon-brachyurusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-chrysocyon-brachyurusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-dusicyon-australisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-dusicyon-australisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-dusicyon-avusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-dusicyon-avusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-lycalopex-culpaeusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-lycalopex-culpaeusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-speothos-pacivorusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-speothos-pacivorusvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*avg",
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1248,6 +2997,446 @@
         "modId": "caninae"
       }
     ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-atelocynus-microtisavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-atelocynus-microtisvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cerdocyon-thousavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-cerdocyon-thousvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-chrysocyon-brachyurusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-chrysocyon-brachyurusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-australisavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-australisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-avusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-dusicyon-avusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-culpaeusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-culpaeusvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-fulvipesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-fulvipesvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-griseusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-griseusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-gymnocercusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-gymnocercusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-vetulusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-lycalopex-vetulusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-pacivorusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-pacivorusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-venaticusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-speothos-venaticusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-chrysocyon-brachyurusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-chrysocyon-brachyurusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-dusicyon-australisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-dusicyon-australisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-dusicyon-avusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-dusicyon-avusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-lycalopex-culpaeusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-lycalopex-culpaeusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-speothos-pacivorusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-speothos-pacivorusvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/cerdocyonina-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-cinereoargenteusvar",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-littoralisvar",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-urocyon-cinereoargenteusvar",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-urocyon-littoralisvar",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
     "file": "caninae:entities/land/urocyonini-baby.json",
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*-urocyon-cinereoargenteus",
@@ -1263,6 +3452,105 @@
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*-urocyon-littoralis",
     "value": 73
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-cinereoargenteusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-cinereoargenteusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-littoralisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-littoralisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-urocyon-cinereoargenteusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-urocyon-littoralisvar",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*avg",
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1329,6 +3617,94 @@
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDaysByType/*-urocyon-littoralis",
     "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-cinereoargenteusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-cinereoargenteusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-littoralisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-urocyon-littoralisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-urocyon-cinereoargenteusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-urocyon-littoralisvar",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/urocyonini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1494,6 +3870,369 @@
     "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*-vulpes-zerda",
     "value": 65
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-nyctereutes-procyonoidesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-nyctereutes-procyonoidesvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-nyctereutes-viverrinusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-nyctereutes-viverrinusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-otocyon-megalotisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-otocyon-megalotisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-bengalensisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-bengalensisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-chamaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-chamavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-corsacavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-corsacvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-ferrilataavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-ferrilatavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-lagopusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-lagopusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-pallidaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-pallidavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-veloxavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-veloxvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-vulpesavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-vulpesvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-nyctereutes-procyonoidesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-nyctereutes-procyonoidesvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-nyctereutes-viverrinusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-nyctereutes-viverrinusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-vulpes-ferrilataavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-vulpes-ferrilatavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-vulpes-vulpesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-vulpes-vulpesvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*avg",
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1956,5 +4695,346 @@
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDaysByType/*-zerda",
     "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-nyctereutes-procyonoidesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-nyctereutes-procyonoidesvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-nyctereutes-viverrinusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-nyctereutes-viverrinusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-otocyon-megalotisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-otocyon-megalotisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-bengalensisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-bengalensisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-chamaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-chamavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-corsacavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-corsacvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-ferrilataavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-ferrilatavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-lagopusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-lagopusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-pallidaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-pallidavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-veloxavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-veloxvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-vulpesavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-vulpes-vulpesvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-nyctereutes-procyonoidesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-nyctereutes-procyonoidesvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-nyctereutes-viverrinusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-nyctereutes-viverrinusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-vulpes-ferrilataavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-vulpes-ferrilatavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-vulpes-vulpesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-vulpes-vulpesvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "caninae"
+      }
+    ],
+    "file": "caninae:entities/land/vulpini-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*avg",
+    "value": 1
   }
 ]

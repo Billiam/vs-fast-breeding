@@ -7,6 +7,226 @@
     ],
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-caracalcaracalavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-caracalcaracalvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lynxcanadensisavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lynxcanadensisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lynxlynxavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lynxlynxvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lynxpardinusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-lynxpardinusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*-caracalcaracalavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*-caracalcaracalvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*-lynxcanadensisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*-lynxcanadensisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*-lynxlynxavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*-lynxlynxvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*-lynxpardinusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*-lynxpardinusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-baby-*var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*",
     "value": 175
   },

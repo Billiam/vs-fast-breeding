@@ -2,6 +2,210 @@
   {
     "file": "game:entities/land/hooved/goat.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adultavg",
+    "value": 12
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adultvar",
+    "value": 3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-babyavg",
+    "value": 2
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-babyvar",
+    "value": 1
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/goat-muskox-*-adultavg",
+    "value": 16
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/goat-muskox-*-adultvar",
+    "value": 3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/goat-takingold-*-adultavg",
+    "value": 16
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/goat-takingold-*-adultvar",
+    "value": 3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/goat-muskox-*-adultavg",
+    "value": 1.7
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/goat-takinold-*-adultavg",
+    "value": 1
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-babyavg",
+    "value": 1
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-babyvar",
+    "value": 0.5
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-angora-*-adultavg",
+    "value": 1.2
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-angora-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-ibexalp-*-adultavg",
+    "value": 1.8
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-ibexalp-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-ibexnub-*-adultavg",
+    "value": 1.2
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-ibexnub-*-adultvar",
+    "value": 0.5
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-markhor-*-adultavg",
+    "value": 1.8
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-markhor-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-mountain-*-adultavg",
+    "value": 2
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-mountain-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-muskox-*-adultavg",
+    "value": 3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-muskox-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-nubian-*-adultavg",
+    "value": 1.2
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-nubian-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-sirohi-*-adultavg",
+    "value": 1.2
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-sirohi-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-takingold-*-adultavg",
+    "value": 1.8
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-takingold-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-turdag-*-adultavg",
+    "value": 1.8
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-turdag-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-valais-*-adultavg",
+    "value": 1.2
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/goat-valais-*-adultvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/hooved/goat.json",
+    "op": "replace",
     "path": "/server/behaviors/11/hoursToGrow",
     "value": 168
   },

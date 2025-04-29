@@ -5,6 +5,1634 @@
         "modId": "elephantidae"
       }
     ],
+    "file": "elephantidae:entities/land/elephantidae-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-elephasmaximusavg",
+    "value": 94
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-elephasmaximusborneensisavg",
+    "value": 82
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-elephasmaximusborneensisvar",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-elephasmaximusvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-loxodontaafricanaavg",
+    "value": 106
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-loxodontaafricanavar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-loxodontacyclotisavg",
+    "value": 36
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-loxodontacyclotisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-mammuthuscolumbiavg",
+    "value": 180
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-mammuthuscolumbivar",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-mammuthusexilisavg",
+    "value": 26
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-mammuthusexilisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-mammuthusprimigeniusavg",
+    "value": 114
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-mammuthusprimigeniusvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-palaeoloxodoncypriotesavg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-palaeoloxodoncypriotesvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-elephasmaximusavg",
+    "value": 144
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-elephasmaximusborneensisavg",
+    "value": 126
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-elephasmaximusborneensisvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-elephasmaximusvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-loxodontaafricanaavg",
+    "value": 212
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-loxodontaafricanavar",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-loxodontacyclotisavg",
+    "value": 68
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-loxodontacyclotisvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-mammuthuscolumbiavg",
+    "value": 336
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-mammuthuscolumbivar",
+    "value": 18
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-mammuthusexilisavg",
+    "value": 48
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-mammuthusexilisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-mammuthusprimigeniusavg",
+    "value": 170
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-mammuthusprimigeniusvar",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-palaeoloxodoncypriotesavg",
+    "value": 17
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-palaeoloxodoncypriotesvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-elephasmaximusavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-elephasmaximusborneensisavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-elephasmaximusborneensisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-elephasmaximusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-loxodontaafricanaavg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-loxodontaafricanavar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-loxodontacyclotisavg",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-loxodontacyclotisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-mammuthuscolumbiavg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-mammuthuscolumbivar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-mammuthusexilisavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-mammuthusexilisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-mammuthusprimigeniusavg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-mammuthusprimigeniusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-palaeoloxodoncypriotesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-palaeoloxodoncypriotesvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-elephasmaximusavg",
+    "value": 94
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-elephasmaximusborneensisavg",
+    "value": 82
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-elephasmaximusborneensisvar",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-elephasmaximusvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-loxodontaafricanaavg",
+    "value": 106
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-loxodontaafricanavar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-loxodontacyclotisavg",
+    "value": 36
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-loxodontacyclotisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-mammuthuscolumbiavg",
+    "value": 180
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-mammuthuscolumbivar",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-mammuthusexilisavg",
+    "value": 26
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-mammuthusexilisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-mammuthusprimigeniusavg",
+    "value": 114
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-mammuthusprimigeniusvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-palaeoloxodoncypriotesavg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-palaeoloxodoncypriotesvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-elephasmaximusavg",
+    "value": 144
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-elephasmaximusborneensisavg",
+    "value": 126
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-elephasmaximusborneensisvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-elephasmaximusvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-loxodontaafricanaavg",
+    "value": 212
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-loxodontaafricanavar",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-loxodontacyclotisavg",
+    "value": 68
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-loxodontacyclotisvar",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-mammuthuscolumbiavg",
+    "value": 336
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-mammuthuscolumbivar",
+    "value": 18
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-mammuthusexilisavg",
+    "value": 48
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-mammuthusexilisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-mammuthusprimigeniusavg",
+    "value": 170
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-mammuthusprimigeniusvar",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-palaeoloxodoncypriotesavg",
+    "value": 17
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-palaeoloxodoncypriotesvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-elephasmaximusavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-elephasmaximusborneensisavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-elephasmaximusborneensisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-elephasmaximusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-loxodontaafricanaavg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-loxodontaafricanavar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-loxodontacyclotisavg",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-loxodontacyclotisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-mammuthuscolumbiavg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-mammuthuscolumbivar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-mammuthusexilisavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-mammuthusexilisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-mammuthusprimigeniusavg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-mammuthusprimigeniusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-palaeoloxodoncypriotesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-palaeoloxodoncypriotesvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-elephasmaximusavg",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-elephasmaximusborneensisavg",
+    "value": 32
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-elephasmaximusborneensisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-elephasmaximusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-loxodontaafricanaavg",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-loxodontaafricanavar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-loxodontacyclotisavg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-loxodontacyclotisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-mammuthuscolumbiavg",
+    "value": 71
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-mammuthuscolumbivar",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-mammuthusexilisavg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-mammuthusexilisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-mammuthusprimigeniusavg",
+    "value": 72
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-mammuthusprimigeniusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-palaeoloxodoncypriotesavg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-female-palaeoloxodoncypriotesvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-elephasmaximusavg",
+    "value": 57
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-elephasmaximusborneensisavg",
+    "value": 49
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-elephasmaximusborneensisvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-elephasmaximusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-loxodontaafricanaavg",
+    "value": 85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-loxodontaafricanavar",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-loxodontacyclotisavg",
+    "value": 28
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-loxodontacyclotisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-mammuthuscolumbiavg",
+    "value": 135
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-mammuthuscolumbivar",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-mammuthusexilisavg",
+    "value": 18
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-mammuthusexilisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-mammuthusprimigeniusavg",
+    "value": 106
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-mammuthusprimigeniusvar",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-palaeoloxodoncypriotesavg",
+    "value": 5.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-male-palaeoloxodoncypriotesvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-elephasmaximusavg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-elephasmaximusborneensisavg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-elephasmaximusborneensisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-elephasmaximusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-loxodontaafricanaavg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-loxodontaafricanavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-loxodontacyclotisavg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-loxodontacyclotisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-mammuthuscolumbiavg",
+    "value": 5.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-mammuthuscolumbivar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-mammuthusexilisavg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-mammuthusexilisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-mammuthusprimigeniusavg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-mammuthusprimigeniusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-palaeoloxodoncypriotesavg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*-palaeoloxodoncypriotesvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
+    "file": "elephantidae:entities/land/elephantidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/*-baby-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "elephantidae"
+      }
+    ],
     "file": "elephantidae:entities/land/elephantidae.json",
     "op": "replace",
     "path": "/server/behaviors/15/hoursToGrowByType/*-elephasmaximus",

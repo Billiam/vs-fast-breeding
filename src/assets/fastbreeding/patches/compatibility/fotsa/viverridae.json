@@ -7,6 +7,39 @@
     ],
     "file": "viverridae:entities/land/nandiniidae.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-nandiniabinotataavg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/nandiniidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/nandiniidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/nandiniidae.json",
+    "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*",
     "value": 175
   },
@@ -64,6 +97,171 @@
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDaysByType/*-nandiniabinotata",
     "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-arctictisbinturongavg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-arctictisbinturongvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-civettictiscivettaavg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-civettictiscivettavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-macrogalidiamusschenbroekiiavg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-macrogalidiamusschenbroekiivar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverracivettinaavg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverracivettinavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverramegaspilaavg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverramegaspilavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverrazibethaavg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-viverrazibethavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "viverridae"
+      }
+    ],
+    "file": "viverridae:entities/land/viverridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*avg",
+    "value": 1
   },
   {
     "dependsOn": [

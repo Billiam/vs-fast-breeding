@@ -7,6 +7,1018 @@
     ],
     "file": "sirenia:entities/water/sirenia.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-dugonavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-dugonvar",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-gigasavg",
+    "value": 338
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-gigasvar",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-inunguisavg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-inunguisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-manatusavg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-manatusvar",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-senegalensisavg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-female-senegalensisvar",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-dugonavg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-dugonvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-gigasavg",
+    "value": 275
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-gigasvar",
+    "value": 25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-inunguisavg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-inunguisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-manatusavg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-manatusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-senegalensisavg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-adult-male-senegalensisvar",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-dugonavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-dugonvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-gigasavg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-gigasvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-inunguisavg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-inunguisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-manatusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-manatusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-senegalensisavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/sirenia-baby-*-senegalensisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-dugonavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-dugonvar",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-gigasavg",
+    "value": 338
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-gigasvar",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-inunguisavg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-inunguisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-manatusavg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-manatusvar",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-senegalensisavg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-female-senegalensisvar",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-dugonavg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-dugonvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-gigasavg",
+    "value": 275
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-gigasvar",
+    "value": 25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-inunguisavg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-inunguisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-manatusavg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-manatusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-senegalensisavg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-adult-male-senegalensisvar",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-dugonavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-dugonvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-gigasavg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-gigasvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-inunguisavg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-inunguisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-manatusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-manatusvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-senegalensisavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/sirenia-baby-*-senegalensisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-baby-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-dugonavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-dugonvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-gigasavg",
+    "value": 337
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-gigasvar",
+    "value": 37
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-inunguisavg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-inunguisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-manatusavg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-manatusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-senegalensisavg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-female-senegalensisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-dugonavg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-dugonvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-gigasavg",
+    "value": 225
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-gigasvar",
+    "value": 25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-inunguisavg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-inunguisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-manatusavg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-manatusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-senegalensisavg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-adult-male-senegalensisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-dugonavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-dugonvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-gigasavg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-gigasvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-inunguisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-inunguisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-manatusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-manatusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-senegalensisavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/4/quantityByType/sirenia-baby-*-senegalensisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "sirenia"
+      }
+    ],
+    "file": "sirenia:entities/water/sirenia.json",
+    "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*-dugon",
     "value": 700
   },

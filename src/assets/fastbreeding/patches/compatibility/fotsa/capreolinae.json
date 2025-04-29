@@ -7,6 +7,149 @@
     ],
     "file": "capreolinae:entities/land/alceini.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-alcesalcesavg",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-alcesalcesvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-alcesalcesavg",
+    "value": 32
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-alcesalcesvar",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-alcesalcesavg",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-alcesalcesvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-alcesalcesavg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-female-alcesalcesvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-alcesalcesavg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-male-alcesalcesvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*-alcesalcesvar",
+    "value": 0.2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-baby-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/alceini.json",
+    "op": "replace",
     "path": "/server/behaviors/10/hoursToGrowByType/*-alceini-*",
     "value": 168
   },
@@ -42,6 +185,193 @@
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDaysByType/*-alceini-*",
     "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-capreoluscapreolusavg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-capreoluscapreolusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-capreoluspygargusavg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-capreoluspygargusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-hydropotesinermisavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-hydropotesinermisvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-capreoluscapreolusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-capreoluscapreolusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-capreoluspygargusavg",
+    "value": 1.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-capreoluspygargusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-hydropotesinermisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-hydropotesinermisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-baby-*avg",
+    "value": 0.2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/capreolini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-baby-*avg",
+    "value": 1
   },
   {
     "dependsOn": [
@@ -119,6 +449,1062 @@
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDaysByType/*-hydropotesinermis",
     "value": 19
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/cervidae-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/cervidae-carcass.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamachunyiavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamachunyivar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamagouazoubiraavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamagouazoubiravar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamananaavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamananavar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamanemorivagaavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamanemorivagavar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamarufinaavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamarufinavar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamatemamaavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamatemamavar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamatienhoveniavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mazamatienhovenivar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-blastocerusdichotomusavg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-blastocerusdichotomusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-hippocamelusantisensisavg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-hippocamelusantisensisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-hippocamelusbisulcusavg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-hippocamelusbisulcusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-mazamaamericanaavg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-mazamaamericanavar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-odocoileushemionusavg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-odocoileushemionusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-odocoileuspandoraavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-odocoileuspandoravar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-odocoileusvirginianusavg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-odocoileusvirginianusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-ozotocerosbezoarticusavg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-ozotocerosbezoarticusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-pudellamephistophilesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-pudellamephistophilesvar",
+    "value": 0.2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-pudupudaavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-pudupudavar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-rangifertarandusavg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-rangifertarandusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-blastocerusdichotomusavg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-blastocerusdichotomusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-hippocamelusantisensisavg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-hippocamelusantisensisvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-hippocamelusbisulcusavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-hippocamelusbisulcusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-mazamaamericanaavg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-mazamaamericanavar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-odocoileushemionusavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-odocoileushemionusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-odocoileuspandoraavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-odocoileuspandoravar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-odocoileusvirginianusavg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-odocoileusvirginianusvar",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-ozotocerosbezoarticusavg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-ozotocerosbezoarticusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-pudellamephistophilesavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-pudellamephistophilesvar",
+    "value": 0.2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-pudupudaavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-pudupudavar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-rangifertarandusavg",
+    "value": 22
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-rangifertarandusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-blastocerusdichotomusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-blastocerusdichotomusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-hippocamelusantisensisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-hippocamelusantisensisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-hippocamelusbisulcusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-hippocamelusbisulcusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-mazamaamericanaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-mazamaamericanavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-odocoileushemionusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-odocoileushemionusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-odocoileusvirginianusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-odocoileusvirginianusvar",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-ozotocerosbezoarticusavg",
+    "value": 1.2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-ozotocerosbezoarticusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-rangifertarandusavg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*-rangifertarandusvar",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-blastocerusdichotomusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-blastocerusdichotomusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-hippocamelusantisensisavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-hippocamelusantisensisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-hippocamelusbisulcusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-hippocamelusbisulcusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-mazamaamericanaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-mazamaamericanavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-odocoileushemionusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-odocoileushemionusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-odocoileusvirginianusavg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-odocoileusvirginianusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-ozotocerosbezoarticusavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-ozotocerosbezoarticusvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-rangifertarandusavg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*-rangifertarandusvar",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "capreolinae"
+      }
+    ],
+    "file": "capreolinae:entities/land/odocoileini.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/3/quantityByType/*-baby-*avg",
+    "value": 1
   },
   {
     "dependsOn": [

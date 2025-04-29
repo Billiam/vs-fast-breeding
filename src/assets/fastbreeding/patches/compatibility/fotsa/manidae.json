@@ -7,6 +7,248 @@
     ],
     "file": "manidae:entities/land/manidae.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-crassicaudataavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-crassicaudatavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-culionensisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-culionensisvar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-javanicaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-javanicavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mysteriaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-mysteriavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-pentadactylaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-pentadactylavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-temminckiiavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-temminckiivar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-tetradactylaavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-tetradactylavar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-tricuspisavg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-*-tricuspisvar",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-giganteaavg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-female-giganteavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-giganteaavg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-adult-male-giganteavar",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityByType/*-baby-*var",
+    "value": 0.3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityByType/*-adult-*avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "manidae"
+      }
+    ],
+    "file": "manidae:entities/land/manidae.json",
+    "op": "replace",
     "path": "/server/behaviors/9/hoursToGrowByType/*",
     "value": 175
   },

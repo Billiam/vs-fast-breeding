@@ -2,6 +2,42 @@
   {
     "file": "game:entities/land/sheep-bighorn-female.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityavg",
+    "value": 16
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityvar",
+    "value": 3
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityavg",
+    "value": 1.2
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityvar",
+    "value": 0.2
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityavg",
+    "value": 1
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityvar",
+    "value": 0.3
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-female.json",
+    "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMax",
     "value": 6
   },
@@ -20,7 +56,67 @@
   {
     "file": "game:entities/land/sheep-bighorn-lamb.json",
     "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityavg",
+    "value": 1.5
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-lamb.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityvar",
+    "value": 0.5
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-lamb.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityavg",
+    "value": 1
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-lamb.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityvar",
+    "value": 0.5
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-lamb.json",
+    "op": "replace",
     "path": "/server/behaviors/9/hoursToGrow",
     "value": 168
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityavg",
+    "value": 13
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/0/quantityvar",
+    "value": 3
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityavg",
+    "value": 1.2
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/1/quantityvar",
+    "value": 0.2
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityavg",
+    "value": 1
+  },
+  {
+    "file": "game:entities/land/sheep-bighorn-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/drops/2/quantityvar",
+    "value": 0.3
   }
 ]
