@@ -32,3 +32,4 @@ jobs:
         with:
           commit-message: Update mods
           delete-branch: true
+          title: Scheduled mod update
