@@ -140,7 +140,7 @@
     "file": "vombatidae:entities/land/diprotodontidae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/drops/3/quantityByType/*-adult-*/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
