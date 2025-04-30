@@ -1,21 +1,21 @@
 {
   "mods": {
-    "bovinae": "0.2.2",
+    "bovinae": "0.2.3",
     "caninae": "1.0.32",
     "capreolinae": "1.2.8",
-    "cervinae": "0.1.5",
-    "elephantidae": "1.0.10",
-    "felinae": "0.2.9",
-    "iniidae": "0.1.1",
+    "cervinae": "0.1.6",
+    "elephantidae": "1.0.11",
+    "felinae": "0.2.10",
+    "iniidae": "0.1.2",
     "machairodontinae": "1.0.25",
     "manidae": "1.0.15",
-    "meiolaniidae": "0.1.4",
+    "meiolaniidae": "0.1.5",
     "pantherinae": "1.1.27",
     "rhinocerotidae": "1.0.18",
     "sirenia": "1.0.20",
-    "spheniscidae": "1.0.10",
-    "thylacinidae": "0.1.1",
-    "viverridae": "1.0.3",
-    "vombatidae": "0.4.0"
+    "spheniscidae": "1.0.11",
+    "thylacinidae": "0.1.2",
+    "viverridae": "1.0.4",
+    "vombatidae": "0.4.1"
   }
 }
