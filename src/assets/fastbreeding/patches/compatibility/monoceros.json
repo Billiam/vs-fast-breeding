@@ -1,0 +1,376 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantity/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantity/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrow",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/avg",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantity/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantity/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDays",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantity/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros-indicus-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantity/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-female-indicus/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-female-indicus/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-male-indicus/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-male-indicus/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-indicus/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-indicus/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-female-indicus/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-female-indicus/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-male-indicus/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-male-indicus/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-baby-*-indicus/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-baby-*-indicus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/*-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/3/quantityByType/*-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-indicus",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMaxByType/*",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMinByType/*",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/pregnancyDaysByType/*-indicus",
+    "value": 13
+  }
+]

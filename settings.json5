@@ -32,6 +32,10 @@
     type: "separator"
   },
   {
+    key: "MONOCEROS_CYCLE",
+    type: "cycle"
+  },
+  {
     key: "MOREANIMALS_CYCLE",
     type: "cycle"
   },

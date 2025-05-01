@@ -25,5 +25,6 @@
   "vombatidae-cycle": "Vombatidae breeding rate",
   "cycle-comment": "Lower = faster, default: 1.0",
   "fotsa": "Fauna of the Stone Age",
-  "moreanimals-cycle": "MoreAnimals breeding rate"
+  "moreanimals-cycle": "MoreAnimals breeding rate",
+  "monoceros-cycle": "Monoceros breeding rate"
 }
