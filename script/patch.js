@@ -126,11 +126,13 @@ class DirectoryModReader {
     if (!this._modPromise) {
       this._modPromise = new Promise(async (resolve, reject) => {
         const fileData = await fs.readFile(path.join(this.path, 'modinfo.json'), 'utf8')
-        const modId = json5.parse(fileData).modid
+        const manifestData = json5.parse(fileData)
+        const modIdKey = Object.keys(manifestData).find(key => key.toLowerCase() === 'modid')
+        const modId = manifestData[modIdKey]
         if (modId) {
           resolve(modId)
         } else {
-          reject(modId)
+          reject('Mod ID could not be found')
         }
       })
     }
@@ -193,11 +195,13 @@ class ZipModReader {
       this._modPromise = new Promise(async (resolve, reject) => {
         const buffer = await this.zipFile.entryData('modinfo.json')
         const manifest = buffer.toString()
-        const modId = json5.parse(manifest).modid
+        const manifestData = json5.parse(manifest)
+        const modIdKey = Object.keys(manifestData).find(key => key.toLowerCase() === 'modid')
+        const modId = json5.parse(manifest)[modIdKey]
         if (modId) {
           resolve(modId)
         } else {
-          reject()
+          reject('Mod ID could not be found')
         }
       })
     }
