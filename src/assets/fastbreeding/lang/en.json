@@ -24,5 +24,6 @@
   "viverridae-cycle": "Viverridae breeding rate",
   "vombatidae-cycle": "Vombatidae breeding rate",
   "cycle-comment": "Lower = faster, default: 1.0",
-  "fotsa": "Fauna of the Stone Age"
+  "fotsa": "Fauna of the Stone Age",
+  "moreanimals-cycle": "MoreAnimals breeding rate"
 }

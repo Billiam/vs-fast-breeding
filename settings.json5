@@ -29,6 +29,13 @@
     type: "cycle"
   },
   {
+    type: "separator"
+  },
+  {
+    key: "MOREANIMALS_CYCLE",
+    type: "cycle"
+  },
+  {
     type: "separator",
     title: "fotsa"
   },

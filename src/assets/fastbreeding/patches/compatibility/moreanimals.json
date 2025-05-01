@@ -1,0 +1,926 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie-chick.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie-chick.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cock/avg",
+    "value": 4.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cock/var",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cockpoult/avg",
+    "value": 1.8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cockpoult/var",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-hen/avg",
+    "value": 4.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-hen/var",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-henpoult/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-henpoult/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cock/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cock/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cockpoult/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cockpoult/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-hen/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-hen/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-henpoult/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-henpoult/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/capercaillie.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 0
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant-chick.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant-chick.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cock/avg",
+    "value": 5.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cock/var",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cockpoult/avg",
+    "value": 1.8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cockpoult/var",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-hen/avg",
+    "value": 4.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-hen/var",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-henpoult/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-henpoult/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cock/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cock/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cockpoult/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cockpoult/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-hen/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-hen/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-henpoult/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-henpoult/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/goldenpheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 0
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant-chick.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant-chick.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cock/avg",
+    "value": 5.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cock/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cockpoult/avg",
+    "value": 1.8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cockpoult/var",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-hen/avg",
+    "value": 4.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-hen/var",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-henpoult/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-henpoult/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cock/avg",
+    "value": 26
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cock/var",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cockpoult/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cockpoult/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-hen/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-hen/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-henpoult/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-henpoult/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/pheasant.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 0
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey-chick.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantity/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey-chick.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cock/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cock/var",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cockpoult/avg",
+    "value": 1.8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-cockpoult/var",
+    "value": 0.6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-hen/avg",
+    "value": 4.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-hen/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-henpoult/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-henpoult/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cock/avg",
+    "value": 28
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cock/var",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cockpoult/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-cockpoult/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-hen/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-hen/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-henpoult/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-henpoult/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMax",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "moreanimals"
+      }
+    ],
+    "file": "moreanimals:entities/wildturkey.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/multiplyCooldownDaysMin",
+    "value": 0
+  }
+]
