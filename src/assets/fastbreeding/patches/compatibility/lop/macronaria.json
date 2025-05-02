@@ -1703,5 +1703,71 @@
     "op": "replace",
     "path": "/server/behaviors/10/pregnancyDaysByType/*",
     "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-incubating",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-mature",
+    "value": 1
   }
 ]

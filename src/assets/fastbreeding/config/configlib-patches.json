@@ -2309,7 +2309,13 @@
         "151/value": "max(1, round(PHANEROZOIC_CYCLE * 960))",
         "152/value": "round(PHANEROZOIC_CYCLE * 90)",
         "153/value": "round(PHANEROZOIC_CYCLE * 30)",
-        "154/value": "round(PHANEROZOIC_CYCLE * 60)"
+        "154/value": "round(PHANEROZOIC_CYCLE * 60)",
+        "155/value": "round(PHANEROZOIC_CYCLE * 6)",
+        "156/value": "round(PHANEROZOIC_CYCLE * 4)",
+        "157/value": "round(PHANEROZOIC_CYCLE * 10)",
+        "158/value": "round(PHANEROZOIC_CYCLE * 20)",
+        "159/value": "max(1, round(PHANEROZOIC_CYCLE * 160))",
+        "160/value": "max(1, round(PHANEROZOIC_CYCLE * 2))"
       },
       "fastbreeding:patches/compatibility/lop/pachycephalosauria.json": {
         "0/value": "round(PHANEROZOIC_CYCLE * 160)",
