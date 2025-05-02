@@ -11,11 +11,33 @@
     {
       "title": "fotsa",
       "type": "separator",
-      "weight": 11
+      "weight": 13
     }
   ],
   "patches": {
     "integer": {
+      "fastbreeding:patches/compatibility/cats.json": {
+        "0/value": "round(CATS_CYCLE * 2)",
+        "1/value": "round(CATS_CYCLE * 1)",
+        "2/value": "round(CATS_CYCLE * 1.5)",
+        "3/value": "round(CATS_CYCLE * 0.25)",
+        "4/value": "round(CATS_CYCLE * 1)",
+        "5/value": "round(CATS_CYCLE * 0.75)",
+        "6/value": "round(CATS_CYCLE * 0.5)",
+        "7/value": "round(CATS_CYCLE * 11)",
+        "8/value": "round(CATS_CYCLE * 4)",
+        "9/value": "round(CATS_CYCLE * 20)",
+        "10/value": "round(CATS_CYCLE * 1)",
+        "11/value": "round(CATS_CYCLE * 1)",
+        "12/value": "round(CATS_CYCLE * 408)",
+        "13/value": "round(CATS_CYCLE * 2)",
+        "14/value": "round(CATS_CYCLE * 1)",
+        "15/value": "round(CATS_CYCLE * 1.5)",
+        "16/value": "round(CATS_CYCLE * 0.25)",
+        "17/value": "round(CATS_CYCLE * 1)",
+        "18/value": "round(CATS_CYCLE * 0.75)",
+        "19/value": "round(CATS_CYCLE * 0.5)"
+      },
       "fastbreeding:patches/compatibility/fotsa/bovinae.json": {
         "0/value": "round(BOVINAE_CYCLE * 34)",
         "1/value": "round(BOVINAE_CYCLE * 3)",
@@ -2915,7 +2937,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 12
+        "weight": 14
       },
       "CANINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -2927,7 +2949,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 13
+        "weight": 15
       },
       "CAPREOLINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -2939,7 +2961,19 @@
           "max": 10,
           "min": 0
         },
-        "weight": 14
+        "weight": 16
+      },
+      "CATS_CYCLE": {
+        "comment": "cycle-comment",
+        "default": 0.5,
+        "ingui": "fastbreeding:cats-cycle",
+        "logarithmic": true,
+        "name": "cats-cycle",
+        "range": {
+          "max": 10,
+          "min": 0
+        },
+        "weight": 8
       },
       "CERVINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -2951,7 +2985,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 15
+        "weight": 17
       },
       "CHICKEN_CYCLE": {
         "comment": "cycle-comment",
@@ -2975,7 +3009,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 16
+        "weight": 18
       },
       "FELINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -2987,7 +3021,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 17
+        "weight": 19
       },
       "GOAT_CYCLE": {
         "comment": "cycle-comment",
@@ -3023,7 +3057,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 18
+        "weight": 20
       },
       "MACHAIRODONTINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3035,7 +3069,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 19
+        "weight": 21
       },
       "MANIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3047,7 +3081,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 20
+        "weight": 22
       },
       "MEIOLANIIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3059,7 +3093,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 21
+        "weight": 23
       },
       "MONOCEROS_CYCLE": {
         "comment": "cycle-comment",
@@ -3071,7 +3105,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 9
+        "weight": 10
       },
       "MOREANIMALS_CYCLE": {
         "comment": "cycle-comment",
@@ -3083,7 +3117,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 10
+        "weight": 11
       },
       "PANTHERINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3095,7 +3129,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 22
+        "weight": 24
       },
       "PHANEROZOIC_CYCLE": {
         "comment": "cycle-comment",
@@ -3107,7 +3141,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 8
+        "weight": 9
       },
       "PIG_CYCLE": {
         "comment": "cycle-comment",
@@ -3131,7 +3165,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 23
+        "weight": 25
       },
       "SHEEP_CYCLE": {
         "comment": "cycle-comment",
@@ -3155,7 +3189,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 24
+        "weight": 26
       },
       "SPHENISCIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3167,7 +3201,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 25
+        "weight": 27
       },
       "THYLACINIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3179,7 +3213,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 26
+        "weight": 28
       },
       "VIVERRIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3191,7 +3225,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 27
+        "weight": 29
       },
       "VOMBATIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3203,7 +3237,19 @@
           "max": 10,
           "min": 0
         },
-        "weight": 28
+        "weight": 30
+      },
+      "WOLFTAMING_CYCLE": {
+        "comment": "cycle-comment",
+        "default": 0.5,
+        "ingui": "fastbreeding:wolftaming-cycle",
+        "logarithmic": true,
+        "name": "wolftaming-cycle",
+        "range": {
+          "max": 10,
+          "min": 0
+        },
+        "weight": 12
       }
     }
   },

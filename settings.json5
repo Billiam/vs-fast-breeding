@@ -32,6 +32,10 @@
     type: "separator"
   },
   {
+    key: "CATS_CYCLE",
+    type: "cycle"
+  },
+  {
     key: "PHANEROZOIC_CYCLE",
     type: "cycle"
   },
