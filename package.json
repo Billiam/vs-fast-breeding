@@ -14,7 +14,7 @@
     "generate-patch": "node script/generate-patch",
     "generate-patches": "node script/generate-patches",
     "test": "vitest",
-    "format": "prettier -c ."
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
