@@ -328,11 +328,14 @@ export default async (
   )
 
   await fs.mkdir(path.dirname(patchPath), { recursive: true })
-
-  await fs.writeFile(
-    patchPath,
-    stringify(patchData.patches, { cmp: sortedKeys, space: '  ' }) + '\n',
-  )
+  if (patchData.patches.length > 0) {
+    await fs.writeFile(
+      patchPath,
+      stringify(patchData.patches, { cmp: sortedKeys, space: '  ' }) + '\n',
+    )
+  } else {
+    await fs.rm(patchPath, { force: true })
+  }
 
   const configLibFile = path.resolve(
     __dirname,
@@ -341,7 +344,11 @@ export default async (
   const configLibData = JSON.parse(await fs.readFile(configLibFile, 'utf8'))
 
   const outputKey = `fastbreeding:patches/${patchProjectPath}`
-  configLibData.patches.integer[outputKey] = patchData.configLib
+  if (Object.keys(patchData.configLib).length > 0) {
+    configLibData.patches.integer[outputKey] = patchData.configLib
+  } else {
+    delete configLibData.patches.integer[outputKey]
+  }
 
   return fs.writeFile(
     configLibFile,
