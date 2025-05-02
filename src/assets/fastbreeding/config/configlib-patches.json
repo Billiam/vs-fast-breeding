@@ -2773,6 +2773,18 @@
         "82/value": "round(MOREANIMALS_CYCLE * 5)",
         "83/value": "round(MOREANIMALS_CYCLE * 0)"
       },
+      "fastbreeding:patches/compatibility/wolftaming.json": {
+        "0/value": "round(WOLFTAMING_CYCLE * 7)",
+        "1/value": "round(WOLFTAMING_CYCLE * 1)",
+        "2/value": "round(WOLFTAMING_CYCLE * 1.5)",
+        "3/value": "round(WOLFTAMING_CYCLE * 1.25)",
+        "4/value": "round(WOLFTAMING_CYCLE * 4)",
+        "5/value": "round(WOLFTAMING_CYCLE * 0.5)",
+        "6/value": "round(WOLFTAMING_CYCLE * 11)",
+        "7/value": "round(WOLFTAMING_CYCLE * 4)",
+        "8/value": "round(WOLFTAMING_CYCLE * 20)",
+        "9/value": "round(WOLFTAMING_CYCLE * 336)"
+      },
       "fastbreeding:patches/land/chicken.json": {
         "0/value": "round(CHICKEN_CYCLE * 128)",
         "1/value": "round(CHICKEN_CYCLE * 1.25)",
