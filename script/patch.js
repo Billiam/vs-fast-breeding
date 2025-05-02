@@ -18,11 +18,12 @@ const GROUP_SETTINGS = {
 
 const configLibValue = (settingKey, section, value) => {
   let configValue = `round(${settingKey} * ${value})`
-  if (section.includes('hoursToGrow')) {
+  const sections = section.split('/')
+  if (sections.includes('hoursToGrow')) {
     configValue = `max(1, ${configValue})`
-  } else if (section.includes('multiplyCooldownDaysMin') && value === 0) {
+  } else if (sections.includes('multiplyCooldownDaysMin') && value === 0) {
     configValue = `greater(${settingKey}, 1.0, ceiling(${settingKey} - 1), 0)`
-  } else if (section.startsWith('drops')) {
+  } else if (sections.includes('drops')) {
     configValue = `(REDUCE_DROPS) ? min(1.0, ${settingKey}) * ${value} : ${value}`
   }
   return configValue
