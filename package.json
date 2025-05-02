@@ -12,13 +12,19 @@
     "build-settings": "node script/build-settings",
     "update": "node script/update-all",
     "generate-patch": "node script/generate-patch",
-    "generate-patches": "node script/generate-patches"
+    "generate-patches": "node script/generate-patches",
+    "test": "vitest",
+    "format": "prettier -c ."
   },
   "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "glob": "^11.0.2",
+    "jexpr": "^1.0.0-pre.9",
     "json-stable-stringify": "^1.3.0",
     "json5": "^2.2.3",
     "node-stream-zip": "^1.15.0",
-    "semver": "^7.7.1"
+    "prettier": "^3.5.3",
+    "semver": "^7.7.1",
+    "vitest": "^3.1.2"
   }
 }

@@ -3,9 +3,7 @@
   "modid": "fastbreeding",
   "name": "Fast Breeding",
   "description": "Alter animal breeding times",
-  "authors": [
-    "Billiam"
-  ],
+  "authors": ["Billiam"],
   "version": "0.0.4",
   "side": "server",
   "dependencies": {

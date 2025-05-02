@@ -1,15 +1,16 @@
 #!/usr/bin/env node
-import { fileURLToPath } from 'url'
-import path from 'path'
 import { promises as fs } from 'fs'
 import json5 from 'json5'
-import sortedKeys from './lib/sorted-keys.js'
 import stringify from 'json-stable-stringify'
+import path from 'path'
+import { fileURLToPath } from 'url'
+
+import sortedKeys from './lib/sorted-keys.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const buildCycleSetting = key => {
+const buildCycleSetting = (key) => {
   const mod = key.toLowerCase().replace(/_cycle$/, '')
 
   return {
@@ -19,16 +20,19 @@ const buildCycleSetting = key => {
     logarithmic: true,
     range: {
       min: 0,
-      max: 10
-    }
+      max: 10,
+    },
   }
 }
 
-(async () => {
+;(async () => {
   const settingsPath = path.resolve(__dirname, '../settings.json5')
   const settingsConfig = json5.parse(await fs.readFile(settingsPath, 'utf8'))
 
-  const configLibPath = path.resolve(__dirname, '../src/assets/fastbreeding/config/configlib-patches.json')
+  const configLibPath = path.resolve(
+    __dirname,
+    '../src/assets/fastbreeding/config/configlib-patches.json',
+  )
   const configLibData = JSON.parse(await fs.readFile(configLibPath, 'utf8'))
 
   configLibData.settings = {}
@@ -59,5 +63,8 @@ const buildCycleSetting = key => {
     configLibData.settings[type][key] = setting
   })
 
-  return fs.writeFile(configLibPath, stringify(configLibData, { cmp: sortedKeys, space: '  ' }) + '\n')
+  return fs.writeFile(
+    configLibPath,
+    stringify(configLibData, { cmp: sortedKeys, space: '  ' }) + '\n',
+  )
 })()

@@ -1,126 +1,126 @@
 [
   {
-    key: "REDUCE_DROPS",
-    comment: "reduce-drops-comment",
+    key: 'REDUCE_DROPS',
+    comment: 'reduce-drops-comment',
     default: true,
-    type: "boolean"
+    type: 'boolean',
   },
   {
-    type: "separator"
+    type: 'separator',
   },
   {
-    key: "CHICKEN_CYCLE",
-    type: "cycle"
+    key: 'CHICKEN_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "GOAT_CYCLE",
-    type: "cycle"
+    key: 'GOAT_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "HARE_CYCLE",
-    type: "cycle"
+    key: 'HARE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "PIG_CYCLE",
-    type: "cycle"
+    key: 'PIG_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "SHEEP_CYCLE",
-    type: "cycle"
+    key: 'SHEEP_CYCLE',
+    type: 'cycle',
   },
   {
-    type: "separator"
+    type: 'separator',
   },
   {
-    key: "CATS_CYCLE",
-    type: "cycle"
+    key: 'CATS_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "PHANEROZOIC_CYCLE",
-    type: "cycle"
+    key: 'PHANEROZOIC_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "MONOCEROS_CYCLE",
-    type: "cycle"
+    key: 'MONOCEROS_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "MOREANIMALS_CYCLE",
-    type: "cycle"
+    key: 'MOREANIMALS_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "WOLFTAMING_CYCLE",
-    type: "cycle"
+    key: 'WOLFTAMING_CYCLE',
+    type: 'cycle',
   },
   {
-    type: "separator",
-    title: "fotsa"
+    type: 'separator',
+    title: 'fotsa',
   },
   {
-    key: "BOVINAE_CYCLE",
-    type: "cycle"
+    key: 'BOVINAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "CANINAE_CYCLE",
-    type: "cycle"
+    key: 'CANINAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "CAPREOLINAE_CYCLE",
-    type: "cycle"
+    key: 'CAPREOLINAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "CERVINAE_CYCLE",
-    type: "cycle"
+    key: 'CERVINAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "ELEPHANTIDAE_CYCLE",
-    type: "cycle"
+    key: 'ELEPHANTIDAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "FELINAE_CYCLE",
-    type: "cycle"
+    key: 'FELINAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "INIIDAE_CYCLE",
-    type: "cycle"
+    key: 'INIIDAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "MACHAIRODONTINAE_CYCLE",
-    type: "cycle"
+    key: 'MACHAIRODONTINAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "MANIDAE_CYCLE",
-    type: "cycle"
+    key: 'MANIDAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "MEIOLANIIDAE_CYCLE",
-    type: "cycle"
+    key: 'MEIOLANIIDAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "PANTHERINAE_CYCLE",
-    type: "cycle"
+    key: 'PANTHERINAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "RHINOCEROTIDAE_CYCLE",
-    type: "cycle"
+    key: 'RHINOCEROTIDAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "SIRENIA_CYCLE",
-    type: "cycle"
+    key: 'SIRENIA_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "SPHENISCIDAE_CYCLE",
-    type: "cycle"
+    key: 'SPHENISCIDAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "THYLACINIDAE_CYCLE",
-    type: "cycle"
+    key: 'THYLACINIDAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "VIVERRIDAE_CYCLE",
-    type: "cycle"
+    key: 'VIVERRIDAE_CYCLE',
+    type: 'cycle',
   },
   {
-    key: "VOMBATIDAE_CYCLE",
-    type: "cycle"
-  }
+    key: 'VOMBATIDAE_CYCLE',
+    type: 'cycle',
+  },
 ]

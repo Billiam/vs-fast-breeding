@@ -1,19 +1,26 @@
-import { promises as fs } from 'node:fs'
-import path from 'path'
-import json5 from 'json5'
 import { glob } from 'glob'
-import { fileURLToPath } from 'url'
-import sortedKeys from './lib/sorted-keys.js'
+import json5 from 'json5'
 import stringify from 'json-stable-stringify'
 import StreamZip from 'node-stream-zip'
+import { promises as fs } from 'node:fs'
+import path from 'path'
+import { fileURLToPath } from 'url'
+
+import sortedKeys from './lib/sorted-keys.js'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const BEHAVIOR_TARGETS = ['drops', 'hoursToGrow', 'pregnancyDays', 'multiplyCooldownDaysMin', 'multiplyCooldownDaysMax']
+const BEHAVIOR_TARGETS = [
+  'drops',
+  'hoursToGrow',
+  'pregnancyDays',
+  'multiplyCooldownDaysMin',
+  'multiplyCooldownDaysMax',
+]
 const MOD_PREFIXES = ['fotsa', 'lop-']
 const GROUP_SETTINGS = {
-  lop: 'PHANEROZOIC_CYCLE'
+  lop: 'PHANEROZOIC_CYCLE',
 }
 
 const configLibValue = (settingKey, section, value) => {
@@ -36,7 +43,7 @@ const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
     file: `${domain}:${file}`,
     op: 'replace',
     path: patchPath,
-    value: Math.ceil(value * 0.5)
+    value: Math.ceil(value * 0.5),
   }
 
   if (modId) {
@@ -45,7 +52,11 @@ const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
 
   patch.sortKey = `${pathSuffix.replace(/^\d+\//, '')}${key}`
 
-  patch.configLib = configLibValue(settingKey ?? `${modId.toUpperCase()}_CYCLE`, patchPath, value)
+  patch.configLib = configLibValue(
+    settingKey ?? `${modId.toUpperCase()}_CYCLE`,
+    patchPath,
+    value,
+  )
 
   return patch
 }
@@ -53,60 +64,87 @@ const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
 export const filePatch = async (modId, filename, fileData, settingKey) => {
   const patchPath = filename.match(/entities.*/)[0]
 
-  return fileData.server.behaviors.reduce((patches, behavior, behaviorIndex) => {
-    const suffix = `${behaviorIndex}/`
+  return fileData.server.behaviors.reduce(
+    (patches, behavior, behaviorIndex) => {
+      const suffix = `${behaviorIndex}/`
 
-    Object.entries(behavior).forEach(([key, value]) => {
-      const keyWithoutType = key.replace(/ByType$/, '')
+      Object.entries(behavior).forEach(([key, value]) => {
+        const keyWithoutType = key.replace(/ByType$/, '')
 
-      if (BEHAVIOR_TARGETS.includes(key)) {
-        if (key === 'drops') {
-          value.forEach((drop, dropIndex) => {
-            if (!drop.quantity && !drop.quantityByType) {
-              // missing section block in one config file (`hooved/goat.json`) in VS 1.2.9
-              return
-            }
-            const dropPrefix = `${key}/${dropIndex}/${drop.quantityByType ? 'quantityByType' : 'quantity'}`
-            const children = drop.quantityByType ? Object.entries(drop.quantityByType) : [[null, drop.quantity]]
+        if (BEHAVIOR_TARGETS.includes(key)) {
+          if (key === 'drops') {
+            value.forEach((drop, dropIndex) => {
+              if (!drop.quantity && !drop.quantityByType) {
+                // missing section block in one config file (`hooved/goat.json`) in VS 1.2.9
+                return
+              }
+              const dropPrefix = `${key}/${dropIndex}/${drop.quantityByType ? 'quantityByType' : 'quantity'}`
+              const children = drop.quantityByType
+                ? Object.entries(drop.quantityByType)
+                : [[null, drop.quantity]]
 
-            children.forEach(([childKey, childValue]) => {
-              const quantityPath = childKey ? `${dropPrefix}/${childKey}` : dropPrefix
-              Object.entries(childValue).forEach(([quantityKey, quantityValue]) => {
-                if (quantityValue > 0) {
-                  const patch = buildPatch(patchPath, modId, `${suffix}${quantityPath}/`, quantityKey, quantityValue, settingKey)
-                  // remove rounding, not needed for drops
-                  patch.value = quantityValue
-                  patches.push(patch)
-                }
+              children.forEach(([childKey, childValue]) => {
+                const quantityPath = childKey
+                  ? `${dropPrefix}/${childKey}`
+                  : dropPrefix
+                Object.entries(childValue).forEach(
+                  ([quantityKey, quantityValue]) => {
+                    if (quantityValue > 0) {
+                      const patch = buildPatch(
+                        patchPath,
+                        modId,
+                        `${suffix}${quantityPath}/`,
+                        quantityKey,
+                        quantityValue,
+                        settingKey,
+                      )
+                      // remove rounding, not needed for drops
+                      patch.value = quantityValue
+                      patches.push(patch)
+                    }
+                  },
+                )
               })
             })
+          } else {
+            patches.push(
+              buildPatch(patchPath, modId, suffix, key, value, settingKey),
+            )
+          }
+        } else if (BEHAVIOR_TARGETS.includes(keyWithoutType)) {
+          Object.entries(value).forEach(([subKey, value]) => {
+            patches.push(
+              buildPatch(
+                patchPath,
+                modId,
+                `${suffix}${key}/`,
+                subKey,
+                value,
+                settingKey,
+              ),
+            )
           })
-        } else {
-          patches.push(buildPatch(patchPath, modId, suffix, key, value, settingKey))
         }
-      } else if (BEHAVIOR_TARGETS.includes(keyWithoutType)) {
-        Object.entries(value).forEach(([subKey, value]) => {
-          patches.push(buildPatch(patchPath, modId, `${suffix}${key}/`, subKey, value, settingKey))
-        })
-      }
-    })
+      })
 
-    return patches
-  }, [])
+      return patches
+    },
+    [],
+  )
 }
 
 const buildModPatch = async (modId, files, { settingKey }) => {
   // order matters when adding config lib
   const results = []
   for await (const { file, data } of files) {
-    results.push(...await filePatch(modId, file, data, settingKey))
+    results.push(...(await filePatch(modId, file, data, settingKey)))
   }
   results.sort((a, b) => {
     return a.file.localeCompare(b.file) || a.sortKey.localeCompare(b.sortKey)
   })
 
   const output = {
-    configLib: {}
+    configLib: {},
   }
 
   output.patches = results
@@ -122,16 +160,21 @@ const buildModPatch = async (modId, files, { settingKey }) => {
 }
 
 class DirectoryModReader {
-  constructor (path) {
+  constructor(path) {
     this.path = path
   }
 
-  get modId () {
+  get modId() {
     if (!this._modPromise) {
       this._modPromise = new Promise(async (resolve, reject) => {
-        const fileData = await fs.readFile(path.join(this.path, 'modinfo.json'), 'utf8')
+        const fileData = await fs.readFile(
+          path.join(this.path, 'modinfo.json'),
+          'utf8',
+        )
         const manifestData = json5.parse(fileData)
-        const modIdKey = Object.keys(manifestData).find(key => key.toLowerCase() === 'modid')
+        const modIdKey = Object.keys(manifestData).find(
+          (key) => key.toLowerCase() === 'modid',
+        )
         const modId = manifestData[modIdKey]
         if (modId) {
           resolve(modId)
@@ -143,64 +186,66 @@ class DirectoryModReader {
     return this._modPromise
   }
 
-  async * files () {
+  async *files() {
     const modId = await this.modId
     const jsonGlob = path.join(this.path, `assets/${modId}/entities/**/*.json`)
     const fileList = await glob(jsonGlob, {})
     for (const file of fileList) {
       yield {
         file,
-        data: json5.parse(await fs.readFile(file, 'utf8'))
+        data: json5.parse(await fs.readFile(file, 'utf8')),
       }
     }
   }
 
-  cleanup () {}
+  cleanup() {}
 }
 
 class PathReader {
-  constructor (paths, modId) {
+  constructor(paths, modId) {
     this.paths = paths
     this.modid = modId
   }
 
-  async * files () {
+  async *files() {
     for (const file of this.paths) {
       yield {
         file,
-        data: json5.parse(await fs.readFile(file, 'utf8'))
+        data: json5.parse(await fs.readFile(file, 'utf8')),
       }
     }
   }
 
-  cleanup () {}
+  cleanup() {}
 }
 
 class ZipModReader {
-  constructor (path) {
+  constructor(path) {
     this.path = path
   }
 
-  get zipFile () {
+  get zipFile() {
     if (!this.zip) {
       this.zip = new StreamZip.async({ file: this.path })
     }
     return this.zip
   }
 
-  async cleanup () {
+  async cleanup() {
     if (this.zip) {
       return this.zip.close()
     }
   }
 
-  get modId () {
+  get modId() {
     if (!this._modPromise) {
       this._modPromise = new Promise(async (resolve, reject) => {
         const buffer = await this.zipFile.entryData('modinfo.json')
         const manifest = buffer.toString()
         const manifestData = json5.parse(manifest)
-        const modIdKey = Object.keys(manifestData).find(key => key.toLowerCase() === 'modid')
+        const modIdKey = Object.keys(manifestData).find(
+          (key) => key.toLowerCase() === 'modid',
+        )
         const modId = json5.parse(manifest)[modIdKey]
         if (modId) {
           resolve(modId)
@@ -212,14 +257,17 @@ class ZipModReader {
     return this._modPromise
   }
 
-  async * files () {
+  async *files() {
     const modId = await this.modId
     const zipFile = await this.zipFile
 
     const entries = await zipFile.entries()
 
-    const fileList = Object.keys(entries).filter(filename => {
-      return filename.startsWith(`assets/${modId}/entities/`) && filename.endsWith('.json')
+    const fileList = Object.keys(entries).filter((filename) => {
+      return (
+        filename.startsWith(`assets/${modId}/entities/`) &&
+        filename.endsWith('.json')
+      )
     })
 
     for (const file of fileList) {
@@ -239,7 +287,7 @@ class ZipModReader {
   }
 }
 
-const getReaderType = modPath => {
+const getReaderType = (modPath) => {
   if (Array.isArray(modPath)) {
     return PathReader
   } else if (modPath.endsWith('.zip')) {
@@ -249,7 +297,10 @@ const getReaderType = modPath => {
   }
 }
 
-export default async (modPath, { overrideModId, patchOutput, settingKey } = {}) => {
+export default async (
+  modPath,
+  { overrideModId, patchOutput, settingKey } = {},
+) => {
   const readerType = getReaderType(modPath, overrideModId)
   const reader = new readerType(modPath, overrideModId)
 
@@ -258,8 +309,8 @@ export default async (modPath, { overrideModId, patchOutput, settingKey } = {}) 
   let patchProjectPath
   if (modId) {
     const modDirectory = path.basename(modPath).toLowerCase()
-    const prefix = MOD_PREFIXES.find(str =>
-      modDirectory.startsWith(str)
+    const prefix = MOD_PREFIXES.find((str) =>
+      modDirectory.startsWith(str),
     )?.replace(/-$/, '')
     settingKey ??= GROUP_SETTINGS[prefix]
 
@@ -271,17 +322,29 @@ export default async (modPath, { overrideModId, patchOutput, settingKey } = {}) 
   const patchData = await buildModPatch(modId, reader.files(), { settingKey })
   await reader.cleanup()
 
-  const patchPath = path.resolve(__dirname, `../src/assets/fastbreeding/patches/${patchProjectPath}`)
+  const patchPath = path.resolve(
+    __dirname,
+    `../src/assets/fastbreeding/patches/${patchProjectPath}`,
+  )
 
   await fs.mkdir(path.dirname(patchPath), { recursive: true })
 
-  await fs.writeFile(patchPath, stringify(patchData.patches, { cmp: sortedKeys, space: '  ' }) + '\n')
+  await fs.writeFile(
+    patchPath,
+    stringify(patchData.patches, { cmp: sortedKeys, space: '  ' }) + '\n',
+  )
 
-  const configLibFile = path.resolve(__dirname, '../src/assets/fastbreeding/config/configlib-patches.json')
+  const configLibFile = path.resolve(
+    __dirname,
+    '../src/assets/fastbreeding/config/configlib-patches.json',
+  )
   const configLibData = JSON.parse(await fs.readFile(configLibFile, 'utf8'))
 
   const outputKey = `fastbreeding:patches/${patchProjectPath}`
   configLibData.patches.integer[outputKey] = patchData.configLib
 
-  return fs.writeFile(configLibFile, stringify(configLibData, { cmp: sortedKeys, space: '  ' }) + '\n')
+  return fs.writeFile(
+    configLibFile,
+    stringify(configLibData, { cmp: sortedKeys, space: '  ' }) + '\n',
+  )
 }
