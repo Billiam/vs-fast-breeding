@@ -1,0 +1,3093 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 100
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-acristavus-adult-*/avg",
+    "value": 85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-acristavus-adult-*/var",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-acristavus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-acristavus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-amurosaurus-adult-*/avg",
+    "value": 85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-amurosaurus-adult-*/var",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-amurosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-amurosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-arenysaurus-adult-*/avg",
+    "value": 85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-arenysaurus-adult-*/var",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-arenysaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-arenysaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-barsboldia-adult-*/avg",
+    "value": 82
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-barsboldia-adult-*/var",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-barsboldia-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-barsboldia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-bonapartesaurus-adult-*/avg",
+    "value": 85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-bonapartesaurus-adult-*/var",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-bonapartesaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-bonapartesaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-brachylophosaurus-adult-*/avg",
+    "value": 91
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-brachylophosaurus-adult-*/var",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-brachylophosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-brachylophosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-canardia-adult-*/avg",
+    "value": 75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-canardia-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-canardia-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-canardia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-charonosaurus-adult-*/avg",
+    "value": 102
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-charonosaurus-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-charonosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-charonosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-corythosaurus-adult-*/avg",
+    "value": 102
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-corythosaurus-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-corythosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-corythosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-edmontosaurus-adult-*/avg",
+    "value": 123
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-edmontosaurus-adult-*/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-edmontosaurus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-edmontosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-gryposaurus-adult-*/avg",
+    "value": 102
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-gryposaurus-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-gryposaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-gryposaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hadrosaurus-adult-*/avg",
+    "value": 123
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hadrosaurus-adult-*/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hadrosaurus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hadrosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hypacrosaurus-adult-*/avg",
+    "value": 102
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hypacrosaurus-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hypacrosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hypacrosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hypsibema-adult-*/avg",
+    "value": 102
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hypsibema-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hypsibema-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-hypsibema-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-kazaklambia-adult-*/avg",
+    "value": 60
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-kazaklambia-adult-*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-kazaklambia-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-kazaklambia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-lambeosaurus-adult-*/avg",
+    "value": 102
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-lambeosaurus-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-lambeosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-lambeosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-magnapaulia-adult-*/avg",
+    "value": 123
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-magnapaulia-adult-*/var",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-magnapaulia-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-magnapaulia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-maiasaura-adult-*/avg",
+    "value": 102
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-maiasaura-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-maiasaura-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-maiasaura-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-olorotitan-adult-*/avg",
+    "value": 112
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-olorotitan-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-olorotitan-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-olorotitan-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-pararhabdodon-adult-*/avg",
+    "value": 85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-pararhabdodon-adult-*/var",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-pararhabdodon-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-pararhabdodon-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-parasaurolophus-adult-*/avg",
+    "value": 102
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-parasaurolophus-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-parasaurolophus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-parasaurolophus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-probactrosaurus-adult-*/avg",
+    "value": 82
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-probactrosaurus-adult-*/var",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-probactrosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-probactrosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-saurolophus-adult-*/avg",
+    "value": 112
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-saurolophus-adult-*/var",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-saurolophus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-saurolophus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-secernosaurus-adult-*/avg",
+    "value": 60
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-secernosaurus-adult-*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-secernosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-secernosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-shangtungosaurus-adult-*/avg",
+    "value": 150
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-shangtungosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-shangtungosaurus-baby-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-shangtungosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-tanius-adult-*/avg",
+    "value": 85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-tanius-adult-*/var",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-tanius-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-tanius-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-telmatosaurus-adult-*/avg",
+    "value": 67
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-telmatosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-telmatosaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-telmatosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-acristavus-adult-*/avg",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-acristavus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-acristavus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-acristavus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-amurosaurus-adult-*/avg",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-amurosaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-amurosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-amurosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-arenysaurus-adult-*/avg",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-arenysaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-arenysaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-arenysaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-barsboldia-adult-*/avg",
+    "value": 41
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-barsboldia-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-barsboldia-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-barsboldia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-bonapartesaurus-adult-*/avg",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-bonapartesaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-bonapartesaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-bonapartesaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-brachylophosaurus-adult-*/avg",
+    "value": 46
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-brachylophosaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-brachylophosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-brachylophosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-canardia-adult-*/avg",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-canardia-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-canardia-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-canardia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-charonosaurus-adult-*/avg",
+    "value": 51
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-charonosaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-charonosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-charonosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-corythosaurus-adult-*/avg",
+    "value": 51
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-corythosaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-corythosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-corythosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-edmontosaurus-adult-*/avg",
+    "value": 61
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-edmontosaurus-adult-*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-edmontosaurus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-edmontosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-gryposaurus-adult-*/avg",
+    "value": 51
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-gryposaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-gryposaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-gryposaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hadrosaurus-adult-*/avg",
+    "value": 61
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hadrosaurus-adult-*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hadrosaurus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hadrosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hypacrosaurus-adult-*/avg",
+    "value": 51
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hypacrosaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hypacrosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hypacrosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hypsibema-adult-*/avg",
+    "value": 51
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hypsibema-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hypsibema-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-hypsibema-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-kazaklambia-adult-*/avg",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-kazaklambia-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-kazaklambia-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-kazaklambia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-lambeosaurus-adult-*/avg",
+    "value": 51
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-lambeosaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-lambeosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-lambeosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-magnapaulia-adult-*/avg",
+    "value": 61
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-magnapaulia-adult-*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-magnapaulia-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-magnapaulia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-maiasaura-adult-*/avg",
+    "value": 51
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-maiasaura-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-maiasaura-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-maiasaura-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-olorotitan-adult-*/avg",
+    "value": 56
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-olorotitan-adult-*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-olorotitan-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-olorotitan-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-pararhabdodon-adult-*/avg",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-pararhabdodon-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-pararhabdodon-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-pararhabdodon-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-parasaurolophus-adult-*/avg",
+    "value": 51
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-parasaurolophus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-parasaurolophus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-parasaurolophus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-probactrosaurus-adult-*/avg",
+    "value": 41
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-probactrosaurus-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-probactrosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-probactrosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-saurolophus-adult-*/avg",
+    "value": 56
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-saurolophus-adult-*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-saurolophus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-saurolophus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-secernosaurus-adult-*/avg",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-secernosaurus-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-secernosaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-secernosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-shangtungosaurus-adult-*/avg",
+    "value": 75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-shangtungosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-shangtungosaurus-baby-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-shangtungosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-tanius-adult-*/avg",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-tanius-adult-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-tanius-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-tanius-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-telmatosaurus-adult-*/avg",
+    "value": 34
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-telmatosaurus-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-telmatosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-telmatosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-acristavus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-amurosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-arenysaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-barsboldia-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-bonapartesaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-brachylophosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-canardia-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-charonosaurus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-corythosaurus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-edmontosaurus-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-gryposaurus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-hadrosaurus-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-hypacrosaurus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-hypsibema-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-kazaklambia-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-lambeosaurus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-magnapaulia-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-maiasaura-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-olorotitan-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-pararhabdodon-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-parasaurolophus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-probactrosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-saurolophus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-secernosaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-shangtungosaurus-adult-*/avg",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-tanius-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-telmatosaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/3/quantityByType/*-baby/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-acristavus-*",
+    "value": 299
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-amurosaurus-*",
+    "value": 299
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-arenysaurus-*",
+    "value": 299
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-barsboldia-*",
+    "value": 287
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-bonapartesaurus-*",
+    "value": 299
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-brachylophosaurus-*",
+    "value": 320
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-canardia-*",
+    "value": 263
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-charonosaurus-*",
+    "value": 358
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-corythosaurus-*",
+    "value": 358
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-edmontosaurus-*",
+    "value": 431
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-gryposaurus-*",
+    "value": 358
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-hadrosaurus-*",
+    "value": 431
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-hypacrosaurus-*",
+    "value": 358
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-hypsibema-*",
+    "value": 358
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-kazaklambia-*",
+    "value": 210
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-lambeosaurus-*",
+    "value": 358
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-magnapaulia-*",
+    "value": 431
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-maiasaura-*",
+    "value": 358
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-olorotitan-*",
+    "value": 392
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-pararhabdodon-*",
+    "value": 299
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-parasaurolophus-*",
+    "value": 358
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-probactrosaurus-*",
+    "value": 287
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-saurolophus-*",
+    "value": 392
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-secernosaurus-*",
+    "value": 210
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-shangtungosaurus-*",
+    "value": 525
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-tanius-*",
+    "value": 299
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-telmatosaurus-*",
+    "value": 235
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/multiplyCooldownDaysMaxByType/*",
+    "value": 45
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/multiplyCooldownDaysMinByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/hadrosauroidea.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/pregnancyDaysByType/*",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-incubating",
+    "value": 70
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "hadrosauroidea"
+      }
+    ],
+    "file": "hadrosauroidea:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-mature",
+    "value": 1
+  }
+]

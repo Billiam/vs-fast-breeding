@@ -1,0 +1,1388 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-achillobator-adult-*/avg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-achillobator-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-achillobator-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-achillobator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dakotaraptor-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dakotaraptor-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dakotaraptor-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dakotaraptor-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-utahraptor-adult-*/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-utahraptor-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-utahraptor-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-utahraptor-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-adasaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-adasaurus-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-adasaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-adasaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-atrociraptor-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-atrociraptor-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-atrociraptor-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-atrociraptor-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-austroraptor-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-austroraptor-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-austroraptor-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-austroraptor-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-buitreraptor-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-buitreraptor-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-buitreraptor-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-buitreraptor-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-deinonychus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-deinonychus-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-deinonychus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-deinonychus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dromaeosaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dromaeosaurus-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dromaeosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dromaeosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-microraptor-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-microraptor-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-microraptor-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-microraptor-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pyroraptor-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pyroraptor-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pyroraptor-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pyroraptor-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rahonavis-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rahonavis-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rahonavis-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rahonavis-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-saurornitholestes-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-saurornitholestes-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-saurornitholestes-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-saurornitholestes-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-velociraptor-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-velociraptor-adult-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-velociraptor-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-velociraptor-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-achillobator-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-achillobator-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-adasaurus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-adasaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-atrociraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-atrociraptor-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-austroraptor-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-austroraptor-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-buitreraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-buitreraptor-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-dakotaraptor-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-dakotaraptor-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-deinonychus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-deinonychus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-dromaeosaurus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-dromaeosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-microraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-microraptor-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-pyroraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-pyroraptor-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-rahonavis-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-rahonavis-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-saurornitholestes-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-saurornitholestes-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-utahraptor-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-utahraptor-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-velociraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-velociraptor-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-dakotaraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-utahraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-achillobator-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-austroraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/5/quantityByType/*-adasaurus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/5/quantityByType/*-deinonychus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/6/quantityByType/*-atrociraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/6/quantityByType/*-buitreraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/6/quantityByType/*-dromaeosaurus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/6/quantityByType/*-microraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/6/quantityByType/*-pyroraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/6/quantityByType/*-rahonavis-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/6/quantityByType/*-saurornitholestes-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/6/quantityByType/*-velociraptor-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/7/quantityByType/*-adult-*/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/7/quantityByType/*-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/7/quantityByType/*-baby-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/7/quantityByType/*-baby-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-achillobator-*",
+    "value": 94
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-adasaurus-*",
+    "value": 63
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-atrociraptor-*",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-austroraptor-*",
+    "value": 88
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-buitreraptor-*",
+    "value": 32
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-dakotaraptor-*",
+    "value": 107
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-deinonychus-*",
+    "value": 63
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-dromaeosaurus-*",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-microraptor-*",
+    "value": 32
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-pyroraptor-*",
+    "value": 32
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-rahonavis-*",
+    "value": 28
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-saurornitholestes-*",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-utahraptor-*",
+    "value": 125
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-velociraptor-a*",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMaxByType/*",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMinByType/*",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/pregnancyDaysByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-incubating",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "dromaeosauridae"
+      }
+    ],
+    "file": "dromaeosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-mature",
+    "value": 1
+  }
+]

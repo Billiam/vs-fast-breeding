@@ -11,7 +11,10 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
 const BEHAVIOR_TARGETS = ['drops', 'hoursToGrow', 'pregnancyDays', 'multiplyCooldownDaysMin', 'multiplyCooldownDaysMax']
-const MOD_PREFIXES = ['fotsa']
+const MOD_PREFIXES = ['fotsa', 'lop-']
+const GROUP_SETTINGS = {
+  lop: 'PHANEROZOIC_CYCLE'
+}
 
 const configLibValue = (settingKey, section, value) => {
   let configValue = `round(${settingKey} * ${value})`
@@ -256,9 +259,10 @@ export default async (modPath, { overrideModId, patchOutput, settingKey } = {}) 
     const modDirectory = path.basename(modPath).toLowerCase()
     const prefix = MOD_PREFIXES.find(str =>
       modDirectory.startsWith(str)
-    )
+    )?.replace(/-$/, '')
+    settingKey ??= GROUP_SETTINGS[prefix]
 
-    patchProjectPath = `compatibility/${prefix ? prefix.replace(/-$/, '') + '/' : ''}${modId}.json`
+    patchProjectPath = `compatibility/${prefix ? prefix + '/' : ''}${modId}.json`
   } else {
     patchProjectPath = `${patchOutput}`
   }

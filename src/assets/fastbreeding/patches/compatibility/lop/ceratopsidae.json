@@ -1,0 +1,772 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-centrosaurus-adult-*/avg",
+    "value": 70
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-centrosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-centrosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-centrosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nasutoceratops-adult-*/avg",
+    "value": 60
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nasutoceratops-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nasutoceratops-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nasutoceratops-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pachyrhinosaurus-adult-*/avg",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pachyrhinosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pachyrhinosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pachyrhinosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pentaceratops-adult-*/avg",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pentaceratops-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pentaceratops-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pentaceratops-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-styracosaurus-adult-*/avg",
+    "value": 70
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-styracosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-styracosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-styracosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-triceratops-adult-*/avg",
+    "value": 100
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-triceratops-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-triceratops-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-triceratops-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-centrosaurus-adult-*/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-centrosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-centrosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-centrosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-nasutoceratops-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-nasutoceratops-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-nasutoceratops-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pachyrhinosaurus-adult-*/avg",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pachyrhinosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pachyrhinosaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pachyrhinosaurus-baby-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pentaceratops-adult-*/avg",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pentaceratops-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pentaceratops-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pentaceratops-baby-*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-styracosaurus-adult-*/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-styracosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-styracosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-styracosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-triceratops-adult-*/avg",
+    "value": 50
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-triceratops-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-triceratops-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-triceratops-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-centrosaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-nasutoceratops-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-pachyrhinosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-pentaceratops-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-styracosaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-triceratops-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-baby/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-centrosaurus-*",
+    "value": 255
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-nasutoceratops-*",
+    "value": 298
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-pachyrhinosaurus-*",
+    "value": 361
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-pentaceratops-*",
+    "value": 340
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-styracosaurus-*",
+    "value": 298
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-triceratops-*",
+    "value": 425
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMaxByType/*",
+    "value": 35
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMinByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/ceratopsidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/pregnancyDaysByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-incubating",
+    "value": 70
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ceratopsidae"
+      }
+    ],
+    "file": "ceratopsidae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-mature",
+    "value": 1
+  }
+]

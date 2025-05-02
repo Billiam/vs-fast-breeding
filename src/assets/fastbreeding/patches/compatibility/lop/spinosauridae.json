@@ -1,0 +1,794 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-incubating",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-mature",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-baryonyx-adult-*/avg",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-baryonyx-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-baryonyx-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-baryonyx-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-ichthyovenator-adult-*/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-ichthyovenator-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-ichthyovenator-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-ichthyovenator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-irritator-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-irritator-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-irritator-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-irritator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-oxalaia-adult-*/avg",
+    "value": 40
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-oxalaia-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-oxalaia-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-oxalaia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-spinosaurus-adult-*/avg",
+    "value": 50
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-spinosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-spinosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-spinosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-suchomimus-adult-*/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-suchomimus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-suchomimus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-suchomimus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-baryonyx-adult-*/avg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-baryonyx-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-baryonyx-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-baryonyx-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-ichthyovenator-adult-*/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-ichthyovenator-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-ichthyovenator-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-ichthyovenator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-irritator-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-irritator-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-irritator-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-irritator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-oxalaia-adult-*/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-oxalaia-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-oxalaia-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-oxalaia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-spinosaurus-adult-*/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-spinosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-spinosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-spinosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-suchomimus-adult-*/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-suchomimus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-suchomimus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-suchomimus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-baryonyx-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-ichthyovenator-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-irritator-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-oxalaia-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-spinosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-suchomimus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/3/quantityByType/*-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*",
+    "value": 300
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-baryonyx-*",
+    "value": 240
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-ichthyovenator-*",
+    "value": 210
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-irritator-*",
+    "value": 180
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-oxalaia-*",
+    "value": 270
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-spinosaurus-*",
+    "value": 300
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-suchomimus-*",
+    "value": 255
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/multiplyCooldownDaysMaxByType/*",
+    "value": 35
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/multiplyCooldownDaysMinByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "spinosauridae"
+      }
+    ],
+    "file": "spinosauridae:entities/land/spinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/pregnancyDaysByType/*",
+    "value": 15
+  }
+]

@@ -111,4 +111,11 @@
     key: "VOMBATIDAE_CYCLE",
     type: "cycle"
   },
+  {
+    type: "separator"
+  },
+  {
+    key: "PHANEROZOIC_CYCLE",
+    type: "cycle"
+  }
 ]

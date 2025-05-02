@@ -1,0 +1,2103 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-abelisaurus-adult-*/avg",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-abelisaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-abelisaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-abelisaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-arcovenator-adult-*/avg",
+    "value": 70
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-arcovenator-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-arcovenator-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-arcovenator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-aucasaurus-adult-*/avg",
+    "value": 68
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-aucasaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-aucasaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-aucasaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-carnotaurus-adult-*/avg",
+    "value": 100
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-carnotaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-carnotaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-carnotaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-chenanisaurus-adult-*/avg",
+    "value": 90
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-chenanisaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-chenanisaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-chenanisaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dahalokely-adult-*/avg",
+    "value": 68
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dahalokely-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dahalokely-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dahalokely-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ekrixinatosaurus-adult-*/avg",
+    "value": 95
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ekrixinatosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ekrixinatosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ekrixinatosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ilokelesia-adult-*/avg",
+    "value": 64
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ilokelesia-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ilokelesia-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ilokelesia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-majungasaurus-adult-*/avg",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-majungasaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-majungasaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-majungasaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pycnonemosaurus-adult-*/avg",
+    "value": 100
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pycnonemosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pycnonemosaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pycnonemosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rahiolisaurus-adult-*/avg",
+    "value": 73
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rahiolisaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rahiolisaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rahiolisaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rajasaurus-adult-*/avg",
+    "value": 85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rajasaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rajasaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rajasaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rugops-adult-*/avg",
+    "value": 70
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rugops-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rugops-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-rugops-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-skorpiovenator-adult-*/avg",
+    "value": 75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-skorpiovenator-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-skorpiovenator-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-skorpiovenator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tarascosaurus-adult-*/avg",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tarascosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tarascosaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tarascosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-thanos-adult-*/avg",
+    "value": 50
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-thanos-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-thanos-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-thanos-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-viavenator-adult-*/avg",
+    "value": 63
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-viavenator-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-viavenator-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-viavenator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-xenotarsosaurus-adult-*/avg",
+    "value": 75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-xenotarsosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-xenotarsosaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-xenotarsosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-abelisaurus-adult-*/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-abelisaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-abelisaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-abelisaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-arcovenator-adult-*/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-arcovenator-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-arcovenator-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-arcovenator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-aucasaurus-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-aucasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-aucasaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-aucasaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-carnotaurus-adult-*/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-carnotaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-carnotaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-carnotaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-chenanisaurus-adult-*/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-chenanisaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-chenanisaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-chenanisaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dahalokely-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dahalokely-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dahalokely-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dahalokely-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ekrixinatosaurus-adult-*/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ekrixinatosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ekrixinatosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ekrixinatosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ilokelesia-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ilokelesia-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ilokelesia-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ilokelesia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-majungasaurus-adult-*/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-majungasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-majungasaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-majungasaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pycnonemosaurus-adult-*/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pycnonemosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pycnonemosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pycnonemosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rahiolisaurus-adult-*/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rahiolisaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rahiolisaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rahiolisaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rajasaurus-adult-*/avg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rajasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rajasaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rajasaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rugops-adult-*/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rugops-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rugops-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-rugops-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-skorpiovenator-adult-*/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-skorpiovenator-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-skorpiovenator-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-skorpiovenator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tarascosaurus-adult-*/avg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tarascosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tarascosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tarascosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-thanos-adult-*/avg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-thanos-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-thanos-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-thanos-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-viavenator-adult-*/avg",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-viavenator-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-viavenator-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-viavenator-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-xenotarsosaurus-adult-*/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-xenotarsosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-xenotarsosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-xenotarsosaurus-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-abelisaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-arcovenator-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-aucasaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-carnotaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-chenanisaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-dahalokely-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-ekrixinatosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-ilokelesia-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-majungasaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-pycnonemosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-rahiolisaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-rajasaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-rugops-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-skorpiovenator-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-tarascosaurus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-thanos-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-viavenator-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-xenotarsosaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-abelisaurus-adult-*",
+    "value": 176
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-arcovenator-adult-*",
+    "value": 151
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-aucasaurus-adult-*",
+    "value": 146
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-carnotaurus-adult-*",
+    "value": 225
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-chenanisaurus-adult-*",
+    "value": 200
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-dahalokely-adult-*",
+    "value": 146
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-ekrixinatosaurus-adult-*",
+    "value": 212
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-ilokelesia-adult-*",
+    "value": 135
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-majungasaurus-adult-*",
+    "value": 176
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-pycnonemosaurus-adult-*",
+    "value": 225
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-rahiolisaurus-adult-*",
+    "value": 158
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-rajasaurus-adult-*",
+    "value": 187
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-rugops-adult-*",
+    "value": 151
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-skorpiovenator-adult-*",
+    "value": 162
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-tarascosaurus-adult-*",
+    "value": 113
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-thanos-adult-*",
+    "value": 101
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-viavenator-adult-*",
+    "value": 133
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-xenotarsosaurus-adult-*",
+    "value": 162
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMaxByType/*",
+    "value": 35
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMinByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/abelisauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/pregnancyDaysByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-incubating",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "abelisauridae"
+      }
+    ],
+    "file": "abelisauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-mature",
+    "value": 1
+  }
+]

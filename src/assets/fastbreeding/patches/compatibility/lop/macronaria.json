@@ -1,0 +1,1707 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 100
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-ampelosaurus-adult-*/avg",
+    "value": 250
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-ampelosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-ampelosaurus-baby-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-ampelosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-antarctosaurus-adult-*/avg",
+    "value": 300
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-antarctosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-antarctosaurus-baby-*/avg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-antarctosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-argentinosaurus-adult-*/avg",
+    "value": 400
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-argentinosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-argentinosaurus-baby-*/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-argentinosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-brachiosaurus-adult-*/avg",
+    "value": 350
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-brachiosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-brachiosaurus-baby-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-brachiosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-bruhathkayosaurus-adult-*/avg",
+    "value": 350
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-bruhathkayosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-bruhathkayosaurus-baby-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-bruhathkayosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-camarasaurus-adult-*/avg",
+    "value": 275
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-camarasaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-camarasaurus-baby-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-camarasaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-diamantinasaurus-adult-*/avg",
+    "value": 350
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-diamantinasaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-diamantinasaurus-baby-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-diamantinasaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-dreadnoughtus-adult-*/avg",
+    "value": 350
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-dreadnoughtus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-dreadnoughtus-baby-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-dreadnoughtus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-europatitan-adult-*/avg",
+    "value": 350
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-europatitan-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-europatitan-baby-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-europatitan-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-futalognkosaurus-adult-*/avg",
+    "value": 350
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-futalognkosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-futalognkosaurus-baby-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-futalognkosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-giraffatitan-adult-*/avg",
+    "value": 350
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-giraffatitan-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-giraffatitan-baby-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-giraffatitan-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-malawisaurus-adult-*/avg",
+    "value": 250
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-malawisaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-malawisaurus-baby-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-malawisaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-patagotitan-adult-*/avg",
+    "value": 350
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-patagotitan-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-patagotitan-baby-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-patagotitan-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-rapetosaurus-adult-*/avg",
+    "value": 225
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-rapetosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-rapetosaurus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-rapetosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-ruyangosaurus-adult-*/avg",
+    "value": 300
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-ruyangosaurus-adult-*/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-ruyangosaurus-baby-*/avg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/0/quantityByType/*-ruyangosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-ampelosaurus-adult-*/avg",
+    "value": 40
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-ampelosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-ampelosaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-ampelosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-antarctosaurus-adult-*/avg",
+    "value": 50
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-antarctosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-antarctosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-antarctosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-argentinosaurus-adult-*/avg",
+    "value": 60
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-argentinosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-argentinosaurus-baby-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-argentinosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-brachiosaurus-adult-*/avg",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-brachiosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-brachiosaurus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-brachiosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-bruhathkayosaurus-adult-*/avg",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-bruhathkayosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-bruhathkayosaurus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-bruhathkayosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-camarasaurus-adult-*/avg",
+    "value": 45
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-camarasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-camarasaurus-baby-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-camarasaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-diamantinasaurus-adult-*/avg",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-diamantinasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-diamantinasaurus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-diamantinasaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-dreadnoughtus-adult-*/avg",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-dreadnoughtus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-dreadnoughtus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-dreadnoughtus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-europatitan-adult-*/avg",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-europatitan-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-europatitan-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-europatitan-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-futalognkosaurus-adult-*/avg",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-futalognkosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-futalognkosaurus-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-futalognkosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-giraffatitan-adult-*/avg",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-giraffatitan-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-giraffatitan-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-giraffatitan-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-malawisaurus-adult-*/avg",
+    "value": 40
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-malawisaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-malawisaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-malawisaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-patagotitan-adult-*/avg",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-patagotitan-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-patagotitan-baby-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-patagotitan-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-rapetosaurus-adult-*/avg",
+    "value": 35
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-rapetosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-rapetosaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-rapetosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-ruyangosaurus-adult-*/avg",
+    "value": 50
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-ruyangosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-ruyangosaurus-baby-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/1/quantityByType/*-ruyangosaurus-baby-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-ampelosaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-antarctosaurus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-argentinosaurus-adult-*/avg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-brachiosaurus-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-bruhathkayosaurus-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-camarasaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-diamantinasaurus-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-dreadnoughtus-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-europatitan-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-futalognkosaurus-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-giraffatitan-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-malawisaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-patagotitan-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-rapetosaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-ruyangosaurus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/3/quantityByType/*-baby/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-ampelosaurus-*",
+    "value": 336
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-antarctosaurus-*",
+    "value": 480
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-argentinosaurus-*",
+    "value": 800
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-brachiosaurus-*",
+    "value": 600
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-bruhathkayosaurus-*",
+    "value": 600
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-camarasaurus-*",
+    "value": 408
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-diamantinasaurus-*",
+    "value": 600
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-dreadnoughtus-*",
+    "value": 600
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-europatitan-*",
+    "value": 600
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-futalognkosaurus-*",
+    "value": 600
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-giraffatitan-*",
+    "value": 600
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-malawisaurus-*",
+    "value": 336
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-patagotitan-*",
+    "value": 680
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-rapetosaurus-*",
+    "value": 272
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*-ruyangosaurus-*",
+    "value": 480
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/multiplyCooldownDaysMaxByType/*",
+    "value": 45
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/multiplyCooldownDaysMinByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/pregnancyDaysByType/*",
+    "value": 30
+  }
+]
