@@ -31,11 +31,11 @@ const configLibValue = (settingKey, section, value) => {
 
 const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
   const domain = modId ?? 'game'
-
+  const patchPath = `/server/behaviors/${pathSuffix}${key}`
   const patch = {
     file: `${domain}:${file}`,
     op: 'replace',
-    path: `/server/behaviors/${pathSuffix}${key}`,
+    path: patchPath,
     value: Math.ceil(value * 0.5)
   }
 
@@ -45,7 +45,7 @@ const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
 
   patch.sortKey = `${pathSuffix.replace(/^\d+\//, '')}${key}`
 
-  patch.configLib = configLibValue(settingKey ?? `${modId.toUpperCase()}_CYCLE`, pathSuffix, value)
+  patch.configLib = configLibValue(settingKey ?? `${modId.toUpperCase()}_CYCLE`, patchPath, value)
 
   return patch
 }
