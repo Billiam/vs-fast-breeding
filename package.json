@@ -7,6 +7,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
+    "add-mod": "node script/add-mod",
     "build": "yarn build-settings && script/package.sh",
     "build-settings": "node script/build-settings",
     "update": "node script/update-all",

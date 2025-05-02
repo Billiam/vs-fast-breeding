@@ -8,7 +8,16 @@ import stringify from 'json-stable-stringify'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const options = process.argv.slice(2).filter(arg => arg.startsWith('--'))
+const partition = (arr, fn) =>
+  arr.reduce(
+    (acc, val, i, arr) => {
+      acc[fn(val, i, arr) ? 0 : 1].push(val)
+      return acc
+    },
+    [[], []]
+  )
+const [mods, options] = partition(process.argv.slice(2), val => !val.startsWith('--'))
+console.log({ mods, options })
 
 const opts = options.reduce((list, option) => {
     const parsed = option.match(/^--([^=]+)(?:=(.*))?/)
@@ -17,22 +26,16 @@ const opts = options.reduce((list, option) => {
   }, {})
 
 ;(async () => {
+  const modId = mods[0]
+
   const modsConfigPath = path.join(__dirname, '../mods.json')
   const modVersions = JSON.parse(await fs.readFile(modsConfigPath, 'utf8'))
 
-  const modIds = Object.keys(modVersions.mods)
-  for (const modId of modIds) {
-    //TODO: limit updates to targeted VS versions
-    try {
-      const lastVersion = opts.force ? null : modVersions.mods[modId]
-      const newVersion = await updateMod(modId, lastVersion)
-      if (newVersion) {
-        modVersions.mods[modId] = newVersion
-      }
-    } catch (err) {
-      console.error(`Error updating mod (${modId}):`, err.message)
-    }
+  const newVersion = await updateMod(modId, null)
+  if (newVersion) {
+    modVersions.mods[modId] = newVersion
+    return fs.writeFile(modsConfigPath, stringify(modVersions, { space: '  ' }) + '\n')
+  } else {
+    console.error('Mod could not be updated')
   }
-
-  return fs.writeFile(modsConfigPath, stringify(modVersions, { space: '  ' }) + '\n')
 })()

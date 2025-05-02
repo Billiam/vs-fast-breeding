@@ -220,9 +220,16 @@ class ZipModReader {
 
     for (const file of fileList) {
       const entry = await zipFile.entryData(file)
+      let data
+      try {
+        data = json5.parse(entry.toString())
+      } catch (e) {
+        console.error('Could not parse file', file)
+        continue
+      }
       yield {
         file,
-        data: json5.parse(entry.toString())
+        data,
       }
     }
   }
@@ -250,7 +257,8 @@ export default async (modPath, { overrideModId, patchOutput, settingKey } = {}) 
     const prefix = MOD_PREFIXES.find(str =>
       modDirectory.startsWith(str)
     )
-    patchProjectPath = `compatibility/${prefix ? prefix + '/' : ''}${modId}.json`
+
+    patchProjectPath = `compatibility/${prefix ? prefix.replace(/-$/, '') + '/' : ''}${modId}.json`
   } else {
     patchProjectPath = `${patchOutput}`
   }
@@ -259,6 +267,8 @@ export default async (modPath, { overrideModId, patchOutput, settingKey } = {}) 
   await reader.cleanup()
 
   const patchPath = path.resolve(__dirname, `../src/assets/fastbreeding/patches/${patchProjectPath}`)
+
+  await fs.mkdir(path.dirname(patchPath), { recursive: true })
 
   await fs.writeFile(patchPath, stringify(patchData.patches, { cmp: sortedKeys, space: '  ' }) + '\n')
 
