@@ -6,6 +6,7 @@ import { promises as fs } from 'node:fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
 
+import { readerFromPath } from './lib/mod-reader.js'
 import sortedKeys from './lib/sorted-keys.js'
 
 const __filename = fileURLToPath(import.meta.url)
@@ -159,149 +160,11 @@ const buildModPatch = async (modId, files, { settingKey }) => {
   return output
 }
 
-class DirectoryModReader {
-  constructor(path) {
-    this.path = path
-  }
-
-  get modId() {
-    if (!this._modPromise) {
-      this._modPromise = new Promise(async (resolve, reject) => {
-        const fileData = await fs.readFile(
-          path.join(this.path, 'modinfo.json'),
-          'utf8',
-        )
-        const manifestData = json5.parse(fileData)
-        const modIdKey = Object.keys(manifestData).find(
-          (key) => key.toLowerCase() === 'modid',
-        )
-        const modId = manifestData[modIdKey]
-        if (modId) {
-          resolve(modId)
-        } else {
-          reject('Mod ID could not be found')
-        }
-      })
-    }
-    return this._modPromise
-  }
-
-  async *files() {
-    const modId = await this.modId
-    const jsonGlob = path.join(this.path, `assets/${modId}/entities/**/*.json`)
-    const fileList = await glob(jsonGlob, {})
-    for (const file of fileList) {
-      yield {
-        file,
-        data: json5.parse(await fs.readFile(file, 'utf8')),
-      }
-    }
-  }
-
-  cleanup() {}
-}
-
-class PathReader {
-  constructor(paths, modId) {
-    this.paths = paths
-    this.modid = modId
-  }
-
-  async *files() {
-    for (const file of this.paths) {
-      yield {
-        file,
-        data: json5.parse(await fs.readFile(file, 'utf8')),
-      }
-    }
-  }
-
-  cleanup() {}
-}
-
-class ZipModReader {
-  constructor(path) {
-    this.path = path
-  }
-
-  get zipFile() {
-    if (!this.zip) {
-      this.zip = new StreamZip.async({ file: this.path })
-    }
-    return this.zip
-  }
-
-  async cleanup() {
-    if (this.zip) {
-      return this.zip.close()
-    }
-  }
-
-  get modId() {
-    if (!this._modPromise) {
-      this._modPromise = new Promise(async (resolve, reject) => {
-        const buffer = await this.zipFile.entryData('modinfo.json')
-        const manifest = buffer.toString()
-        const manifestData = json5.parse(manifest)
-        const modIdKey = Object.keys(manifestData).find(
-          (key) => key.toLowerCase() === 'modid',
-        )
-        const modId = json5.parse(manifest)[modIdKey]
-        if (modId) {
-          resolve(modId)
-        } else {
-          reject('Mod ID could not be found')
-        }
-      })
-    }
-    return this._modPromise
-  }
-
-  async *files() {
-    const modId = await this.modId
-    const zipFile = await this.zipFile
-
-    const entries = await zipFile.entries()
-
-    const fileList = Object.keys(entries).filter((filename) => {
-      return (
-        filename.startsWith(`assets/${modId}/entities/`) &&
-        filename.endsWith('.json')
-      )
-    })
-
-    for (const file of fileList) {
-      const entry = await zipFile.entryData(file)
-      let data
-      try {
-        data = json5.parse(entry.toString())
-      } catch (e) {
-        console.error('Could not parse file', file)
-        continue
-      }
-      yield {
-        file,
-        data,
-      }
-    }
-  }
-}
-
-const getReaderType = (modPath) => {
-  if (Array.isArray(modPath)) {
-    return PathReader
-  } else if (modPath.endsWith('.zip')) {
-    return ZipModReader
-  } else {
-    return DirectoryModReader
-  }
-}
-
 export default async (
   modPath,
   { overrideModId, patchOutput, settingKey } = {},
 ) => {
-  const readerType = getReaderType(modPath, overrideModId)
+  const readerType = readerFromPath(modPath)
   const reader = new readerType(modPath, overrideModId)
 
   const modId = await reader.modId
