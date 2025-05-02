@@ -32,6 +32,10 @@
     type: "separator"
   },
   {
+    key: "PHANEROZOIC_CYCLE",
+    type: "cycle"
+  },
+  {
     key: "MONOCEROS_CYCLE",
     type: "cycle"
   },
@@ -109,13 +113,6 @@
   },
   {
     key: "VOMBATIDAE_CYCLE",
-    type: "cycle"
-  },
-  {
-    type: "separator"
-  },
-  {
-    key: "PHANEROZOIC_CYCLE",
     type: "cycle"
   }
 ]
