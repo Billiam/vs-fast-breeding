@@ -8,7 +8,7 @@
     "file": "cats:entities/land/cat-female.json",
     "op": "replace",
     "path": "/server/behaviors/10/drops/0/quantity/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -19,7 +19,7 @@
     "file": "cats:entities/land/cat-female.json",
     "op": "replace",
     "path": "/server/behaviors/10/drops/0/quantity/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -30,39 +30,6 @@
     "file": "cats:entities/land/cat-female.json",
     "op": "replace",
     "path": "/server/behaviors/10/drops/1/quantity/avg",
-    "value": 1.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "cats"
-      }
-    ],
-    "file": "cats:entities/land/cat-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantity/avg",
-    "value": 0.25
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "cats"
-      }
-    ],
-    "file": "cats:entities/land/cat-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantity/var",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "cats"
-      }
-    ],
-    "file": "cats:entities/land/cat-female.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/3/quantity/avg",
     "value": 0.75
   },
   {
@@ -73,8 +40,41 @@
     ],
     "file": "cats:entities/land/cat-female.json",
     "op": "replace",
-    "path": "/server/behaviors/10/drops/3/quantity/var",
+    "path": "/server/behaviors/10/drops/2/quantity/avg",
+    "value": 0.125
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cats"
+      }
+    ],
+    "file": "cats:entities/land/cat-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantity/var",
     "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cats"
+      }
+    ],
+    "file": "cats:entities/land/cat-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/3/quantity/avg",
+    "value": 0.375
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cats"
+      }
+    ],
+    "file": "cats:entities/land/cat-female.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/3/quantity/var",
+    "value": 0.25
   },
   {
     "dependsOn": [
@@ -118,7 +118,7 @@
     "file": "cats:entities/land/cat-kitten.json",
     "op": "replace",
     "path": "/server/behaviors/8/drops/0/quantity/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -129,7 +129,7 @@
     "file": "cats:entities/land/cat-kitten.json",
     "op": "replace",
     "path": "/server/behaviors/8/drops/0/quantity/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -151,7 +151,7 @@
     "file": "cats:entities/land/cat-male.json",
     "op": "replace",
     "path": "/server/behaviors/10/drops/0/quantity/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -162,7 +162,7 @@
     "file": "cats:entities/land/cat-male.json",
     "op": "replace",
     "path": "/server/behaviors/10/drops/0/quantity/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -173,39 +173,6 @@
     "file": "cats:entities/land/cat-male.json",
     "op": "replace",
     "path": "/server/behaviors/10/drops/1/quantity/avg",
-    "value": 1.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "cats"
-      }
-    ],
-    "file": "cats:entities/land/cat-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantity/avg",
-    "value": 0.25
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "cats"
-      }
-    ],
-    "file": "cats:entities/land/cat-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantity/var",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "cats"
-      }
-    ],
-    "file": "cats:entities/land/cat-male.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/3/quantity/avg",
     "value": 0.75
   },
   {
@@ -216,7 +183,40 @@
     ],
     "file": "cats:entities/land/cat-male.json",
     "op": "replace",
-    "path": "/server/behaviors/10/drops/3/quantity/var",
+    "path": "/server/behaviors/10/drops/2/quantity/avg",
+    "value": 0.125
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cats"
+      }
+    ],
+    "file": "cats:entities/land/cat-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantity/var",
     "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cats"
+      }
+    ],
+    "file": "cats:entities/land/cat-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/3/quantity/avg",
+    "value": 0.375
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "cats"
+      }
+    ],
+    "file": "cats:entities/land/cat-male.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/3/quantity/var",
+    "value": 0.25
   }
 ]

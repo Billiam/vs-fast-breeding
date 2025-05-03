@@ -8,7 +8,7 @@
     "file": "wolftaming:entities/land/dog-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/drops/0/quantity/avg",
-    "value": 7
+    "value": 3.5
   },
   {
     "dependsOn": [
@@ -19,7 +19,7 @@
     "file": "wolftaming:entities/land/dog-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/drops/0/quantity/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -30,7 +30,7 @@
     "file": "wolftaming:entities/land/dog-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/drops/1/quantity/avg",
-    "value": 1.5
+    "value": 0.75
   },
   {
     "dependsOn": [
@@ -41,7 +41,7 @@
     "file": "wolftaming:entities/land/dog-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/drops/2/quantity/avg",
-    "value": 1.25
+    "value": 0.625
   },
   {
     "dependsOn": [
@@ -52,7 +52,7 @@
     "file": "wolftaming:entities/land/dog-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/drops/3/quantity/avg",
-    "value": 4
+    "value": 2
   },
   {
     "dependsOn": [
@@ -63,7 +63,7 @@
     "file": "wolftaming:entities/land/dog-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/drops/3/quantity/var",
-    "value": 0.5
+    "value": 0.25
   },
   {
     "dependsOn": [

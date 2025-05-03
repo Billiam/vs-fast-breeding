@@ -8,7 +8,7 @@
     "file": "monoceros:entities/monoceros-indicus-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/avg",
-    "value": 6
+    "value": 3
   },
   {
     "dependsOn": [
@@ -19,7 +19,7 @@
     "file": "monoceros:entities/monoceros-indicus-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/var",
-    "value": 1.5
+    "value": 0.75
   },
   {
     "dependsOn": [
@@ -30,7 +30,7 @@
     "file": "monoceros:entities/monoceros-indicus-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantity/avg",
-    "value": 1.5
+    "value": 0.75
   },
   {
     "dependsOn": [
@@ -41,7 +41,7 @@
     "file": "monoceros:entities/monoceros-indicus-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantity/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -63,7 +63,7 @@
     "file": "monoceros:entities/monoceros-indicus-female.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/avg",
-    "value": 9
+    "value": 4.5
   },
   {
     "dependsOn": [
@@ -74,7 +74,7 @@
     "file": "monoceros:entities/monoceros-indicus-female.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/var",
-    "value": 1.5
+    "value": 0.75
   },
   {
     "dependsOn": [
@@ -85,7 +85,7 @@
     "file": "monoceros:entities/monoceros-indicus-female.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantity/avg",
-    "value": 1.5
+    "value": 0.75
   },
   {
     "dependsOn": [
@@ -96,7 +96,7 @@
     "file": "monoceros:entities/monoceros-indicus-female.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantity/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -140,7 +140,7 @@
     "file": "monoceros:entities/monoceros-indicus-male.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/avg",
-    "value": 12
+    "value": 6
   },
   {
     "dependsOn": [
@@ -151,7 +151,7 @@
     "file": "monoceros:entities/monoceros-indicus-male.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantity/var",
-    "value": 1.5
+    "value": 0.75
   },
   {
     "dependsOn": [
@@ -162,7 +162,7 @@
     "file": "monoceros:entities/monoceros-indicus-male.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantity/avg",
-    "value": 1.5
+    "value": 0.75
   },
   {
     "dependsOn": [
@@ -173,7 +173,7 @@
     "file": "monoceros:entities/monoceros-indicus-male.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantity/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -184,50 +184,6 @@
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
     "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-female-indicus/avg",
-    "value": 12
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "monoceros"
-      }
-    ],
-    "file": "monoceros:entities/monoceros.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-female-indicus/var",
-    "value": 1.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "monoceros"
-      }
-    ],
-    "file": "monoceros:entities/monoceros.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-male-indicus/avg",
-    "value": 15
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "monoceros"
-      }
-    ],
-    "file": "monoceros:entities/monoceros.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-male-indicus/var",
-    "value": 1.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "monoceros"
-      }
-    ],
-    "file": "monoceros:entities/monoceros.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-indicus/avg",
     "value": 6
   },
   {
@@ -238,8 +194,8 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
-    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-indicus/var",
-    "value": 1.5
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-female-indicus/var",
+    "value": 0.75
   },
   {
     "dependsOn": [
@@ -249,8 +205,8 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
-    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-female-indicus/avg",
-    "value": 2
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-male-indicus/avg",
+    "value": 7.5
   },
   {
     "dependsOn": [
@@ -260,8 +216,8 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
-    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-female-indicus/var",
-    "value": 1
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-male-indicus/var",
+    "value": 0.75
   },
   {
     "dependsOn": [
@@ -271,7 +227,7 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
-    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-male-indicus/avg",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-indicus/avg",
     "value": 3
   },
   {
@@ -282,7 +238,18 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
-    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-male-indicus/var",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-indicus/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-female-indicus/avg",
     "value": 1
   },
   {
@@ -293,18 +260,7 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
-    "path": "/server/behaviors/7/drops/1/quantityByType/*-baby-*-indicus/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "monoceros"
-      }
-    ],
-    "file": "monoceros:entities/monoceros.json",
-    "op": "replace",
-    "path": "/server/behaviors/7/drops/1/quantityByType/*-baby-*-indicus/var",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-female-indicus/var",
     "value": 0.5
   },
   {
@@ -315,8 +271,52 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-male-indicus/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-male-indicus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-baby-*-indicus/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-baby-*-indicus/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
     "path": "/server/behaviors/7/drops/2/quantityByType/*-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -327,7 +327,7 @@
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
     "path": "/server/behaviors/7/drops/3/quantityByType/*-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [

@@ -19,7 +19,7 @@
     "file": "pachycephalosauria:entities/land/nest.json",
     "op": "replace",
     "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
-    "value": 6
+    "value": 3
   },
   {
     "dependsOn": [
@@ -30,7 +30,7 @@
     "file": "pachycephalosauria:entities/land/nest.json",
     "op": "replace",
     "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
-    "value": 4
+    "value": 2
   },
   {
     "dependsOn": [
@@ -41,7 +41,7 @@
     "file": "pachycephalosauria:entities/land/nest.json",
     "op": "replace",
     "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
-    "value": 10
+    "value": 5
   },
   {
     "dependsOn": [
@@ -52,7 +52,7 @@
     "file": "pachycephalosauria:entities/land/nest.json",
     "op": "replace",
     "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
-    "value": 20
+    "value": 10
   },
   {
     "dependsOn": [
@@ -85,7 +85,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-acrotholus-adult-*/avg",
-    "value": 6
+    "value": 3
   },
   {
     "dependsOn": [
@@ -96,7 +96,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-acrotholus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -107,7 +107,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-acrotholus-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -118,7 +118,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-acrotholus-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -129,7 +129,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-alaskacephale-adult-*/avg",
-    "value": 5
+    "value": 2.5
   },
   {
     "dependsOn": [
@@ -140,7 +140,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-alaskacephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -151,7 +151,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-alaskacephale-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -162,7 +162,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-alaskacephale-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -173,7 +173,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-amtocephale-adult-*/avg",
-    "value": 4
+    "value": 2
   },
   {
     "dependsOn": [
@@ -184,7 +184,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-amtocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -195,7 +195,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-amtocephale-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -206,7 +206,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-amtocephale-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -217,7 +217,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-colepiocephale-adult-*/avg",
-    "value": 4
+    "value": 2
   },
   {
     "dependsOn": [
@@ -228,7 +228,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-colepiocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -239,7 +239,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-colepiocephale-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -250,7 +250,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-colepiocephale-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -261,7 +261,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-foraminacephale-adult-*/avg",
-    "value": 5
+    "value": 2.5
   },
   {
     "dependsOn": [
@@ -272,7 +272,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-foraminacephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -283,7 +283,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-foraminacephale-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -294,7 +294,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-foraminacephale-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -305,7 +305,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-goyocephale-adult-*/avg",
-    "value": 5
+    "value": 2.5
   },
   {
     "dependsOn": [
@@ -316,7 +316,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-goyocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -327,7 +327,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-goyocephale-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -338,7 +338,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-goyocephale-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -349,7 +349,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-hanssuesia-adult-*/avg",
-    "value": 6
+    "value": 3
   },
   {
     "dependsOn": [
@@ -360,7 +360,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-hanssuesia-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -371,7 +371,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-hanssuesia-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -382,7 +382,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-hanssuesia-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -393,7 +393,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-homalocephale-adult-*/avg",
-    "value": 6
+    "value": 3
   },
   {
     "dependsOn": [
@@ -404,7 +404,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-homalocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -415,7 +415,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-homalocephale-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -426,7 +426,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-homalocephale-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -437,7 +437,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-pachycephalosaurus-adult-*/avg",
-    "value": 13
+    "value": 6.5
   },
   {
     "dependsOn": [
@@ -448,7 +448,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-pachycephalosaurus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -459,7 +459,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-pachycephalosaurus-baby-*/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -470,7 +470,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-pachycephalosaurus-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -481,7 +481,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-platytholus-adult-*/avg",
-    "value": 9
+    "value": 4.5
   },
   {
     "dependsOn": [
@@ -492,7 +492,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-platytholus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -503,7 +503,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-platytholus-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -514,7 +514,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-platytholus-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -525,7 +525,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-prenocephale-adult-*/avg",
-    "value": 7
+    "value": 3.5
   },
   {
     "dependsOn": [
@@ -536,7 +536,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-prenocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -547,7 +547,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-prenocephale-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -558,7 +558,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-prenocephale-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -569,7 +569,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-sinocephale-adult-*/avg",
-    "value": 6
+    "value": 3
   },
   {
     "dependsOn": [
@@ -580,7 +580,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-sinocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -591,7 +591,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-sinocephale-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -602,7 +602,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-sinocephale-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -613,7 +613,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-sphaerotholus-adult-*/avg",
-    "value": 6
+    "value": 3
   },
   {
     "dependsOn": [
@@ -624,7 +624,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-sphaerotholus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -635,7 +635,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-sphaerotholus-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -646,7 +646,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-sphaerotholus-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -657,7 +657,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-stegoceras-adult-*/avg",
-    "value": 7
+    "value": 3.5
   },
   {
     "dependsOn": [
@@ -668,7 +668,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-stegoceras-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -679,7 +679,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-stegoceras-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -690,7 +690,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-stegoceras-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -701,7 +701,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-tylocephale-adult-*/avg",
-    "value": 6
+    "value": 3
   },
   {
     "dependsOn": [
@@ -712,7 +712,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-tylocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -723,7 +723,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-tylocephale-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -734,7 +734,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-tylocephale-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -745,7 +745,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-wannanosaurus-adult-*/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -756,7 +756,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-wannanosaurus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -767,7 +767,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-wannanosaurus-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -778,7 +778,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/0/quantityByType/*-wannanosaurus-baby-*/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -789,7 +789,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-acrotholus-adult-*/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -800,7 +800,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-acrotholus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -811,7 +811,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-alaskacephale-adult-*/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -822,7 +822,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-alaskacephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -833,7 +833,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-amtocephale-adult-*/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -844,7 +844,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-amtocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -855,7 +855,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-colepiocephale-adult-*/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -866,7 +866,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-colepiocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -877,7 +877,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-foraminacephale-adult-*/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -888,7 +888,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-foraminacephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -899,7 +899,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-goyocephale-adult-*/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -910,7 +910,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-goyocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -921,7 +921,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-hanssuesia-adult-*/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -932,7 +932,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-hanssuesia-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -943,7 +943,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-homalocephale-adult-*/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -954,7 +954,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-homalocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -965,7 +965,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-pachycephalosaurus-adult-*/avg",
-    "value": 6
+    "value": 3
   },
   {
     "dependsOn": [
@@ -976,7 +976,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-pachycephalosaurus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -987,7 +987,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-platytholus-adult-*/avg",
-    "value": 4
+    "value": 2
   },
   {
     "dependsOn": [
@@ -998,7 +998,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-platytholus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1009,7 +1009,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-prenocephale-adult-*/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -1020,7 +1020,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-prenocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1031,7 +1031,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-sinocephale-adult-*/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -1042,7 +1042,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-sinocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1053,7 +1053,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-sphaerotholus-adult-*/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -1064,7 +1064,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-sphaerotholus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1075,7 +1075,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-stegoceras-adult-*/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -1086,7 +1086,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-stegoceras-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1097,7 +1097,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-tylocephale-adult-*/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -1108,7 +1108,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-tylocephale-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1119,7 +1119,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-wannanosaurus-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1130,7 +1130,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/1/quantityByType/*-wannanosaurus-adult-*/var",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -1141,7 +1141,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/2/quantityByType/*-pachycephalosaurus-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1152,7 +1152,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/3/quantityByType/*-platytholus-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1163,7 +1163,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/3/quantityByType/*-stegoceras-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1174,7 +1174,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-acrotholus-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1185,7 +1185,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-alaskacephale-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1196,7 +1196,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-amtocephale-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1207,7 +1207,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-colepiocephale-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1218,7 +1218,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-foraminacephale-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1229,7 +1229,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-goyocephale-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1240,7 +1240,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-hanssuesia-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1251,7 +1251,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-homalocephale-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1262,7 +1262,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-prenocephale-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1273,7 +1273,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-sinocephale-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1284,7 +1284,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-sphaerotholus-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1295,7 +1295,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-tylocephale-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -1306,7 +1306,7 @@
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
     "path": "/server/behaviors/11/drops/4/quantityByType/*-wannanosaurus-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
