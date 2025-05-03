@@ -12,17 +12,34 @@ import sortedKeys from './lib/sorted-keys.js'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
-const BEHAVIOR_TARGETS = [
-  'drops',
-  'hoursToGrow',
-  'pregnancyDays',
-  'multiplyCooldownDaysMin',
-  'multiplyCooldownDaysMax',
-]
 const MOD_PREFIXES = ['fotsa', 'lop-']
 const GROUP_SETTINGS = {
   lop: 'PHANEROZOIC_CYCLE',
 }
+const BEHAVIOR_PREFIXES = ['/server/behaviors/*', '/server/behaviorConfigs']
+const BEHAVIOR_PATHS = [
+  '/drops/*/quantity/avg',
+  '/drops/*/quantity/var',
+  '/drops/*/quantityByType/*/avg',
+  '/drops/*/quantityByType/*/var',
+
+  '/dropsByType/*/quantity/avg',
+  '/dropsByType/*/quantity/var',
+  '/dropsByType/*/quantityByType/*/avg',
+  '/dropsByType/*/quantityByType/*/var',
+
+  '/multiplyCooldownDaysMin',
+  '/multiplyCooldownDaysMax',
+  '/pregnancyDays',
+  '/hoursToGrow',
+]
+
+const BEHAVIOR_PATH_REGEX = BEHAVIOR_PREFIXES.flatMap((behavior_prefix) => {
+  return BEHAVIOR_PATHS.map((behavior_path) => {
+    const fullPath = `${behavior_prefix}${behavior_path}`
+    return new RegExp(fullPath.replaceAll('*', '[^/]+'), 'i')
+  })
+})
 
 const configLibValue = (settingKey, section, value) => {
   let configValue = `round(${settingKey} * ${value})`
@@ -31,107 +48,78 @@ const configLibValue = (settingKey, section, value) => {
     configValue = `max(1, ${configValue})`
   } else if (sections.includes('multiplyCooldownDaysMin') && value === 0) {
     configValue = `greater(${settingKey}, 1.0, ceiling(${settingKey} - 1), 0)`
-  } else if (sections.includes('drops')) {
+  } else if (sections.includes('drops') || section.includes('dropsByType')) {
     configValue = `(REDUCE_DROPS) ? min(1.0, ${settingKey}) * ${value} : ${value}`
   }
   return configValue
 }
 
-const buildPatch = (file, modId, pathSuffix, key, value, settingKey) => {
+const buildPatch = (file, modId, fullPath, value, settingKey) => {
   const domain = modId ?? 'game'
-  const patchPath = `/server/behaviors/${pathSuffix}${key}`
+
+  let patchValue = value * 0.5
+  if (fullPath.includes('/drops')) {
+    if (value === 0) {
+      // no need to reduce drops which are already average or variance of zero
+      return
+    }
+  } else {
+    patchValue = Math.ceil(patchValue)
+  }
   const patch = {
     file: `${domain}:${file}`,
     op: 'replace',
-    path: patchPath,
-    value: Math.ceil(value * 0.5),
+    path: fullPath,
+    value: patchValue,
   }
 
   if (modId) {
     patch.dependsOn = [{ modId }]
   }
 
-  patch.sortKey = `${pathSuffix.replace(/^\d+\//, '')}${key}`
+  patch.sortKey = fullPath.replace(/\/\d+\//, '/', 1)
 
   patch.configLib = configLibValue(
     settingKey ?? `${modId.toUpperCase()}_CYCLE`,
-    patchPath,
+    fullPath,
     value,
   )
 
   return patch
 }
 
+const leafNodes = (data, parentPath) => {
+  if (!data) {
+    return []
+  }
+  return Object.entries(data).flatMap(([key, value]) => {
+    const childPath = `${parentPath}/${key}`
+
+    if (typeof value === 'object' || Array.isArray(value)) {
+      return leafNodes(value, childPath)
+    } else {
+      return { value, path: childPath, key, parent: data }
+    }
+  })
+}
+
+const filterLeafNodes = (data, path, filters) => {
+  const nodes = leafNodes(data, path ?? '')
+  return nodes.filter((node) => filters.find((regex) => regex.test(node.path)))
+}
+
 export const filePatch = async (modId, filename, fileData, settingKey) => {
-  const patchPath = filename.match(/entities.*/)[0]
-
-  return fileData.server.behaviors.reduce(
-    (patches, behavior, behaviorIndex) => {
-      const suffix = `${behaviorIndex}/`
-
-      Object.entries(behavior).forEach(([key, value]) => {
-        const keyWithoutType = key.replace(/ByType$/, '')
-
-        if (BEHAVIOR_TARGETS.includes(key)) {
-          if (key === 'drops') {
-            value.forEach((drop, dropIndex) => {
-              if (!drop.quantity && !drop.quantityByType) {
-                // missing section block in one config file (`hooved/goat.json`) in VS 1.2.9
-                return
-              }
-              const dropPrefix = `${key}/${dropIndex}/${drop.quantityByType ? 'quantityByType' : 'quantity'}`
-              const children = drop.quantityByType
-                ? Object.entries(drop.quantityByType)
-                : [[null, drop.quantity]]
-
-              children.forEach(([childKey, childValue]) => {
-                const quantityPath = childKey
-                  ? `${dropPrefix}/${childKey}`
-                  : dropPrefix
-                Object.entries(childValue).forEach(
-                  ([quantityKey, quantityValue]) => {
-                    if (quantityValue > 0) {
-                      const patch = buildPatch(
-                        patchPath,
-                        modId,
-                        `${suffix}${quantityPath}/`,
-                        quantityKey,
-                        quantityValue,
-                        settingKey,
-                      )
-                      // remove rounding, not needed for drops
-                      patch.value = quantityValue
-                      patches.push(patch)
-                    }
-                  },
-                )
-              })
-            })
-          } else {
-            patches.push(
-              buildPatch(patchPath, modId, suffix, key, value, settingKey),
-            )
-          }
-        } else if (BEHAVIOR_TARGETS.includes(keyWithoutType)) {
-          Object.entries(value).forEach(([subKey, value]) => {
-            patches.push(
-              buildPatch(
-                patchPath,
-                modId,
-                `${suffix}${key}/`,
-                subKey,
-                value,
-                settingKey,
-              ),
-            )
-          })
-        }
-      })
-
-      return patches
-    },
-    [],
+  const entityPath = filename.match(/entities.*/)[0]
+  const nodesToPatch = filterLeafNodes(
+    fileData.server,
+    '/server',
+    BEHAVIOR_PATH_REGEX,
   )
+  return nodesToPatch
+    .map((node) =>
+      buildPatch(entityPath, modId, node.path, node.value, settingKey),
+    )
+    .filter(Boolean)
 }
 
 const buildModPatch = async (modId, files, { settingKey }) => {
@@ -140,6 +128,7 @@ const buildModPatch = async (modId, files, { settingKey }) => {
   for await (const { file, data } of files) {
     results.push(...(await filePatch(modId, file, data, settingKey)))
   }
+
   results.sort((a, b) => {
     return a.file.localeCompare(b.file) || a.sortKey.localeCompare(b.sortKey)
   })
@@ -172,12 +161,12 @@ export default async (
   let patchProjectPath
   if (modId) {
     const modDirectory = path.basename(modPath).toLowerCase()
-    const prefix = MOD_PREFIXES.find((str) =>
+    const modPrefix = MOD_PREFIXES.find((str) =>
       modDirectory.startsWith(str),
     )?.replace(/-$/, '')
-    settingKey ??= GROUP_SETTINGS[prefix]
+    settingKey ??= GROUP_SETTINGS[modPrefix]
 
-    patchProjectPath = `compatibility/${prefix ? prefix + '/' : ''}${modId}.json`
+    patchProjectPath = `compatibility/${modPrefix ? modPrefix + '/' : ''}${modId}.json`
   } else {
     patchProjectPath = `${patchOutput}`
   }

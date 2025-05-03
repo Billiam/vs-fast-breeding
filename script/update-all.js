@@ -31,7 +31,7 @@ const opts = options.reduce((list, option) => {
         modVersions.mods[modId] = newVersion
       }
     } catch (err) {
-      console.error(`Error updating mod (${modId}):`, err.message)
+      console.error(`Error updating mod (${modId}):`, err)
     }
   }
 
