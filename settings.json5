@@ -7,14 +7,11 @@
   },
   {
     type: 'separator',
+    title: 'mods'
   },
   {
     key: 'CHICKEN_CYCLE',
     type: 'cycle',
-  },
-  {
-    key: 'DEER_CYCLE',
-    type: 'cycle'
   },
   {
     key: 'GOAT_CYCLE',
@@ -38,6 +35,10 @@
   {
     key: 'CATS_CYCLE',
     type: 'cycle',
+  },
+  {
+    key: 'DEER_CYCLE',
+    type: 'cycle'
   },
   {
     key: 'PHANEROZOIC_CYCLE',

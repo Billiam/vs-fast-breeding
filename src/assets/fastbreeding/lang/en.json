@@ -1,6 +1,7 @@
 {
   "reduce-drops": "Reduce drops by breeding rate",
   "reduce-drops-comment": "Animal drops will be reduced to compensate for faster breeding times",
+  "mods": "Mods",
   "chicken-cycle": "Chicken breeding rate",
   "hare-cycle": "Hare breeding rate",
   "pig-cycle": "Pig breeding rate",

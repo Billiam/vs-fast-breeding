@@ -1,12 +1,13 @@
 {
   "formatting": [
     {
+      "title": "mods",
       "type": "separator",
       "weight": 1
     },
     {
       "type": "separator",
-      "weight": 8
+      "weight": 7
     },
     {
       "title": "fotsa",
@@ -3355,7 +3356,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 9
+        "weight": 8
       },
       "CERVINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3391,7 +3392,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 3
+        "weight": 9
       },
       "ELEPHANTIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3427,7 +3428,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 4
+        "weight": 3
       },
       "HARE_CYCLE": {
         "comment": "cycle-comment",
@@ -3439,7 +3440,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 5
+        "weight": 4
       },
       "INIIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3547,7 +3548,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 6
+        "weight": 5
       },
       "RHINOCEROTIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3571,7 +3572,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 7
+        "weight": 6
       },
       "SIRENIA_CYCLE": {
         "comment": "cycle-comment",
