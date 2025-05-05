@@ -1,0 +1,497 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult/avg",
+    "value": 6.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-elk-*-adult/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-elk-*-adult/var",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-elk-*-baby/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-elk-*-baby/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-pampas-*-adult/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-pampas-*-adult/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-pampas-*-baby/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-pudu-*-adult/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-redbrocket-*-adult/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-redbrocket-*-adult/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-redbrocket-*-baby/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-water-*-adult/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-water-*-adult/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/deer-water-*-baby/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-guemal-*-adult/avg",
+    "value": 0.65
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-guemal-*-adult/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-pampas-*-adult/avg",
+    "value": 0.85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-pampas-*-adult/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-redbrocket-*-adult/avg",
+    "value": 0.85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-redbrocket-*-adult/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-taruca-*-adult/avg",
+    "value": 0.65
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-taruca-*-adult/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-water-*-adult/avg",
+    "value": 0.65
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/deer-water-*-adult/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-caribou-*-adult/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-caribou-*-adult/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-chital-*-adult/avg",
+    "value": 0.9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-chital-*-adult/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-elk-*-adult/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-elk-*-adult/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-fallow-*-adult/avg",
+    "value": 0.9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-fallow-*-adult/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-guemal-*-adult/avg",
+    "value": 0.9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-guemal-*-adult/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-marsh-*-adult/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-marsh-*-adult/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-taruca-*-adult/avg",
+    "value": 0.9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-taruca-*-adult/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-whitetail-*-adult/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/4/quantityByType/deer-whitetail-*-adult/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/deer.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrow",
+    "value": 168
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "op": "add",
+    "path": "/client/behaviors/-",
+    "value": {
+      "code": "multiply",
+      "enabledByType": {
+        "deer-moose-female-adult": true,
+        "deer-moose-*": false
+      }
+    },
+    "dependsOn": [
+      {
+        "modid": "detailedanimals",
+        "invert": true
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "multiply",
+      "enabledByType": {
+        "deer-moose-female-adult": true,
+        "deer-moose-*": false
+      },
+      "spawnEntityCodesByType": {
+        "deer-moose-female-adult": [
+          {
+            "code": "deer-moose-male-baby"
+          },
+          {
+            "code": "deer-moose-female-baby"
+          }
+        ]
+      },
+      "requiresNearbyEntityCodeByType": {
+        "deer-moose-female-adult": "deer-moose-male-adult"
+      },
+      "requiresNearbyEntityRange": 6,
+      "spawnQuantityMin": 1,
+      "spawnQuantityMax": 1,
+      "pregnancyDays": 14,
+      "multiplyCooldownDaysMin": 4,
+      "multiplyCooldownDaysMax": 11,
+      "portionsEatenForMultiply": 10
+    },
+    "dependsOn": [
+      {
+        "modid": "detailedanimals",
+        "invert": true
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "side": "Server"
+  }
+]

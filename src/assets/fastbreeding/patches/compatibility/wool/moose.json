@@ -1,0 +1,90 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult/avg",
+    "value": 6.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult/avg",
+    "value": 0.85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/*-baby/avg",
+    "value": 0.85
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/3/quantityByType/*-adult/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ],
+    "file": "game:entities/land/hooved/moose.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/3/quantityByType/*-adult/var",
+    "value": 0.15
+  }
+]

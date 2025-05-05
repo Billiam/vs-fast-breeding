@@ -15,11 +15,16 @@ export class DirectoryModReader {
           path.join(this.path, 'modinfo.json'),
           'utf8',
         )
-        const modId = json5.parse(fileData).modid
+
+        const modIdKey = Object.keys(fileData).find(
+          (key) => key.toLowerCase() === 'modid',
+        )
+        const modId = fileData[modIdKey]
+
         if (modId) {
-          resolve(modId)
+          resolve(modId.toLowerCase())
         } else {
-          reject(modId)
+          reject('Mod ID could not be found')
         }
       })
     }
@@ -31,13 +36,22 @@ export class DirectoryModReader {
     const jsonGlob = path.join(this.path, `assets/${modId}/${path}/**/*.json`)
     const fileList = await glob(jsonGlob, {})
     for (const file of fileList) {
+      let data
+      try {
+        data = json5.parse(await fs.readFile(file, 'utf8'))
+      } catch (e) {
+        console.error('Could not parse file', file)
+        continue
+      }
+
       yield {
         file,
-        data: json5.parse(await fs.readFile(file, 'utf8')),
+        data,
       }
     }
   }
 
+  // compatibility files?
   files() {
     return this.filteredFiles('entities')
   }
@@ -57,9 +71,17 @@ export class PathReader {
 
   async *files() {
     for (const file of this.paths) {
+      let data
+      try {
+        data = json5.parse(await fs.readFile(file, 'utf8'))
+      } catch (e) {
+        console.error('Could not parse file', file)
+        continue
+      }
+
       yield {
         file,
-        data: json5.parse(await fs.readFile(file, 'utf8')),
+        data,
       }
     }
   }
@@ -94,11 +116,16 @@ export class ZipModReader {
       this._modPromise = new Promise(async (resolve, reject) => {
         const buffer = await this.zipFile.entryData('modinfo.json')
         const manifest = buffer.toString()
-        const modId = json5.parse(manifest).modid
+        const manifestData = json5.parse(manifest)
+        const modIdKey = Object.keys(manifestData).find(
+          (key) => key.toLowerCase() === 'modid',
+        )
+        const modId = manifestData[modIdKey]
+
         if (modId) {
-          resolve(modId)
+          resolve(modId.toLowerCase())
         } else {
-          reject()
+          reject('Mod ID could not be found')
         }
       })
     }
@@ -119,9 +146,16 @@ export class ZipModReader {
 
     for (const file of fileList) {
       const entry = await zipFile.entryData(file)
+      let data
+      try {
+        data = json5.parse(entry.toString())
+      } catch (e) {
+        console.error('Could not parse file', file)
+        continue
+      }
       yield {
         file,
-        data: json5.parse(entry.toString()),
+        data,
       }
     }
   }

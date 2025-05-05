@@ -1,0 +1,113 @@
+[
+  {
+    "op": "add",
+    "path": "/client/behaviors/-",
+    "value": {
+      "code": "shearable",
+      "enabledByType": {
+        "cervidae-cervini-adult-*": true,
+        "*": false
+      },
+      "hoursPerUnit": 42,
+      "hoursPerUnitGenerationalReduction": 0.5,
+      "hoursPerUnitMaxReduction": 8,
+      "maxGenBonus": 4,
+      "generationalMaxGrowthBonus": 1,
+      "generationalScratchChanceReduction": 0.04,
+      "minQuantity": 8,
+      "maxQuantity": 16,
+      "minGen": 3,
+      "shearsBonus": 4,
+      "scratchChance": 0.45,
+      "drop": "wool:fleece-generic-lightbrown",
+      "shearSound": "game:sounds/player/scrape.ogg"
+    },
+    "file": "entities/land/cervini.json",
+    "side": "Server",
+    "dependsOn": [
+      {
+        "modid": "wool"
+      }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/server/behaviors/-",
+    "value": {
+      "code": "shearable",
+      "enabledByType": {
+        "cervidae-cervini-adult-*": true,
+        "*": false
+      },
+      "hoursPerUnit": 55,
+      "hoursPerUnitGenerationalReduction": 0.5,
+      "hoursPerUnitMaxReduction": 8,
+      "maxGenBonus": 4,
+      "generationalMaxGrowthBonus": 1,
+      "generationalScratchChanceReduction": 0.04,
+      "minQuantity": 8,
+      "maxQuantity": 16,
+      "minGen": 3,
+      "shearsBonus": 2,
+      "scratchChance": 0.45,
+      "drop": "wool:fleece-generic-lightbrown",
+      "shearSound": "game:sounds/player/scrape.ogg"
+    },
+    "file": "entities/land/cervini.json",
+    "side": "Server",
+    "dependsOn": [
+      {
+        "modid": "wool"
+      }
+    ]
+  },
+  {
+    "side": "Server",
+    "dependsOn": [
+      {
+        "modid": "wool"
+      }
+    ],
+    "file": "cervinae:entities/land/cervini",
+    "op": "addeach",
+    "path": "/server/behaviors/11/drops/-",
+    "value": [
+      {
+        "type": "item",
+        "code": "wool:fleece-generic-lightbrown",
+        "quantityByType": {
+          "*-adult-*-megalocerosgiganteus": {
+            "avg": 7,
+            "var": 2
+          },
+          "*-baby-*-megalocerosgiganteus": {
+            "avg": 2,
+            "var": 1
+          },
+          "*": {
+            "avg": 0,
+            "var": 0
+          }
+        }
+      },
+      {
+        "type": "item",
+        "code": "wool:fleece-generic-white",
+        "quantityByType": {
+          "*-adult-*-megalocerosgiganteus": {
+            "avg": 4,
+            "var": 1
+          },
+          "*-baby-*-megalocerosgiganteus": {
+            "avg": 2,
+            "var": 1
+          },
+          "*": {
+            "avg": 0,
+            "var": 0
+          }
+        }
+      }
+    ]
+  }
+]

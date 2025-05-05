@@ -1,0 +1,92 @@
+[
+  {
+    "side": "Server",
+    "dependsOn": [
+      {
+        "modid": "wool"
+      }
+    ],
+    "file": "vombatidae:entities/land/vombatidae-adult",
+    "op": "addeach",
+    "path": "/server/behaviors/6/drops/-",
+    "value": [
+      {
+        "type": "item",
+        "code": "wool:fleece-generic-lightbrown",
+        "quantityByType": {
+          "*-adult-*-lasiorhinuslatifrons": {
+            "avg": 1.5,
+            "var": 0.5
+          },
+          "*": {
+            "avg": 0,
+            "var": 0
+          }
+        }
+      },
+      {
+        "type": "item",
+        "code": "wool:fleece-generic-gray",
+        "quantityByType": {
+          "*-adult-*-lasiorhinuskrefftii": {
+            "avg": 1.5,
+            "var": 0.5
+          },
+          "*-adult-*-phascolonusgigas": {
+            "avg": 3,
+            "var": 1
+          },
+          "*": {
+            "avg": 0,
+            "var": 0
+          }
+        }
+      }
+    ]
+  },
+  {
+    "side": "Server",
+    "dependsOn": [
+      {
+        "modid": "wool"
+      }
+    ],
+    "file": "vombatidae:entities/land/vombatidae-baby",
+    "op": "addeach",
+    "path": "/server/behaviors/6/drops/-",
+    "value": [
+      {
+        "type": "item",
+        "code": "wool:fleece-generic-lightbrown",
+        "quantityByType": {
+          "*-baby-*-lasiorhinuslatifrons": {
+            "avg": 0.5,
+            "var": 0.5
+          },
+          "*": {
+            "avg": 0,
+            "var": 0
+          }
+        }
+      },
+      {
+        "type": "item",
+        "code": "wool:fleece-generic-gray",
+        "quantityByType": {
+          "*-baby-*-lasiorhinuskrefftii": {
+            "avg": 0.5,
+            "var": 0.5
+          },
+          "*-baby-*-phascolonusgigas": {
+            "avg": 1,
+            "var": 1
+          },
+          "*": {
+            "avg": 0,
+            "var": 0
+          }
+        }
+      }
+    ]
+  }
+]

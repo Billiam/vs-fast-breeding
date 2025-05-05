@@ -8,7 +8,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-caracalcaracal/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -19,7 +19,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-caracalcaracal/var",
-    "value": 0.5
+    "value": 0.25
   },
   {
     "dependsOn": [
@@ -30,7 +30,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-lynxcanadensis/avg",
-    "value": 2
+    "value": 1
   },
   {
     "dependsOn": [
@@ -41,7 +41,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-lynxcanadensis/var",
-    "value": 0.5
+    "value": 0.25
   },
   {
     "dependsOn": [
@@ -52,7 +52,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-lynxlynx/avg",
-    "value": 3
+    "value": 1.5
   },
   {
     "dependsOn": [
@@ -63,28 +63,6 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-lynxlynx/var",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ],
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-lynxpardinus/avg",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "felinae"
-      }
-    ],
-    "file": "felinae:entities/land/felinae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-lynxpardinus/var",
     "value": 0.5
   },
   {
@@ -95,8 +73,30 @@
     ],
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-lynxpardinus/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-lynxpardinus/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "felinae"
+      }
+    ],
+    "file": "felinae:entities/land/felinae.json",
+    "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*/var",
-    "value": 0.3
+    "value": 0.15
   },
   {
     "dependsOn": [
@@ -107,7 +107,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -118,7 +118,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-baby-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -129,7 +129,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*-caracalcaracal/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -140,7 +140,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*-caracalcaracal/var",
-    "value": 0.3
+    "value": 0.15
   },
   {
     "dependsOn": [
@@ -151,7 +151,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*-lynxcanadensis/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -162,7 +162,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*-lynxcanadensis/var",
-    "value": 0.3
+    "value": 0.15
   },
   {
     "dependsOn": [
@@ -173,7 +173,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*-lynxlynx/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -184,7 +184,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*-lynxlynx/var",
-    "value": 0.3
+    "value": 0.15
   },
   {
     "dependsOn": [
@@ -195,7 +195,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*-lynxpardinus/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -206,7 +206,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*-lynxpardinus/var",
-    "value": 0.3
+    "value": 0.15
   },
   {
     "dependsOn": [
@@ -217,7 +217,7 @@
     "file": "felinae:entities/land/felinae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/*-baby-*/var",
-    "value": 0.3
+    "value": 0.15
   },
   {
     "dependsOn": [

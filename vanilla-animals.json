@@ -1,0 +1,61 @@
+[
+  {
+    "input": [
+      "land/pig-wild-*.json"
+    ],
+    "output": "land/pig-wild.json",
+    "key": "PIG_CYCLE"
+  },
+  {
+    "input": [
+      "land/hooved/goat.json"
+    ],
+    "output": "land/hooved/goat.json",
+    "key": "GOAT_CYCLE"
+  },
+  {
+    "input": [
+      "land/sheep-bighorn-*.json"
+    ],
+    "output": "land/sheep-bighorn.json",
+    "key": "SHEEP_CYCLE"
+  },
+  {
+    "input": [
+      "land/chicken-*.json"
+    ],
+    "output": "land/chicken.json",
+    "key": "CHICKEN_CYCLE"
+  },
+  {
+    "input": [
+      "land/hare-*.json"
+    ],
+    "output": "land/hare.json",
+    "key": "HARE_CYCLE"
+  },
+  {
+    "input": [
+      "land/hooved/moose.json"
+    ],
+    "output": "compatibility/wool/moose.json",
+    "key": "DEER_CYCLE",
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ]
+  },
+  {
+    "input": [
+      "land/hooved/deer.json"
+    ],
+    "output": "compatibility/wool/deer.json",
+    "key": "DEER_CYCLE",
+    "dependsOn": [
+      {
+        "modId": "wool"
+      }
+    ]
+  }
+]

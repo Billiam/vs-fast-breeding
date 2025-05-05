@@ -21,7 +21,6 @@ const [mods, options] = partition(
   process.argv.slice(2),
   (val) => !val.startsWith('--'),
 )
-console.log({ mods, options })
 
 const opts = options.reduce((list, option) => {
   const parsed = option.match(/^--([^=]+)(?:=(.*))?/)

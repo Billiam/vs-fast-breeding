@@ -30,7 +30,7 @@
     "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/meiolaniidae-adult-*-ninjemysoweni/avg",
-    "value": 12
+    "value": 6
   },
   {
     "dependsOn": [
@@ -41,7 +41,7 @@
     "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/meiolaniidae-adult-*-ninjemysoweni/var",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -52,7 +52,7 @@
     "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/meiolaniidae-baby-*-ninjemysoweni/avg",
-    "value": 0.5
+    "value": 0.25
   },
   {
     "dependsOn": [
@@ -63,7 +63,7 @@
     "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/meiolaniidae-adult-*-ninjemysoweni/avg",
-    "value": 12
+    "value": 6
   },
   {
     "dependsOn": [
@@ -74,17 +74,6 @@
     "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/meiolaniidae-adult-*-ninjemysoweni/var",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "meiolaniidae"
-      }
-    ],
-    "file": "meiolaniidae:entities/land/meiolaniidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/meiolaniidae-baby-*-ninjemysoweni/avg",
     "value": 0.5
   },
   {
@@ -95,8 +84,19 @@
     ],
     "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/meiolaniidae-baby-*-ninjemysoweni/avg",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "meiolaniidae"
+      }
+    ],
+    "file": "meiolaniidae:entities/land/meiolaniidae.json",
+    "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-*/avg",
-    "value": 1
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -107,7 +107,7 @@
     "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/meiolaniidae-adult-*-ninjemysoweni/avg",
-    "value": 4.5
+    "value": 2.25
   },
   {
     "dependsOn": [
@@ -118,7 +118,7 @@
     "file": "meiolaniidae:entities/land/meiolaniidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/3/quantityByType/meiolaniidae-adult-*-ninjemysoweni/var",
-    "value": 0.3
+    "value": 0.15
   },
   {
     "dependsOn": [

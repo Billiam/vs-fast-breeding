@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import vanillaAnimals from '../vanilla-animals.json' with { type: 'json' }
 import { glob } from 'glob'
 import path from 'path'
 
@@ -16,34 +17,6 @@ const args = process.argv.slice(2)
 
 const [dirs, options] = partition(args, (val) => !val.startsWith('--'))
 
-const patchList = [
-  {
-    input: ['land/pig-wild-*.json'],
-    output: 'land/pig-wild.json',
-    key: 'PIG_CYCLE',
-  },
-  {
-    input: ['land/hooved/goat.json'],
-    output: 'land/hooved/goat.json',
-    key: 'GOAT_CYCLE',
-  },
-  {
-    input: ['land/sheep-bighorn-*.json'],
-    output: 'land/sheep-bighorn.json',
-    key: 'SHEEP_CYCLE',
-  },
-  {
-    input: ['land/chicken-*.json'],
-    output: 'land/chicken.json',
-    key: 'CHICKEN_CYCLE',
-  },
-  {
-    input: ['land/hare-*.json'],
-    output: 'land/hare.json',
-    key: 'HARE_CYCLE',
-  },
-]
-
 const opts = options.reduce((list, option) => {
   const parsed = option.match(/^--([^=]+)(?:=(.*))?/)
   list[parsed[1]] = parsed[2] === '' || parsed[2] == null ? true : parsed[2]
@@ -56,13 +29,13 @@ const opts = options.reduce((list, option) => {
   if (!entityDir) {
     throw new Error('Mod directory or file paths are required')
   }
-  for (const { input, output, key } of patchList) {
+  for (const { input, output, key, dependsOn } of vanillaAnimals) {
     const files = (
       await Promise.all(
         input.map((globPath) => glob(path.join(entityDir, globPath))),
       )
     ).flat()
 
-    await patch(files, { patchOutput: output, settingKey: key })
+    await patch(files, { patchOutput: output, settingKey: key, dependsOn })
   }
 })()
