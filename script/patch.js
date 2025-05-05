@@ -419,7 +419,7 @@ export default async (
   if (modId) {
     const modOverrideDirectory = path.resolve(
       __dirname,
-      '../src/compatibility',
+      '../src/assets/fastbreeding/compatibility',
       modId,
     )
 
