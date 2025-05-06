@@ -188,87 +188,6 @@ const getPatchSettingKey = async (patchPath) => {
   }
 }
 
-const buildCompatibilityPatch = async (modId, file, data) => {
-  const dataCopy = structuredClone(data)
-
-  dataCopy.forEach((patch, patchIndex) => {
-    patch.index = patchIndex
-  })
-  const configLibPatches = {}
-
-  let vendorPatch = false
-  let lastSkip
-  const patchPromises = dataCopy
-    .filter(
-      (patch) =>
-        patch.op.startsWith('add') && patch.side?.toLowerCase() !== 'client',
-    )
-    .map(async (patch) => {
-      // one compatibility patch item generates multiple changes + configlib items
-      const settingKey = await getPatchSettingKey(patch.file)
-      if (!settingKey) {
-        if (patch.file !== lastSkip) {
-          lastSkip = patch.file
-          // console.log('Skipping', patch.file)
-        }
-        return
-      }
-
-      const changes = filterLeafNodes(
-        patch.value,
-        patch.path,
-        BEHAVIOR_PATH_REGEX,
-      )
-
-      changes.forEach((filteredPatch) => {
-        const patchValue = getPatchValue(
-          filteredPatch.value,
-          filteredPatch.path,
-        )
-
-        // need to preserve original value
-        if (patchValue == null) {
-          return
-        }
-        vendorPatch = true
-        // mutate patch value
-        filteredPatch.parent[filteredPatch.key] = patchValue
-
-        const configLibPath = `${patch.index}/value${filteredPatch.path.substring(patch.path.length)}`
-        // issue: not enough info here to identify drop maybe, but should be visible from original patch
-        // so path passed to value should be original path
-        const { type, value } = configLibValue(
-          settingKey,
-          filteredPatch.path,
-          filteredPatch.value,
-        )
-        configLibPatches[type] ??= {}
-        configLibPatches[type][configLibPath] = value
-      })
-    })
-
-  await Promise.all(patchPromises)
-
-  if (!vendorPatch) {
-    return
-  }
-
-  const patchPrefix = `assets/${modId}/`
-  if (!file.startsWith(patchPrefix)) {
-    throw new Error(`Unexpected patch directory: ${file}`)
-  }
-  const filePathSuffix = file.substring(patchPrefix.length)
-  dataCopy.forEach((patch) => {
-    delete patch.index
-  })
-
-  return {
-    data: dataCopy,
-    outputPath: filePathSuffix,
-    configLib: configLibPatches,
-  }
-}
-
 const findVanillaModifications = (modId, file, data) => {
   const patches = data
     .filter(
@@ -324,13 +243,7 @@ const buildModPatch = async (
     newVanillaAnimals: {},
   }
 
-  const overridePatches = []
   for await (const { file, data } of patches) {
-    const patch = await buildCompatibilityPatch(modId, file, data, settingKey)
-    if (patch) {
-      overridePatches.push(patch)
-    }
-
     const vanillaPatches = await findVanillaModifications(modId, file, data)
     if (vanillaPatches) {
       output.newVanillaAnimals[modId] = {
@@ -345,7 +258,6 @@ const buildModPatch = async (
   })
 
   output.patches = results
-  output.overridePatches = overridePatches
 
   output.patches.forEach((patch, patchIndex) => {
     const configKey = `${patchIndex}/value`
@@ -356,10 +268,6 @@ const buildModPatch = async (
 
     delete patch.sortKey
     delete patch.configLib
-  })
-
-  output.overridePatches.forEach((patch) => {
-    delete patch.index
   })
 
   return output
@@ -415,62 +323,18 @@ export default async (
   )
   const configLibData = JSON.parse(await fs.readFile(configLibFile, 'utf8'))
 
-  // clear patch override subdirectory
-  if (modId) {
-    const modOverrideDirectory = path.resolve(
-      __dirname,
-      '../src/assets/fastbreeding/compatibility',
-      modId,
-    )
-
-    await fs.rm(modOverrideDirectory, { force: true, recursive: true })
-
-    if (patchData.overridePatches.length > 0) {
-      await fs.mkdir(modOverrideDirectory, { recursive: true })
-
-      await Promise.all(
-        patchData.overridePatches.map(async (override) => {
-          const overridePath = path.join(
-            modOverrideDirectory,
-            override.outputPath,
-          )
-          await fs.mkdir(path.dirname(overridePath), { recursive: true })
-          console.log('Writing ', overridePath)
-          return fs.writeFile(
-            overridePath,
-            JSON.stringify(override.data, null, 2),
-          )
-        }),
-      )
-    }
-  }
-
-  const overrideOutputKey = `fastbreeding:compatibility/${modId}`
   const outputKey = `fastbreeding:patches/${patchProjectPath}`
 
   // remove existing keys first
   Object.values(configLibData.patches).forEach((data) => {
     Object.keys(data)
-      .filter(
-        (patchFile) =>
-          patchFile.startsWith(overrideOutputKey) ||
-          patchFile.startsWith(outputKey),
-      )
+      .filter((patchFile) => patchFile.startsWith(outputKey))
       .forEach((key) => delete data[key])
   })
 
   Object.entries(patchData.configLib).forEach(([type, patches]) => {
     configLibData.patches[type] ??= {}
     configLibData.patches[type][outputKey] = patches
-  })
-
-  patchData.overridePatches.forEach((patchFile) => {
-    Object.entries(patchFile.configLib).forEach(([type, configLib]) => {
-      const configLibKey = path.join(overrideOutputKey, patchFile.outputPath)
-
-      configLibData.patches[type] ??= {}
-      configLibData.patches[type][configLibKey] = configLib
-    })
   })
 
   Object.entries(patchData.newVanillaAnimals).forEach(
