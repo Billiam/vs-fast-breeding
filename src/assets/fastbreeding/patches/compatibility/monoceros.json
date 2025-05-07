@@ -183,6 +183,28 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-*-caledonius/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-*-caledonius/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
     "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-female-indicus/avg",
     "value": 6
   },
@@ -227,6 +249,28 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-caledonius/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-caledonius/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
     "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-indicus/avg",
     "value": 3
   },
@@ -240,6 +284,28 @@
     "op": "replace",
     "path": "/server/behaviors/7/drops/0/quantityByType/*-baby-*-indicus/var",
     "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-*-caledonius/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-*-caledonius/var",
+    "value": 0.5
   },
   {
     "dependsOn": [
@@ -284,6 +350,28 @@
     "op": "replace",
     "path": "/server/behaviors/7/drops/1/quantityByType/*-adult-male-indicus/var",
     "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-baby-*-caledonius/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/*-baby-*-caledonius/var",
+    "value": 0.25
   },
   {
     "dependsOn": [
@@ -371,6 +459,6 @@
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
     "path": "/server/behaviors/9/pregnancyDaysByType/*-indicus",
-    "value": 13
+    "value": 21
   }
 ]

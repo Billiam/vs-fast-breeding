@@ -33,29 +33,5 @@
     ],
     "output": "land/hare.json",
     "key": "HARE_CYCLE"
-  },
-  {
-    "input": [
-      "land/hooved/moose.json"
-    ],
-    "output": "compatibility/wool/moose.json",
-    "key": "DEER_CYCLE",
-    "dependsOn": [
-      {
-        "modId": "wool"
-      }
-    ]
-  },
-  {
-    "input": [
-      "land/hooved/deer.json"
-    ],
-    "output": "compatibility/wool/deer.json",
-    "key": "DEER_CYCLE",
-    "dependsOn": [
-      {
-        "modId": "wool"
-      }
-    ]
   }
 ]
