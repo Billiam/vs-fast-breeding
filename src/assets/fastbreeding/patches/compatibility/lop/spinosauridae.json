@@ -689,17 +689,6 @@
     ],
     "file": "spinosauridae:entities/land/spinosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/12/hoursToGrowByType/*",
-    "value": 300
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "spinosauridae"
-      }
-    ],
-    "file": "spinosauridae:entities/land/spinosauridae.json",
-    "op": "replace",
     "path": "/server/behaviors/12/hoursToGrowByType/*-baryonyx-*",
     "value": 240
   },
