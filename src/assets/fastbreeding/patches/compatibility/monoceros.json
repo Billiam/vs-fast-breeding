@@ -458,7 +458,18 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
-    "path": "/server/behaviors/9/pregnancyDaysByType/*-indicus",
+    "path": "/server/behaviors/9/pregnancyDaysByType/*-caledonius",
     "value": 21
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/pregnancyDaysByType/*-indicus",
+    "value": 16
   }
 ]

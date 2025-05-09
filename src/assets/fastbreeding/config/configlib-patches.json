@@ -2978,16 +2978,15 @@
         "0/value": "max(1, round(PHANEROZOIC_CYCLE * 160))",
         "5/value": "max(1, round(PHANEROZOIC_CYCLE * 160))",
         "6/value": "max(1, round(PHANEROZOIC_CYCLE * 3))",
-        "62/value": "max(1, round(PHANEROZOIC_CYCLE * 600))",
-        "63/value": "max(1, round(PHANEROZOIC_CYCLE * 480))",
-        "64/value": "max(1, round(PHANEROZOIC_CYCLE * 420))",
-        "65/value": "max(1, round(PHANEROZOIC_CYCLE * 360))",
-        "66/value": "max(1, round(PHANEROZOIC_CYCLE * 540))",
-        "67/value": "max(1, round(PHANEROZOIC_CYCLE * 600))",
-        "68/value": "max(1, round(PHANEROZOIC_CYCLE * 510))",
-        "69/value": "round(PHANEROZOIC_CYCLE * 70)",
-        "70/value": "round(PHANEROZOIC_CYCLE * 30)",
-        "71/value": "max(1, round(PHANEROZOIC_CYCLE * 30))"
+        "62/value": "max(1, round(PHANEROZOIC_CYCLE * 480))",
+        "63/value": "max(1, round(PHANEROZOIC_CYCLE * 420))",
+        "64/value": "max(1, round(PHANEROZOIC_CYCLE * 360))",
+        "65/value": "max(1, round(PHANEROZOIC_CYCLE * 540))",
+        "66/value": "max(1, round(PHANEROZOIC_CYCLE * 600))",
+        "67/value": "max(1, round(PHANEROZOIC_CYCLE * 510))",
+        "68/value": "round(PHANEROZOIC_CYCLE * 70)",
+        "69/value": "round(PHANEROZOIC_CYCLE * 30)",
+        "70/value": "max(1, round(PHANEROZOIC_CYCLE * 30))"
       },
       "fastbreeding:patches/compatibility/lop/tyrannosauridae.json": {
         "0/value": "max(1, round(PHANEROZOIC_CYCLE * 160))",
@@ -3017,7 +3016,8 @@
         "38/value": "max(1, round(MONOCEROS_CYCLE * 168))",
         "39/value": "round(MONOCEROS_CYCLE * 11)",
         "40/value": "round(MONOCEROS_CYCLE * 6)",
-        "41/value": "max(1, round(MONOCEROS_CYCLE * 42))"
+        "41/value": "max(1, round(MONOCEROS_CYCLE * 42))",
+        "42/value": "max(1, round(MONOCEROS_CYCLE * 32))"
       },
       "fastbreeding:patches/compatibility/moreanimals.json": {
         "1/value": "max(1, round(MOREANIMALS_CYCLE * 168))",
