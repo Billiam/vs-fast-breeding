@@ -1,0 +1,1003 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-globidens-adult-*/avg",
+    "value": 15.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-globidens-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-globidens-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-globidens-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-kaikaifilu-adult-*/avg",
+    "value": 23.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-kaikaifilu-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-kaikaifilu-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-kaikaifilu-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-moanasaurus-adult-*/avg",
+    "value": 23.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-moanasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-moanasaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-moanasaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-mosasaurus-adult-*/avg",
+    "value": 37.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-mosasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-mosasaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-mosasaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-platecarpus-adult-*/avg",
+    "value": 17.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-platecarpus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-platecarpus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-platecarpus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-plotosaurus-adult-*/avg",
+    "value": 29.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-plotosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-plotosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-plotosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-prognathodon-adult-*/avg",
+    "value": 27.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-prognathodon-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-prognathodon-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-prognathodon-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-taniwhasaurus-adult-*/avg",
+    "value": 17.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-taniwhasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-taniwhasaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-taniwhasaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-thalassotitan-adult-*/avg",
+    "value": 27.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-thalassotitan-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-thalassotitan-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-thalassotitan-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-tylosaurus-adult-*/avg",
+    "value": 33.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-tylosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-tylosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/0/quantityByType/*-tylosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-globidens-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-globidens-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-kaikaifilu-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-kaikaifilu-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-kaikaifilu-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-moanasaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-moanasaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-moanasaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-mosasaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-mosasaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-mosasaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-platecarpus-adult-*/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-platecarpus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-plotosaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-plotosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-plotosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-prognathodon-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-prognathodon-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-prognathodon-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-taniwhasaurus-adult-*/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-taniwhasaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-thalassotitan-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-thalassotitan-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-thalassotitan-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-tylosaurus-adult-*/avg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-tylosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/1/quantityByType/*-tylosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-globidens-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-kaikaifilu-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-moanasaurus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-mosasaurus-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-platecarpus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-plotosaurus-adult-*/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-prognathodon-adult-*/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-taniwhasaurus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-thalassotitan-adult-*/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*-tylosaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/drops/3/quantityByType/*-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-globidens-*",
+    "value": 149
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-kaikaifilu-*",
+    "value": 251
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-moanasaurus-*",
+    "value": 251
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-mosasaurus-*",
+    "value": 425
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-platecarpus-*",
+    "value": 174
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-plotosaurus-*",
+    "value": 323
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-prognathodon-*",
+    "value": 302
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-taniwhasaurus-*",
+    "value": 174
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-thalassotitan-*",
+    "value": 302
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*-tylosaurus-*",
+    "value": 374
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/multiplyCooldownDaysMaxByType/*",
+    "value": 35
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/multiplyCooldownDaysMinByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "mosasauridae"
+      }
+    ],
+    "file": "mosasauridae:entities/land/mosasauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/pregnancyDaysByType/*",
+    "value": 15
+  }
+]
