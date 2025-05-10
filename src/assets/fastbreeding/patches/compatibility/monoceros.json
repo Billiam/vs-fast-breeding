@@ -425,7 +425,7 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
-    "path": "/server/behaviors/11/hoursToGrowByType/*-indicus",
+    "path": "/server/behaviors/11/hoursToGrowByType/*",
     "value": 84
   },
   {
