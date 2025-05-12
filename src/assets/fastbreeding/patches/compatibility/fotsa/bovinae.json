@@ -216,7 +216,7 @@
     ],
     "file": "bovinae:entities/land/bovinae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/8/pregnancyDaysByType/*-bovinae-*",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*",
     "value": 29
   },
   {
