@@ -7,7 +7,7 @@
   },
   {
     type: 'separator',
-    title: 'mods'
+    title: 'mods',
   },
   {
     key: 'CHICKEN_CYCLE',
@@ -74,7 +74,7 @@
   },
   {
     key: 'CHELONIOIDEA_CYCLE',
-    type: 'cycle'
+    type: 'cycle',
   },
   {
     key: 'ELEPHANTIDAE_CYCLE',
