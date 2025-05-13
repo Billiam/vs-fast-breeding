@@ -35,6 +35,31 @@
         "18/value": "(REDUCE_DROPS) ? min(1.0, CATS_CYCLE) * 0.75 : 0.75",
         "19/value": "(REDUCE_DROPS) ? min(1.0, CATS_CYCLE) * 0.5 : 0.5"
       },
+      "fastbreeding:patches/compatibility/chelonioidea.json": {
+        "0/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 9.5 : 9.5",
+        "1/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.5 : 0.5",
+        "2/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 9.5 : 9.5",
+        "3/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.5 : 0.5",
+        "4/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 16 : 16",
+        "5/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 1 : 1",
+        "6/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 4.5 : 4.5",
+        "7/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.5 : 0.5",
+        "8/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 2.5 : 2.5",
+        "9/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.5 : 0.5",
+        "10/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 2.5 : 2.5",
+        "11/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.5 : 0.5",
+        "12/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 4.5 : 4.5",
+        "13/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.5 : 0.5",
+        "14/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 1 : 1",
+        "15/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 2 : 2",
+        "16/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.3 : 0.3",
+        "17/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 2 : 2",
+        "18/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.3 : 0.3",
+        "19/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 4.5 : 4.5",
+        "20/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.5 : 0.5",
+        "21/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 1 : 1",
+        "22/value": "(REDUCE_DROPS) ? min(1.0, CHELONIOIDEA_CYCLE) * 0.3 : 0.3"
+      },
       "fastbreeding:patches/compatibility/fotsa/bovinae.json": {
         "0/value": "(REDUCE_DROPS) ? min(1.0, BOVINAE_CYCLE) * 34 : 34",
         "1/value": "(REDUCE_DROPS) ? min(1.0, BOVINAE_CYCLE) * 3 : 3",
@@ -2482,6 +2507,19 @@
         "9/value": "max(1, round(CATS_CYCLE * 20))",
         "12/value": "max(1, round(CATS_CYCLE * 408))"
       },
+      "fastbreeding:patches/compatibility/chelonioidea.json": {
+        "23/value": "round(CHELONIOIDEA_CYCLE * 90)",
+        "24/value": "round(CHELONIOIDEA_CYCLE * 73)",
+        "25/value": "max(1, round(CHELONIOIDEA_CYCLE * 13))",
+        "26/value": "max(1, round(CHELONIOIDEA_CYCLE * 2980))",
+        "27/value": "max(1, round(CHELONIOIDEA_CYCLE * 4558))",
+        "28/value": "max(1, round(CHELONIOIDEA_CYCLE * 2100))",
+        "29/value": "max(1, round(CHELONIOIDEA_CYCLE * 3500))",
+        "30/value": "max(1, round(CHELONIOIDEA_CYCLE * 1750))",
+        "31/value": "max(1, round(CHELONIOIDEA_CYCLE * 1750))",
+        "32/value": "max(1, round(CHELONIOIDEA_CYCLE * 1750))",
+        "33/value": "max(1, round(CHELONIOIDEA_CYCLE * 240))"
+      },
       "fastbreeding:patches/compatibility/fotsa/bovinae.json": {
         "17/value": "round(BOVINAE_CYCLE * 22)",
         "18/value": "round(BOVINAE_CYCLE * 8)",
@@ -3242,6 +3280,18 @@
         },
         "weight": 17
       },
+      "CHELONIOIDEA_CYCLE": {
+        "comment": "cycle-comment",
+        "default": 0.5,
+        "ingui": "fastbreeding:chelonioidea-cycle",
+        "logarithmic": true,
+        "name": "chelonioidea-cycle",
+        "range": {
+          "max": 10,
+          "min": 0
+        },
+        "weight": 18
+      },
       "CHICKEN_CYCLE": {
         "comment": "cycle-comment",
         "default": 0.5,
@@ -3264,7 +3314,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 18
+        "weight": 19
       },
       "FELINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3276,7 +3326,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 19
+        "weight": 20
       },
       "GOAT_CYCLE": {
         "comment": "cycle-comment",
@@ -3312,7 +3362,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 20
+        "weight": 21
       },
       "MACHAIRODONTINAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3324,7 +3374,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 21
+        "weight": 22
       },
       "MANIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3336,7 +3386,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 22
+        "weight": 23
       },
       "MEIOLANIIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3348,7 +3398,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 23
+        "weight": 24
       },
       "MONOCEROS_CYCLE": {
         "comment": "cycle-comment",
@@ -3384,7 +3434,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 24
+        "weight": 25
       },
       "PHANEROZOIC_CYCLE": {
         "comment": "cycle-comment",
@@ -3420,7 +3470,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 25
+        "weight": 26
       },
       "SHEEP_CYCLE": {
         "comment": "cycle-comment",
@@ -3444,7 +3494,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 26
+        "weight": 27
       },
       "SPHENISCIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3456,7 +3506,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 27
+        "weight": 28
       },
       "THYLACINIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3468,7 +3518,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 28
+        "weight": 29
       },
       "VIVERRIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3480,7 +3530,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 29
+        "weight": 30
       },
       "VOMBATIDAE_CYCLE": {
         "comment": "cycle-comment",
@@ -3492,7 +3542,7 @@
           "max": 10,
           "min": 0
         },
-        "weight": 30
+        "weight": 31
       },
       "WOLFTAMING_CYCLE": {
         "comment": "cycle-comment",

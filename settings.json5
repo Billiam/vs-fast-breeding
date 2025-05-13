@@ -73,6 +73,10 @@
     type: 'cycle',
   },
   {
+    key: 'CHELONIOIDEA_CYCLE',
+    type: 'cycle'
+  },
+  {
     key: 'ELEPHANTIDAE_CYCLE',
     type: 'cycle',
   },

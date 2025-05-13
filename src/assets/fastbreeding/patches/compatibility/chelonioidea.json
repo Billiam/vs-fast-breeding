@@ -1,0 +1,376 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-carettacaretta/avg",
+    "value": 4.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-carettacaretta/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-cheloniamydas/avg",
+    "value": 4.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-cheloniamydas/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-dermochelyscoriacea/avg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-dermochelyscoriacea/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-eretmochelysimbricata/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-eretmochelysimbricata/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-lepidochelyskempii/avg",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-lepidochelyskempii/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-lepidochelysolivacea/avg",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-lepidochelysolivacea/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-natatordepressus/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/chelonioidea-adult-*-natatordepressus/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/chelonioidea-adult-*-carettacaretta/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/chelonioidea-adult-*-carettacaretta/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/chelonioidea-adult-*-cheloniamydas/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/chelonioidea-adult-*-cheloniamydas/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/chelonioidea-adult-*-dermochelyscoriacea/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/chelonioidea-adult-*-dermochelyscoriacea/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/chelonioidea-adult-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/chelonioidea-adult-*/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
+    "value": 45
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
+    "value": 37
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrowByType/*-carettacaretta",
+    "value": 1490
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrowByType/*-cheloniamydas",
+    "value": 2279
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrowByType/*-dermochelyscoriacea",
+    "value": 1050
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrowByType/*-eretmochelysimbricata",
+    "value": 1750
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrowByType/*-lepidochelyskempii",
+    "value": 875
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrowByType/*-lepidochelysolivacea",
+    "value": 875
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrowByType/*-natatordepressus",
+    "value": 875
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "chelonioidea"
+      }
+    ],
+    "file": "chelonioidea:entities/water/chelonioidea-egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrowByType/*",
+    "value": 120
+  }
+]

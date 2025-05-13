@@ -9,10 +9,10 @@ const __dirname = path.dirname(__filename)
 
 export default async (url, filename) => {
   console.log('Fetching', url)
-  const tmpDirPath = path.resolve(__dirname, '../tmp')
-
+  const tmpDirPath = path.resolve(__dirname, '../../tmp')
   const destination = path.join(tmpDirPath, filename)
   if (existsSync(destination)) {
+    console.log('Destination exists', destination)
     return destination
   }
 
