@@ -1,36 +1,26 @@
 [
   {
-    "input": [
-      "land/pig-wild-*.json"
-    ],
+    "input": ["land/pig-wild-*.json"],
     "output": "land/pig-wild.json",
     "key": "PIG_CYCLE"
   },
   {
-    "input": [
-      "land/hooved/goat.json"
-    ],
+    "input": ["land/hooved/goat.json"],
     "output": "land/hooved/goat.json",
     "key": "GOAT_CYCLE"
   },
   {
-    "input": [
-      "land/sheep-bighorn-*.json"
-    ],
+    "input": ["land/sheep-bighorn-*.json"],
     "output": "land/sheep-bighorn.json",
     "key": "SHEEP_CYCLE"
   },
   {
-    "input": [
-      "land/chicken-*.json"
-    ],
+    "input": ["land/chicken-*.json"],
     "output": "land/chicken.json",
     "key": "CHICKEN_CYCLE"
   },
   {
-    "input": [
-      "land/hare-*.json"
-    ],
+    "input": ["land/hare-*.json"],
     "output": "land/hare.json",
     "key": "HARE_CYCLE"
   }
