@@ -1339,28 +1339,6 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-ampelosaurus-adult-*/avg",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "macronaria"
-      }
-    ],
-    "file": "macronaria:entities/land/macronaria.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/drops/2/quantityByType/*-antarctosaurus-adult-*/avg",
-    "value": 3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "macronaria"
-      }
-    ],
-    "file": "macronaria:entities/land/macronaria.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/drops/2/quantityByType/*-argentinosaurus-adult-*/avg",
     "value": 4
   },
   {
@@ -1371,8 +1349,30 @@
     ],
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-antarctosaurus-adult-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/drops/2/quantityByType/*-argentinosaurus-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "macronaria"
+      }
+    ],
+    "file": "macronaria:entities/land/macronaria.json",
+    "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-brachiosaurus-adult-*/avg",
-    "value": 3.5
+    "value": 8
   },
   {
     "dependsOn": [
@@ -1383,7 +1383,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-bruhathkayosaurus-adult-*/avg",
-    "value": 3.5
+    "value": 8
   },
   {
     "dependsOn": [
@@ -1394,7 +1394,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-camarasaurus-adult-*/avg",
-    "value": 2.5
+    "value": 6
   },
   {
     "dependsOn": [
@@ -1405,7 +1405,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-diamantinasaurus-adult-*/avg",
-    "value": 3.5
+    "value": 8
   },
   {
     "dependsOn": [
@@ -1416,7 +1416,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-dreadnoughtus-adult-*/avg",
-    "value": 3.5
+    "value": 8
   },
   {
     "dependsOn": [
@@ -1427,7 +1427,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-europatitan-adult-*/avg",
-    "value": 3.5
+    "value": 8
   },
   {
     "dependsOn": [
@@ -1438,7 +1438,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-futalognkosaurus-adult-*/avg",
-    "value": 3.5
+    "value": 8
   },
   {
     "dependsOn": [
@@ -1449,7 +1449,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-giraffatitan-adult-*/avg",
-    "value": 3.5
+    "value": 8
   },
   {
     "dependsOn": [
@@ -1460,7 +1460,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-malawisaurus-adult-*/avg",
-    "value": 2
+    "value": 5
   },
   {
     "dependsOn": [
@@ -1471,7 +1471,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-patagotitan-adult-*/avg",
-    "value": 3.5
+    "value": 8
   },
   {
     "dependsOn": [
@@ -1482,7 +1482,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-rapetosaurus-adult-*/avg",
-    "value": 1.5
+    "value": 4.5
   },
   {
     "dependsOn": [
@@ -1493,7 +1493,7 @@
     "file": "macronaria:entities/land/macronaria.json",
     "op": "replace",
     "path": "/server/behaviors/9/drops/2/quantityByType/*-ruyangosaurus-adult-*/avg",
-    "value": 3
+    "value": 6
   },
   {
     "dependsOn": [
