@@ -1281,11 +1281,7 @@
         "69/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 1 : 1",
         "70/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 3 : 3",
         "71/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 3 : 3",
-        "72/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 1 : 1",
-        "86/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 6 : 6",
-        "87/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 4 : 4",
-        "88/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 10 : 10",
-        "89/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 20 : 20"
+        "72/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 1 : 1"
       },
       "fastbreeding:patches/compatibility/lop/carcharodontosauridae.json": {
         "0/value": "(REDUCE_DROPS) ? min(1.0, PHANEROZOIC_CYCLE) * 143 : 143",
@@ -3073,9 +3069,7 @@
         "82/value": "round(PHANEROZOIC_CYCLE * 60)",
         "83/value": "round(PHANEROZOIC_CYCLE * 30)",
         "84/value": "max(1, round(PHANEROZOIC_CYCLE * 30))",
-        "85/value": "max(1, round(PHANEROZOIC_CYCLE * 160))",
-        "90/value": "max(1, round(PHANEROZOIC_CYCLE * 140))",
-        "91/value": "max(1, round(PHANEROZOIC_CYCLE * 2))"
+        "85/value": "max(1, round(PHANEROZOIC_CYCLE * 160))"
       },
       "fastbreeding:patches/compatibility/lop/carcharodontosauridae.json": {
         "107/value": "max(1, round(PHANEROZOIC_CYCLE * 760))",
