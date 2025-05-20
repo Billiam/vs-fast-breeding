@@ -1,0 +1,1289 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-incubating",
+    "value": 70
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-mature",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-alcovasaurus-adult-*/avg",
+    "value": 46.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-alcovasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-alcovasaurus-baby-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-alcovasaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-chungkingosaurus-adult-*/avg",
+    "value": 28
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-chungkingosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-chungkingosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-chungkingosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dacentrurus-adult-*/avg",
+    "value": 62.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dacentrurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dacentrurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dacentrurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-gigantspinosaurus-adult-*/avg",
+    "value": 32.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-gigantspinosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-gigantspinosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-gigantspinosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-hesperosaurus-adult-*/avg",
+    "value": 46.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-hesperosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-hesperosaurus-baby-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-hesperosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-huayangosaurus-adult-*/avg",
+    "value": 30.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-huayangosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-huayangosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-huayangosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-isaberrysaura-adult-*/avg",
+    "value": 44
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-isaberrysaura-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-isaberrysaura-baby-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-isaberrysaura-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-kentrosaurus-adult-*/avg",
+    "value": 34
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-kentrosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-kentrosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-kentrosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-miragaia-adult-*/avg",
+    "value": 45.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-miragaia-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-miragaia-baby-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-miragaia-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-stegosaurus-adult-*/avg",
+    "value": 62.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-stegosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-stegosaurus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-stegosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tuojiangosaurus-adult-*/avg",
+    "value": 46.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tuojiangosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tuojiangosaurus-baby-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tuojiangosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-wuerhosaurus-adult-*/avg",
+    "value": 50
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-wuerhosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-wuerhosaurus-baby-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-wuerhosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-alcovasaurus-adult-*/avg",
+    "value": 18.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-alcovasaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-alcovasaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-chungkingosaurus-adult-*/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-chungkingosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dacentrurus-adult-*/avg",
+    "value": 25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dacentrurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dacentrurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-gigantspinosaurus-adult-*/avg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-gigantspinosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-gigantspinosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-hesperosaurus-adult-*/avg",
+    "value": 18.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-hesperosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-hesperosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-huayangosaurus-adult-*/avg",
+    "value": 12.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-huayangosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-isaberrysaura-adult-*/avg",
+    "value": 17.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-isaberrysaura-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-isaberrysaura-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-kentrosaurus-adult-*/avg",
+    "value": 13.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-kentrosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-kentrosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-miragaia-adult-*/avg",
+    "value": 18
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-miragaia-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-miragaia-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-stegosaurus-adult-*/avg",
+    "value": 25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-stegosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-stegosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tuojiangosaurus-adult-*/avg",
+    "value": 18.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tuojiangosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tuojiangosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-wuerhosaurus-adult-*/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-wuerhosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-wuerhosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-alcovasaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-chungkingosaurus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-dacentrurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-gigantspinosaurus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-hesperosaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-huayangosaurus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-isaberrysaura-adult-*/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-kentrosaurus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-miragaia-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-stegosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-tuojiangosaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-wuerhosaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-baby/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-alcovasaurus-*",
+    "value": 342
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-chungkingosaurus-*",
+    "value": 185
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-dacentrurus-*",
+    "value": 475
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-gigantspinosaurus-*",
+    "value": 223
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-hesperosaurus-*",
+    "value": 342
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-huayangosaurus-*",
+    "value": 209
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-isaberrysaura-*",
+    "value": 318
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-kentrosaurus-*",
+    "value": 238
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-miragaia-*",
+    "value": 333
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-stegosaurus-*",
+    "value": 500
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-tuojiangosaurus-*",
+    "value": 342
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-wuerhosaurus-*",
+    "value": 371
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMaxByType/*",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMinByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "stegosauria"
+      }
+    ],
+    "file": "stegosauria:entities/land/stegosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/pregnancyDaysByType/*",
+    "value": 15
+  }
+]

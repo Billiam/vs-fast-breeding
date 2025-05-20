@@ -810,17 +810,6 @@
     ],
     "file": "ankylosauria:entities/land/ankylosauria.json",
     "op": "replace",
-    "path": "/server/behaviors/13/hoursToGrowByType/*",
-    "value": 360
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "ankylosauria"
-      }
-    ],
-    "file": "ankylosauria:entities/land/ankylosauria.json",
-    "op": "replace",
     "path": "/server/behaviors/13/hoursToGrowByType/*-ankylosaurus-adult-male",
     "value": 360
   },

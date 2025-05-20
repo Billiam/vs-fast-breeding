@@ -1316,17 +1316,6 @@
     ],
     "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
     "op": "replace",
-    "path": "/server/behaviors/13/hoursToGrowByType/*",
-    "value": 360
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "pachycephalosauria"
-      }
-    ],
-    "file": "pachycephalosauria:entities/land/pachycephalosauria.json",
-    "op": "replace",
     "path": "/server/behaviors/13/hoursToGrowByType/*-acrotholus-*",
     "value": 48
   },
