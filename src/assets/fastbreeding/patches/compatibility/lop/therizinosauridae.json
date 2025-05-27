@@ -1,0 +1,1091 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-incubating",
+    "value": 70
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-mature",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-alxasaurus-adult-*/avg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-alxasaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-alxasaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-alxasaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-beipiaosaurus-adult-*/avg",
+    "value": 9.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-beipiaosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-beipiaosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-beipiaosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-erliansaurus-adult-*/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-erliansaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-erliansaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-erliansaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-falcarius-adult-*/avg",
+    "value": 13.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-falcarius-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-falcarius-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-falcarius-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-jianchangosaurus-adult-*/avg",
+    "value": 8.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-jianchangosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-jianchangosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-jianchangosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-neimongosaurus-adult-*/avg",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-neimongosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-neimongosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nothronychus-adult-*/avg",
+    "value": 16.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nothronychus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nothronychus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nothronychus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-segnosaurus-adult-*/avg",
+    "value": 27.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-segnosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-segnosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-segnosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-suzhousaurus-adult-*/avg",
+    "value": 22
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-suzhousaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-suzhousaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-suzhousaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-therizinosaurus-adult-*/avg",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-therizinosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-therizinosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-therizinosaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-alxasaurus-adult-*/avg",
+    "value": 6.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-alxasaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-alxasaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-beipiaosaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-beipiaosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-erliansaurus-adult-*/avg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-erliansaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-falcarius-adult-*/avg",
+    "value": 5.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-falcarius-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-jianchangosaurus-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-jianchangosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-neimongosaurus-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-neimongosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-nothronychus-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-nothronychus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-nothronychus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-segnosaurus-adult-*/avg",
+    "value": 11.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-segnosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-segnosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-suzhousaurus-adult-*/avg",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-suzhousaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-suzhousaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-therizinosaurus-adult-*/avg",
+    "value": 12.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-therizinosaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-therizinosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-alxasaurus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-beipiaosaurus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-erliansaurus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-falcarius-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-jianchangosaurus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-neimongosaurus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-nothronychus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-segnosaurus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-suzhousaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-therizinosaurus-adult-*/avg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-adult-*/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-adult-*/var",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-baby-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-alxasaurus-*",
+    "value": 120
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-beipiaosaurus-*",
+    "value": 63
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-erliansaurus-*",
+    "value": 75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-falcarius-*",
+    "value": 100
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-jianchangosaurus-*",
+    "value": 55
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-neimongosaurus-*",
+    "value": 50
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-nothronychus-*",
+    "value": 125
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-segnosaurus-*",
+    "value": 225
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-suzhousaurus-*",
+    "value": 175
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-therizinosaurus-*",
+    "value": 250
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMaxByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMinByType/*",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "therizinosauridae"
+      }
+    ],
+    "file": "therizinosauridae:entities/land/therizinosauridae.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/pregnancyDaysByType/*",
+    "value": 15
+  }
+]

@@ -1284,7 +1284,7 @@
     "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
     "op": "replace",
     "path": "/server/behaviors/12/multiplyCooldownDaysMaxByType/*",
-    "value": 20
+    "value": 10
   },
   {
     "dependsOn": [
@@ -1295,7 +1295,7 @@
     "file": "dromaeosauridae:entities/land/dromaeosauridae.json",
     "op": "replace",
     "path": "/server/behaviors/12/multiplyCooldownDaysMinByType/*",
-    "value": 10
+    "value": 5
   },
   {
     "dependsOn": [
