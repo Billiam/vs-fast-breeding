@@ -114,7 +114,13 @@ export class ZipModReader {
   get modId() {
     if (!this._modPromise) {
       this._modPromise = new Promise(async (resolve, reject) => {
-        const buffer = await this.zipFile.entryData('modinfo.json')
+        let buffer
+        try {
+          buffer = await this.zipFile.entryData('modinfo.json')
+        } catch (error) {
+          reject(error)
+          return
+        }
         const manifest = buffer.toString()
         const manifestData = json5.parse(manifest)
         const modIdKey = Object.keys(manifestData).find(
