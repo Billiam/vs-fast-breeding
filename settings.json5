@@ -37,6 +37,10 @@
     type: 'cycle',
   },
   {
+    key: 'EQUUS_CYCLE',
+    type: 'cycle'
+  },
+  {
     key: 'PHANEROZOIC_CYCLE',
     type: 'cycle',
   },
