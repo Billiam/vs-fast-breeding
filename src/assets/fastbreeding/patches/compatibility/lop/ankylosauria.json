@@ -5,6 +5,930 @@
         "modId": "ankylosauria"
       }
     ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ankylosaurus-adult-*/avg",
+    "value": 25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ankylosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ankylosaurus-baby-*/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ankylosaurus-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-antarctopelta-adult-*/avg",
+    "value": 12.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-antarctopelta-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-antarctopelta-baby-*/avg",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-antarctopelta-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-edmontonia-adult-*/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-edmontonia-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-edmontonia-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-edmontonia-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-euoplocephalus-adult-*/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-euoplocephalus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-euoplocephalus-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-euoplocephalus-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pinacosaurus-adult-*/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pinacosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pinacosaurus-baby-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pinacosaurus-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-struthiosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-struthiosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-struthiosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-struthiosaurus-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tarchia-adult-*/avg",
+    "value": 22.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tarchia-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tarchia-baby-*/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tarchia-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ziapelta-adult-*/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ziapelta-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ziapelta-baby-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ziapelta-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ankylosaurus-adult-*/avg",
+    "value": 12.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ankylosaurus-adult-*/var",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ankylosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ankylosaurus-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-antarctopelta-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-antarctopelta-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-antarctopelta-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-antarctopelta-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-edmontonia-adult-*/avg",
+    "value": 7.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-edmontonia-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-edmontonia-baby-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-edmontonia-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-euoplocephalus-adult-*/avg",
+    "value": 7.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-euoplocephalus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-euoplocephalus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-euoplocephalus-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pinacosaurus-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pinacosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pinacosaurus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pinacosaurus-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-struthiosaurus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-struthiosaurus-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-struthiosaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-struthiosaurus-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tarchia-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tarchia-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tarchia-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tarchia-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ziapelta-adult-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ziapelta-adult-*/var",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ziapelta-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ziapelta-baby-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-ankylosaurus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-antarctopelta-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-edmontonia-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-euoplocephalus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-pinacosaurus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-struthiosaurus-adult-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-tarchia-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-ziapelta-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-baby/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-ankylosaurus-adult-male",
+    "value": 360
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-antarctopelta-adult-male",
+    "value": 234
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-edmontonia-adult-male",
+    "value": 288
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-euoplocephalus-adult-male",
+    "value": 288
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-pinacosaurus-adult-male",
+    "value": 252
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-struthiosaurus-adult-male",
+    "value": 144
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-tarchia-adult-male",
+    "value": 342
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-ziapelta-adult-male",
+    "value": 252
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMaxByType/*",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMinByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
+    "file": "ankylosauria:entities/land/ankylosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/pregnancyDaysByType/*",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ankylosauria"
+      }
+    ],
     "file": "ankylosauria:entities/land/egg.json",
     "op": "replace",
     "path": "/server/behaviors/7/hoursToGrow",

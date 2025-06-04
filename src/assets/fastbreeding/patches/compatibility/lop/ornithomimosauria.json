@@ -1,0 +1,1432 @@
+[
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/egg.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-incubating/var",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-incubating",
+    "value": 70
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/nest.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-mature",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-deinocheirus-adult-*/avg",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-deinocheirus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-deinocheirus-baby-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-deinocheirus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dromiceiomimus-adult-*/avg",
+    "value": 6.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dromiceiomimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dromiceiomimus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dromiceiomimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dzharacursor-adult-*/avg",
+    "value": 13.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dzharacursor-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dzharacursor-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-dzharacursor-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-gallimimus-adult-*/avg",
+    "value": 16.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-gallimimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-gallimimus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-gallimimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-garudimimus-adult-*/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-garudimimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-garudimimus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-garudimimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-harpymimus-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-harpymimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-harpymimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-kinnareemimus-adult-*/avg",
+    "value": 6.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-kinnareemimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-kinnareemimus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-kinnareemimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nqwebasaurus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nqwebasaurus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-nqwebasaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ornithomimus-adult-*/avg",
+    "value": 8.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ornithomimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ornithomimus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-ornithomimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-paraxenisaurus-adult-*/avg",
+    "value": 20
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-paraxenisaurus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-paraxenisaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-paraxenisaurus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pelecanimimus-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pelecanimimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-pelecanimimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-sinornithomimus-adult-*/avg",
+    "value": 8.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-sinornithomimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-sinornithomimus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-sinornithomimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-struthiomimus-adult-*/avg",
+    "value": 8.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-struthiomimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-struthiomimus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-struthiomimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tyrannomimus-adult-*/avg",
+    "value": 6.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tyrannomimus-adult-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tyrannomimus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/0/quantityByType/*-tyrannomimus-baby-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-deinocheirus-adult-*/avg",
+    "value": 12.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-deinocheirus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-deinocheirus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dromiceiomimus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dromiceiomimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dzharacursor-adult-*/avg",
+    "value": 5.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dzharacursor-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-dzharacursor-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-gallimimus-adult-*/avg",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-gallimimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-gallimimus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-garudimimus-adult-*/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-garudimimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-harpymimus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-harpymimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-kinnareemimus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-kinnareemimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-nqwebasaurus-adult-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-nqwebasaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ornithomimus-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-ornithomimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-paraxenisaurus-adult-*/avg",
+    "value": 8.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-paraxenisaurus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-paraxenisaurus-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pelecanimimus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-pelecanimimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-sinornithomimus-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-sinornithomimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-struthiomimus-adult-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-struthiomimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tyrannomimus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/1/quantityByType/*-tyrannomimus-adult-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-deinocheirus-adult-*/avg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-gallimimus-adult-*/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*-paraxenisaurus-adult-*/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-dromiceiomimus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-dzharacursor-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-garudimimus-adult-*/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-kinnareemimus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-ornithomimus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-sinornithomimus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-struthiomimus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-tyrannomimus-adult-*/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-harpymimus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-nqwebasaurus-adult-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/4/quantityByType/*-pelecanimimus-adult-*/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/5/quantityByType/*-adult-*/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/5/quantityByType/*-adult-*/var",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/5/quantityByType/*-baby-*/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/drops/5/quantityByType/*-baby-*/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-deinocheirus-*",
+    "value": 250
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-dromiceiomimus-*",
+    "value": 75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-dzharacursor-*",
+    "value": 125
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-gallimimus-*",
+    "value": 150
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-garudimimus-*",
+    "value": 100
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-harpymimus-*",
+    "value": 50
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-kinnareemimus-*",
+    "value": 75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-nqwebasaurus-*",
+    "value": 38
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-ornithomimus-*",
+    "value": 90
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-paraxenisaurus-*",
+    "value": 175
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-pelecanimimus-*",
+    "value": 50
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-sinornithomimus-*",
+    "value": 90
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-struthiomimus-*",
+    "value": 90
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/13/hoursToGrowByType/*-tyrannomimus-*",
+    "value": 75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMaxByType/*",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/multiplyCooldownDaysMinByType/*",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/pregnancyDaysByType/*",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/pregnancyDaysByType/*-deinocheirus-adult-*",
+    "value": 8
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "ornithomimosauria"
+      }
+    ],
+    "file": "ornithomimosauria:entities/land/ornithomimosauria.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/pregnancyDaysByType/*-paraxenisaurus-adult-*",
+    "value": 5
+  }
+]
