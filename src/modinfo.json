@@ -3,8 +3,10 @@
   "modid": "fastbreeding",
   "name": "Fast Breeding",
   "description": "Alter animal breeding times",
-  "authors": ["Billiam"],
-  "version": "0.0.14",
+  "authors": [
+    "Billiam"
+  ],
+  "version": "0.0.15",
   "side": "server",
   "dependencies": {
     "game": "1.20.9",
