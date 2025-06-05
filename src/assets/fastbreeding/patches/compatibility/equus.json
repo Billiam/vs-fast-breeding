@@ -7,7 +7,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/0/quantityByType/*-adult-female-ferus/avg",
+    "path": "/server/behaviors/8/drops/0/quantityByType/*-adult-female-ferus/avg",
     "value": 6
   },
   {
@@ -18,7 +18,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/0/quantityByType/*-adult-female-ferus/var",
+    "path": "/server/behaviors/8/drops/0/quantityByType/*-adult-female-ferus/var",
     "value": 0.75
   },
   {
@@ -29,7 +29,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/0/quantityByType/*-adult-male-ferus/avg",
+    "path": "/server/behaviors/8/drops/0/quantityByType/*-adult-male-ferus/avg",
     "value": 7.5
   },
   {
@@ -40,7 +40,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/0/quantityByType/*-adult-male-ferus/var",
+    "path": "/server/behaviors/8/drops/0/quantityByType/*-adult-male-ferus/var",
     "value": 0.75
   },
   {
@@ -51,7 +51,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/0/quantityByType/*-baby-*-ferus/avg",
+    "path": "/server/behaviors/8/drops/0/quantityByType/*-baby-*-ferus/avg",
     "value": 3
   },
   {
@@ -62,7 +62,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/0/quantityByType/*-baby-*-ferus/var",
+    "path": "/server/behaviors/8/drops/0/quantityByType/*-baby-*-ferus/var",
     "value": 0.75
   },
   {
@@ -73,7 +73,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/1/quantityByType/*-adult-female-ferus/avg",
+    "path": "/server/behaviors/8/drops/1/quantityByType/*-adult-female-ferus/avg",
     "value": 1
   },
   {
@@ -84,7 +84,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/1/quantityByType/*-adult-female-ferus/var",
+    "path": "/server/behaviors/8/drops/1/quantityByType/*-adult-female-ferus/var",
     "value": 0.5
   },
   {
@@ -95,7 +95,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/1/quantityByType/*-adult-male-ferus/avg",
+    "path": "/server/behaviors/8/drops/1/quantityByType/*-adult-male-ferus/avg",
     "value": 1.5
   },
   {
@@ -106,7 +106,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/1/quantityByType/*-adult-male-ferus/var",
+    "path": "/server/behaviors/8/drops/1/quantityByType/*-adult-male-ferus/var",
     "value": 0.5
   },
   {
@@ -117,7 +117,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/1/quantityByType/*-baby-*-ferus/avg",
+    "path": "/server/behaviors/8/drops/1/quantityByType/*-baby-*-ferus/avg",
     "value": 0.5
   },
   {
@@ -128,7 +128,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/1/quantityByType/*-baby-*-ferus/var",
+    "path": "/server/behaviors/8/drops/1/quantityByType/*-baby-*-ferus/var",
     "value": 0.25
   },
   {
@@ -139,7 +139,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/2/quantityByType/*-adult-*/avg",
+    "path": "/server/behaviors/8/drops/2/quantityByType/*-adult-*/avg",
     "value": 0.5
   },
   {
@@ -150,7 +150,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/9/drops/3/quantityByType/*-baby-*/avg",
+    "path": "/server/behaviors/8/drops/3/quantityByType/*-baby-*/avg",
     "value": 0.5
   },
   {
@@ -161,7 +161,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/13/hoursToGrowByType/*",
+    "path": "/server/behaviors/12/hoursToGrowByType/*",
     "value": 216
   },
   {
@@ -172,7 +172,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/11/multiplyCooldownDaysMaxByType/*",
+    "path": "/server/behaviors/10/multiplyCooldownDaysMaxByType/*",
     "value": 6
   },
   {
@@ -183,7 +183,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/11/multiplyCooldownDaysMinByType/*",
+    "path": "/server/behaviors/10/multiplyCooldownDaysMinByType/*",
     "value": 3
   },
   {
@@ -194,7 +194,7 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
-    "path": "/server/behaviors/11/pregnancyDaysByType/*-ferus",
+    "path": "/server/behaviors/10/pregnancyDaysByType/*-ferus",
     "value": 18
   }
 ]
