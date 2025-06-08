@@ -1140,139 +1140,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-albertosaurus-adult-*/avg",
-    "value": 3.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-alioramus-adult-*/avg",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-bistahieversor-adult-*/avg",
-    "value": 3.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-dynamoterror-adult-*/avg",
-    "value": 2.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-gorgosaurus-adult-*/avg",
-    "value": 3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-nanuqsaurus-adult-*/avg",
-    "value": 2.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-qianzhousaurus-adult-*/avg",
-    "value": 3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-tarbosaurus-adult-*/avg",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-teratophoneus-adult-*/avg",
-    "value": 2.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-thanatotheristes-adult-*/avg",
-    "value": 3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-tyrannosaurus-adult-*/avg",
-    "value": 5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/2/quantityByType/*-zhuchengtyrannus-adult-*/avg",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "tyrannosauridae"
-      }
-    ],
-    "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/11/drops/3/quantityByType/*-baby-*/avg",
+    "path": "/server/behaviors/11/drops/2/quantityByType/*/avg",
     "value": 0.5
   },
   {
@@ -1283,7 +1151,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-baby-*/avg",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-baby-*/avg",
     "value": 6
   },
   {
@@ -1294,7 +1162,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-baby-*/var",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-baby-*/var",
     "value": 1
   },
   {
@@ -1305,7 +1173,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-dynamoterror-adult-*/avg",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-dynamoterror-adult-*/avg",
     "value": 7.5
   },
   {
@@ -1316,7 +1184,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-dynamoterror-adult-*/var",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-dynamoterror-adult-*/var",
     "value": 2
   },
   {
@@ -1327,7 +1195,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-gorgosaurus-adult-*/avg",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-gorgosaurus-adult-*/avg",
     "value": 7.5
   },
   {
@@ -1338,7 +1206,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-gorgosaurus-adult-*/var",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-gorgosaurus-adult-*/var",
     "value": 2
   },
   {
@@ -1349,7 +1217,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-nanuqsaurus-adult-*/avg",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-nanuqsaurus-adult-*/avg",
     "value": 10
   },
   {
@@ -1360,7 +1228,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-nanuqsaurus-adult-*/var",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-nanuqsaurus-adult-*/var",
     "value": 2
   },
   {
@@ -1371,7 +1239,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-qianzhousaurus-adult-*/avg",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-qianzhousaurus-adult-*/avg",
     "value": 7.5
   },
   {
@@ -1382,7 +1250,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-qianzhousaurus-adult-*/var",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-qianzhousaurus-adult-*/var",
     "value": 2
   },
   {
@@ -1393,7 +1261,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-teratophoneus-adult-*/avg",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-teratophoneus-adult-*/avg",
     "value": 7.5
   },
   {
@@ -1404,7 +1272,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-teratophoneus-adult-*/var",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-teratophoneus-adult-*/var",
     "value": 2
   },
   {
@@ -1415,7 +1283,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-zhuchengtyrannus-adult-*/avg",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-zhuchengtyrannus-adult-*/avg",
     "value": 7.5
   },
   {
@@ -1426,7 +1294,7 @@
     ],
     "file": "tyrannosauridae:entities/land/tyrannosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/11/drops/4/quantityByType/*-zhuchengtyrannus-adult-*/var",
+    "path": "/server/behaviors/11/drops/3/quantityByType/*-zhuchengtyrannus-adult-*/var",
     "value": 2
   },
   {
