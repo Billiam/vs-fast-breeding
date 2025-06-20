@@ -437,7 +437,7 @@
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
     "path": "/server/behaviors/9/multiplyCooldownDaysMaxByType/*",
-    "value": 6
+    "value": 7
   },
   {
     "dependsOn": [
@@ -448,7 +448,7 @@
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
     "path": "/server/behaviors/9/multiplyCooldownDaysMinByType/*",
-    "value": 3
+    "value": 4
   },
   {
     "dependsOn": [
@@ -459,7 +459,7 @@
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
     "path": "/server/behaviors/9/pregnancyDaysByType/*-caledonius",
-    "value": 21
+    "value": 58
   },
   {
     "dependsOn": [
@@ -470,6 +470,6 @@
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
     "path": "/server/behaviors/9/pregnancyDaysByType/*-indicus",
-    "value": 16
+    "value": 52
   }
 ]

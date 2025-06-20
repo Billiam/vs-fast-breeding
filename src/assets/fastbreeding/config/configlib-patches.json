@@ -2934,10 +2934,10 @@
         "33/value": "max(1, round(CHELONIOIDEA_CYCLE * 240))"
       },
       "fastbreeding:patches/compatibility/equus.json": {
-        "14/value": "max(1, round(EQUUS_CYCLE * 432))",
+        "14/value": "max(1, round(EQUUS_CYCLE * 1200))",
         "15/value": "round(EQUUS_CYCLE * 11)",
         "16/value": "round(EQUUS_CYCLE * 6)",
-        "17/value": "max(1, round(EQUUS_CYCLE * 36))"
+        "17/value": "max(1, round(EQUUS_CYCLE * 85))"
       },
       "fastbreeding:patches/compatibility/fotsa/bovinae.json": {
         "17/value": "round(BOVINAE_CYCLE * 22)",
@@ -3646,10 +3646,10 @@
         "10/value": "round(MONOCEROS_CYCLE * 6)",
         "11/value": "max(1, round(MONOCEROS_CYCLE * 25))",
         "38/value": "max(1, round(MONOCEROS_CYCLE * 168))",
-        "39/value": "round(MONOCEROS_CYCLE * 11)",
-        "40/value": "round(MONOCEROS_CYCLE * 6)",
-        "41/value": "max(1, round(MONOCEROS_CYCLE * 42))",
-        "42/value": "max(1, round(MONOCEROS_CYCLE * 32))"
+        "39/value": "round(MONOCEROS_CYCLE * 14)",
+        "40/value": "round(MONOCEROS_CYCLE * 7)",
+        "41/value": "max(1, round(MONOCEROS_CYCLE * 116))",
+        "42/value": "max(1, round(MONOCEROS_CYCLE * 103))"
       },
       "fastbreeding:patches/compatibility/moreanimals.json": {
         "1/value": "max(1, round(MOREANIMALS_CYCLE * 168))",

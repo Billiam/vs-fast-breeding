@@ -162,7 +162,7 @@
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
     "path": "/server/behaviors/12/hoursToGrowByType/*",
-    "value": 216
+    "value": 600
   },
   {
     "dependsOn": [
@@ -195,6 +195,6 @@
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
     "path": "/server/behaviors/10/pregnancyDaysByType/*-ferus",
-    "value": 18
+    "value": 43
   }
 ]
