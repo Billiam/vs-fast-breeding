@@ -612,73 +612,7 @@
     ],
     "file": "spinosauridae:entities/land/spinosauridae.json",
     "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantityByType/*-baryonyx-adult-*/avg",
-    "value": 1.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "spinosauridae"
-      }
-    ],
-    "file": "spinosauridae:entities/land/spinosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantityByType/*-ichthyovenator-adult-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "spinosauridae"
-      }
-    ],
-    "file": "spinosauridae:entities/land/spinosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantityByType/*-irritator-adult-*/avg",
-    "value": 0.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "spinosauridae"
-      }
-    ],
-    "file": "spinosauridae:entities/land/spinosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantityByType/*-oxalaia-adult-*/avg",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "spinosauridae"
-      }
-    ],
-    "file": "spinosauridae:entities/land/spinosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantityByType/*-spinosaurus-adult-*/avg",
-    "value": 2.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "spinosauridae"
-      }
-    ],
-    "file": "spinosauridae:entities/land/spinosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/2/quantityByType/*-suchomimus-adult-*/avg",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "spinosauridae"
-      }
-    ],
-    "file": "spinosauridae:entities/land/spinosauridae.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/drops/3/quantityByType/*-baby-*/avg",
+    "path": "/server/behaviors/10/drops/2/quantityByType/*/avg",
     "value": 0.5
   },
   {
