@@ -7,6 +7,39 @@
     ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
+    "path": "/behaviorConfigs/genelib.multiply/multiplyCooldownDaysMaxByType/*",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/genelib.multiply/multiplyCooldownDaysMinByType/*",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/genelib.multiply/pregnancyDaysByType/*-ferus",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildhorse.json",
+    "op": "replace",
     "path": "/server/behaviors/8/drops/0/quantityByType/*-adult-female-ferus/avg",
     "value": 6
   },
@@ -163,38 +196,5 @@
     "op": "replace",
     "path": "/server/behaviors/12/hoursToGrowByType/*",
     "value": 600
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "equus"
-      }
-    ],
-    "file": "equus:entities/wildhorse.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/multiplyCooldownDaysMaxByType/*",
-    "value": 6
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "equus"
-      }
-    ],
-    "file": "equus:entities/wildhorse.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/multiplyCooldownDaysMinByType/*",
-    "value": 3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "equus"
-      }
-    ],
-    "file": "equus:entities/wildhorse.json",
-    "op": "replace",
-    "path": "/server/behaviors/10/pregnancyDaysByType/*-ferus",
-    "value": 43
   }
 ]
