@@ -183,6 +183,50 @@
     ],
     "file": "monoceros:entities/monoceros.json",
     "op": "replace",
+    "path": "/behaviorConfigs/multiply/multiplyCooldownDaysMaxByType/*",
+    "value": 7
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/multiply/multiplyCooldownDaysMinByType/*",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/multiply/pregnancyDaysByType/*-caledonius",
+    "value": 58
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/multiply/pregnancyDaysByType/*-indicus",
+    "value": 52
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "monoceros"
+      }
+    ],
+    "file": "monoceros:entities/monoceros.json",
+    "op": "replace",
     "path": "/server/behaviors/7/drops/0/quantityByType/*-adult-*-caledonius/avg",
     "value": 10
   },
@@ -427,49 +471,5 @@
     "op": "replace",
     "path": "/server/behaviors/11/hoursToGrowByType/*",
     "value": 84
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "monoceros"
-      }
-    ],
-    "file": "monoceros:entities/monoceros.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/multiplyCooldownDaysMaxByType/*",
-    "value": 7
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "monoceros"
-      }
-    ],
-    "file": "monoceros:entities/monoceros.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/multiplyCooldownDaysMinByType/*",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "monoceros"
-      }
-    ],
-    "file": "monoceros:entities/monoceros.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/pregnancyDaysByType/*-caledonius",
-    "value": 58
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "monoceros"
-      }
-    ],
-    "file": "monoceros:entities/monoceros.json",
-    "op": "replace",
-    "path": "/server/behaviors/9/pregnancyDaysByType/*-indicus",
-    "value": 52
   }
 ]
