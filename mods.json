@@ -48,7 +48,7 @@
     "caninae": "1.0.32",
     "capreolinae": "1.2.9",
     "carcharodontosauridae": "1.0.7",
-    "cats": "3.2.0",
+    "cats": "4.0.0",
     "ceratopsidae": "1.2.1",
     "cervinae": "0.1.6",
     "chelonioidea": "1.0.2",
@@ -78,6 +78,6 @@
     "tyrannosauridae": "1.4.2",
     "viverridae": "1.0.4",
     "vombatidae": "0.4.2",
-    "wolftaming": "3.0.8"
+    "wolftaming": "4.0.0"
   }
 }
