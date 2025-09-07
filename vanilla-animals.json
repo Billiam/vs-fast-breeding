@@ -1,36 +1,26 @@
 [
   {
-    "input": [
-      "animal/mammal/hooved/pig-*.json"
-    ],
+    "input": ["animal/mammal/hooved/pig-*.json"],
     "output": "animal/mammal/hooved/pig.json",
     "key": "PIG_CYCLE"
   },
   {
-    "input": [
-      "animal/mammal/hooved/goat-*.json"
-    ],
+    "input": ["animal/mammal/hooved/goat-*.json"],
     "output": "animal/mammal/hooved/goat.json",
     "key": "GOAT_CYCLE"
   },
   {
-    "input": [
-      "animal/mammal/hooved/sheep-*.json"
-    ],
+    "input": ["animal/mammal/hooved/sheep-*.json"],
     "output": "animal/mammal/hooved/sheep.json",
     "key": "SHEEP_CYCLE"
   },
   {
-    "input": [
-      "animal/bird/chicken-*.json"
-    ],
+    "input": ["animal/bird/chicken-*.json"],
     "output": "animal/bird/chicken.json",
     "key": "CHICKEN_CYCLE"
   },
   {
-    "input": [
-      "animal/mammal/hare-*.json"
-    ],
+    "input": ["animal/mammal/hare-*.json"],
     "output": "animal/mammal/hare.json",
     "key": "HARE_CYCLE"
   }

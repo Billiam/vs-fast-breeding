@@ -38,7 +38,7 @@
   },
   {
     key: 'EQUUS_CYCLE',
-    type: 'cycle'
+    type: 'cycle',
   },
   {
     key: 'PHANEROZOIC_CYCLE',
