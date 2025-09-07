@@ -5,6 +5,61 @@
         "modId": "equus"
       }
     ],
+    "file": "equus:entities/feralwildhorse.json",
+    "op": "replace",
+    "path": "/server/behaviors/10/hoursToGrowByType/*",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/tamedwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/genelib.multiply/multiplyCooldownDaysMaxByType/*",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/tamedwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/genelib.multiply/multiplyCooldownDaysMinByType/*",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/tamedwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/genelib.multiply/pregnancyDaysByType/*-ferus",
+    "value": 43
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/tamedwildhorse.json",
+    "op": "replace",
+    "path": "/server/behaviors/12/hoursToGrowByType/*",
+    "value": 84
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
     "path": "/behaviorConfigs/genelib.multiply/multiplyCooldownDaysMaxByType/*",
@@ -195,6 +250,171 @@
     "file": "equus:entities/wildhorse.json",
     "op": "replace",
     "path": "/server/behaviors/12/hoursToGrowByType/*",
+    "value": 600
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/2/quantityByType/*-adult-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/0/quantityByType/*-adult-female-ferus/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/1/quantityByType/*-adult-female-ferus/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/0/quantityByType/*-adult-female-ferus/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/1/quantityByType/*-adult-female-ferus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/0/quantityByType/*-adult-male-ferus/avg",
+    "value": 7.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/1/quantityByType/*-adult-male-ferus/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/0/quantityByType/*-adult-male-ferus/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/1/quantityByType/*-adult-male-ferus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/0/quantityByType/*-baby-*-ferus/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/1/quantityByType/*-baby-*-ferus/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/0/quantityByType/*-baby-*-ferus/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/1/quantityByType/*-baby-*-ferus/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/behaviorConfigs/harvestable/drops/3/quantityByType/*-baby-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "equus"
+      }
+    ],
+    "file": "equus:entities/wildwildhorse.json",
+    "op": "replace",
+    "path": "/server/behaviors/11/hoursToGrowByType/*",
     "value": 600
   }
 ]
