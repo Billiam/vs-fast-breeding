@@ -12,7 +12,10 @@ export default async (modId, lastVersion) => {
   const data = await response.json()
 
   if (data.statuscode === '200') {
-    const latestRelease = data.mod.releases.find(release => !/pre/.test(release.modversion))
+    const latestRelease = data.mod.releases.find(
+      (release) =>
+        !/pre/.test(release.modversion) && !/rc/.test(release.modversion),
+    )
     const releaseNewer =
       !lastVersion || semver.gt(latestRelease.modversion, lastVersion)
 
