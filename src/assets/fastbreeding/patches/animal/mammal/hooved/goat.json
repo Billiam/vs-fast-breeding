@@ -1,0 +1,134 @@
+[
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*/avg",
+    "value": 6
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/*/var",
+    "value": 1.5
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/goat-muskox-*/avg",
+    "value": 8
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/goat-muskox-*/var",
+    "value": 1.5
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/goat-takingold-*/avg",
+    "value": 8
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantityByType/goat-takingold-*/var",
+    "value": 1.5
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/goat-muskox-*/avg",
+    "value": 0.85
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantityByType/goat-takinold-*/avg",
+    "value": 0.5
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/2/quantityByType/*/avg",
+    "value": 0.85
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/3/quantityByType/*/avg",
+    "value": 0.85
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/3/quantityByType/goat-muskox-*/avg",
+    "value": 1.45
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/3/quantityByType/goat-muskox-*/var",
+    "value": 0.25
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/3/quantityByType/goat-takinold-*/avg",
+    "value": 0.85
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/3/quantityByType/goat-takinold-*/var",
+    "value": 0.25
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMax",
+    "value": 6
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMin",
+    "value": 2
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/pregnancyDays",
+    "value": 10
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantity/avg",
+    "value": 1
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantity/var",
+    "value": 0.5
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantity/avg",
+    "value": 0.5
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantity/var",
+    "value": 0.25
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hooved/goat-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/hoursToGrow",
+    "value": 168
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "file": "game:entities-1.21/animal/mammal/hare-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/0/quantity/avg",
+    "value": 1
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hare-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/drops/1/quantity/avg",
+    "value": 0.25
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hare-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMax",
+    "value": 3
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hare-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/multiplyCooldownDaysMin",
+    "value": 1
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hare-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/9/pregnancyDays",
+    "value": 3
+  },
+  {
+    "file": "game:entities-1.21/animal/mammal/hare-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrow",
+    "value": 84
+  }
+]

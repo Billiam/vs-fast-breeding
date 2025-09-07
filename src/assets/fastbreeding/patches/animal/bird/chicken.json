@@ -1,0 +1,68 @@
+[
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
+    "value": 0.875
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
+    "value": 0.125
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*poult/avg",
+    "value": 0.625
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*poult/var",
+    "value": 0.125
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantity/avg",
+    "value": 6
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantity/var",
+    "value": 2
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-henpoult",
+    "value": 36
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-roosterpoult",
+    "value": 40
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMax",
+    "value": 2
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMin",
+    "value": 0
+  },
+  {
+    "file": "game:entities-1.21/animal/bird/chicken-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/hoursToGrow",
+    "value": 64
+  }
+]

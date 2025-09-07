@@ -17,6 +17,58 @@
   ],
   "patches": {
     "float": {
+      "fastbreeding:patches/animal/bird/chicken.json": {
+        "0/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 1.75 : 1.75",
+        "1/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 0.25 : 0.25",
+        "2/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 1.25 : 1.25",
+        "3/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 0.25 : 0.25",
+        "4/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 12 : 12",
+        "5/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 4 : 4"
+      },
+      "fastbreeding:patches/animal/mammal/hare.json": {
+        "0/value": "(REDUCE_DROPS) ? min(1.0, HARE_CYCLE) * 2 : 2",
+        "1/value": "(REDUCE_DROPS) ? min(1.0, HARE_CYCLE) * 0.5 : 0.5"
+      },
+      "fastbreeding:patches/animal/mammal/hooved/goat.json": {
+        "0/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 12 : 12",
+        "1/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 3 : 3",
+        "2/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 16 : 16",
+        "3/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 3 : 3",
+        "4/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 16 : 16",
+        "5/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 3 : 3",
+        "6/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.7 : 1.7",
+        "7/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1 : 1",
+        "8/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.7 : 1.7",
+        "9/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.7 : 1.7",
+        "10/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 2.9 : 2.9",
+        "11/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.5 : 0.5",
+        "12/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.7 : 1.7",
+        "13/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.5 : 0.5",
+        "17/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 2 : 2",
+        "18/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1 : 1",
+        "19/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1 : 1",
+        "20/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.5 : 0.5"
+      },
+      "fastbreeding:patches/animal/mammal/hooved/pig.json": {
+        "0/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 9 : 9",
+        "1/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1.5 : 1.5",
+        "2/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1.5 : 1.5",
+        "3/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 2 : 2",
+        "7/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1.5 : 1.5",
+        "8/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1 : 1"
+      },
+      "fastbreeding:patches/animal/mammal/hooved/sheep.json": {
+        "0/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 13 : 13",
+        "1/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 3 : 3",
+        "2/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1.2 : 1.2",
+        "3/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.2 : 0.2",
+        "4/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1 : 1",
+        "5/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.3 : 0.3",
+        "9/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1.5 : 1.5",
+        "10/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.5 : 0.5",
+        "11/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1 : 1",
+        "12/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.5 : 0.5"
+      },
       "fastbreeding:patches/compatibility/cats.json": {
         "0/value": "(REDUCE_DROPS) ? min(1.0, CATS_CYCLE) * 2 : 2",
         "1/value": "(REDUCE_DROPS) ? min(1.0, CATS_CYCLE) * 1 : 1",
@@ -2763,95 +2815,40 @@
         "3/value": "(REDUCE_DROPS) ? min(1.0, WOLFTAMING_CYCLE) * 1.25 : 1.25",
         "4/value": "(REDUCE_DROPS) ? min(1.0, WOLFTAMING_CYCLE) * 4 : 4",
         "5/value": "(REDUCE_DROPS) ? min(1.0, WOLFTAMING_CYCLE) * 0.5 : 0.5"
-      },
-      "fastbreeding:patches/land/chicken.json": {
-        "1/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 1.25 : 1.25",
-        "2/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 0.25 : 0.25",
-        "3/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 1.75 : 1.75",
-        "4/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 0.25 : 0.25",
-        "5/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 12 : 12",
-        "6/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 4 : 4",
-        "10/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 1.25 : 1.25",
-        "11/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 0.25 : 0.25",
-        "12/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 1.75 : 1.75",
-        "13/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 0.25 : 0.25",
-        "14/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 12 : 12",
-        "15/value": "(REDUCE_DROPS) ? min(1.0, CHICKEN_CYCLE) * 4 : 4"
-      },
-      "fastbreeding:patches/land/hare.json": {
-        "1/value": "(REDUCE_DROPS) ? min(1.0, HARE_CYCLE) * 2 : 2",
-        "2/value": "(REDUCE_DROPS) ? min(1.0, HARE_CYCLE) * 0.5 : 0.5",
-        "6/value": "(REDUCE_DROPS) ? min(1.0, HARE_CYCLE) * 2 : 2",
-        "7/value": "(REDUCE_DROPS) ? min(1.0, HARE_CYCLE) * 0.5 : 0.5"
-      },
-      "fastbreeding:patches/land/hooved/goat.json": {
-        "0/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 12 : 12",
-        "1/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 3 : 3",
-        "2/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 2 : 2",
-        "3/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1 : 1",
-        "4/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 16 : 16",
-        "5/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 3 : 3",
-        "6/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 16 : 16",
-        "7/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 3 : 3",
-        "8/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.7 : 1.7",
-        "9/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1 : 1",
-        "10/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1 : 1",
-        "11/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.5 : 0.5",
-        "12/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.2 : 1.2",
-        "13/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3",
-        "14/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.8 : 1.8",
-        "15/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3",
-        "16/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.2 : 1.2",
-        "17/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.5 : 0.5",
-        "18/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.8 : 1.8",
-        "19/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3",
-        "20/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 2 : 2",
-        "21/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3",
-        "22/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 3 : 3",
-        "23/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3",
-        "24/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.2 : 1.2",
-        "25/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3",
-        "26/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.2 : 1.2",
-        "27/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3",
-        "28/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.8 : 1.8",
-        "29/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3",
-        "30/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.8 : 1.8",
-        "31/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3",
-        "32/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 1.2 : 1.2",
-        "33/value": "(REDUCE_DROPS) ? min(1.0, GOAT_CYCLE) * 0.3 : 0.3"
-      },
-      "fastbreeding:patches/land/pig-wild.json": {
-        "0/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 9 : 9",
-        "1/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1.5 : 1.5",
-        "2/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1.5 : 1.5",
-        "3/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 2 : 2",
-        "7/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 9 : 9",
-        "8/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1.5 : 1.5",
-        "9/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1.5 : 1.5",
-        "10/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 2 : 2",
-        "11/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1.5 : 1.5",
-        "12/value": "(REDUCE_DROPS) ? min(1.0, PIG_CYCLE) * 1 : 1"
-      },
-      "fastbreeding:patches/land/sheep-bighorn.json": {
-        "0/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 16 : 16",
-        "1/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 3 : 3",
-        "2/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1.2 : 1.2",
-        "3/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.2 : 0.2",
-        "4/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1 : 1",
-        "5/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.3 : 0.3",
-        "9/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1.5 : 1.5",
-        "10/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.5 : 0.5",
-        "11/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1 : 1",
-        "12/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.5 : 0.5",
-        "14/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 13 : 13",
-        "15/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 3 : 3",
-        "16/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1.2 : 1.2",
-        "17/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.2 : 0.2",
-        "18/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 1 : 1",
-        "19/value": "(REDUCE_DROPS) ? min(1.0, SHEEP_CYCLE) * 0.3 : 0.3"
       }
     },
     "integer": {
+      "fastbreeding:patches/animal/bird/chicken.json": {
+        "6/value": "max(1, round(CHICKEN_CYCLE * 72))",
+        "7/value": "max(1, round(CHICKEN_CYCLE * 80))",
+        "8/value": "round(CHICKEN_CYCLE * 3)",
+        "9/value": "greater(CHICKEN_CYCLE, 1.0, ceiling(CHICKEN_CYCLE - 1), 0)",
+        "10/value": "max(1, round(CHICKEN_CYCLE * 128))"
+      },
+      "fastbreeding:patches/animal/mammal/hare.json": {
+        "2/value": "round(HARE_CYCLE * 5)",
+        "3/value": "round(HARE_CYCLE * 2)",
+        "4/value": "max(1, round(HARE_CYCLE * 5))",
+        "5/value": "max(1, round(HARE_CYCLE * 168))"
+      },
+      "fastbreeding:patches/animal/mammal/hooved/goat.json": {
+        "14/value": "round(GOAT_CYCLE * 11)",
+        "15/value": "round(GOAT_CYCLE * 4)",
+        "16/value": "max(1, round(GOAT_CYCLE * 20))",
+        "21/value": "max(1, round(GOAT_CYCLE * 336))"
+      },
+      "fastbreeding:patches/animal/mammal/hooved/pig.json": {
+        "4/value": "round(PIG_CYCLE * 11)",
+        "5/value": "round(PIG_CYCLE * 6)",
+        "6/value": "max(1, round(PIG_CYCLE * 25))",
+        "9/value": "max(1, round(PIG_CYCLE * 168))"
+      },
+      "fastbreeding:patches/animal/mammal/hooved/sheep.json": {
+        "6/value": "round(SHEEP_CYCLE * 11)",
+        "7/value": "round(SHEEP_CYCLE * 4)",
+        "8/value": "max(1, round(SHEEP_CYCLE * 20))",
+        "13/value": "max(1, round(SHEEP_CYCLE * 336))"
+      },
       "fastbreeding:patches/compatibility/cats.json": {
         "7/value": "round(CATS_CYCLE * 11)",
         "8/value": "round(CATS_CYCLE * 4)",
@@ -3612,37 +3609,6 @@
         "7/value": "round(WOLFTAMING_CYCLE * 4)",
         "8/value": "max(1, round(WOLFTAMING_CYCLE * 20))",
         "9/value": "max(1, round(WOLFTAMING_CYCLE * 336))"
-      },
-      "fastbreeding:patches/land/chicken.json": {
-        "0/value": "max(1, round(CHICKEN_CYCLE * 128))",
-        "7/value": "max(1, round(CHICKEN_CYCLE * 72))",
-        "8/value": "round(CHICKEN_CYCLE * 3)",
-        "9/value": "greater(CHICKEN_CYCLE, 1.0, ceiling(CHICKEN_CYCLE - 1), 0)",
-        "16/value": "max(1, round(CHICKEN_CYCLE * 80))"
-      },
-      "fastbreeding:patches/land/hare.json": {
-        "0/value": "max(1, round(HARE_CYCLE * 336))",
-        "3/value": "round(HARE_CYCLE * 5)",
-        "4/value": "round(HARE_CYCLE * 2)",
-        "5/value": "max(1, round(HARE_CYCLE * 5))"
-      },
-      "fastbreeding:patches/land/hooved/goat.json": {
-        "34/value": "max(1, round(GOAT_CYCLE * 336))",
-        "35/value": "round(GOAT_CYCLE * 11)",
-        "36/value": "round(GOAT_CYCLE * 4)",
-        "37/value": "max(1, round(GOAT_CYCLE * 20))"
-      },
-      "fastbreeding:patches/land/pig-wild.json": {
-        "4/value": "round(PIG_CYCLE * 11)",
-        "5/value": "round(PIG_CYCLE * 6)",
-        "6/value": "max(1, round(PIG_CYCLE * 25))",
-        "13/value": "max(1, round(PIG_CYCLE * 168))"
-      },
-      "fastbreeding:patches/land/sheep-bighorn.json": {
-        "6/value": "round(SHEEP_CYCLE * 11)",
-        "7/value": "round(SHEEP_CYCLE * 4)",
-        "8/value": "max(1, round(SHEEP_CYCLE * 20))",
-        "13/value": "max(1, round(SHEEP_CYCLE * 336))"
       }
     }
   },
