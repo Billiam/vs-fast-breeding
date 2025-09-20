@@ -162,18 +162,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-ceratotheriumsimum/avg",
-    "value": 38
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-ceratotheriumsimum/var",
-    "value": 4
+    "value": 32
   },
   {
     "dependsOn": [
@@ -184,7 +173,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-coelodontaantiquitatis/avg",
-    "value": 34
+    "value": 30
   },
   {
     "dependsOn": [
@@ -195,7 +184,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-coelodontaantiquitatis/var",
-    "value": 3.5
+    "value": 2
   },
   {
     "dependsOn": [
@@ -272,7 +261,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-rhinocerosunicornis/avg",
-    "value": 35
+    "value": 31
   },
   {
     "dependsOn": [
@@ -283,7 +272,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-rhinocerosunicornis/var",
-    "value": 4
+    "value": 1
   },
   {
     "dependsOn": [
@@ -425,140 +414,8 @@
     ],
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-ceratotheriumsimum/avg",
-    "value": 28
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-ceratotheriumsimum/var",
-    "value": 3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-coelodontaantiquitatis/avg",
-    "value": 25
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-coelodontaantiquitatis/var",
-    "value": 2.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-dicerorhinussumatrensis/avg",
-    "value": 10
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-dicerorhinussumatrensis/var",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-dicerosbicornis/avg",
-    "value": 19
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-dicerosbicornis/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-rhinocerossondaicus/avg",
-    "value": 19
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-rhinocerossondaicus/var",
-    "value": 2
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-rhinocerosunicornis/avg",
-    "value": 27
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-rhinocerosunicornis/var",
-    "value": 3
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-ceratotheriumsimum/avg",
-    "value": 38
+    "value": 6
   },
   {
     "dependsOn": [
@@ -580,7 +437,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-coelodontaantiquitatis/avg",
-    "value": 34
+    "value": 4
   },
   {
     "dependsOn": [
@@ -591,73 +448,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-coelodontaantiquitatis/var",
-    "value": 3.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-dicerorhinussumatrensis/avg",
-    "value": 14
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-dicerorhinussumatrensis/var",
     "value": 1.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-dicerosbicornis/avg",
-    "value": 24
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-dicerosbicornis/var",
-    "value": 2.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-rhinocerossondaicus/avg",
-    "value": 24
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-rhinocerossondaicus/var",
-    "value": 2
   },
   {
     "dependsOn": [
@@ -668,7 +459,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-rhinocerosunicornis/avg",
-    "value": 35
+    "value": 4
   },
   {
     "dependsOn": [
@@ -679,139 +470,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-rhinocerosunicornis/var",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-ceratotheriumsimum/avg",
-    "value": 5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-ceratotheriumsimum/var",
-    "value": 0.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-coelodontaantiquitatis/avg",
-    "value": 5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-coelodontaantiquitatis/var",
-    "value": 0.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-dicerorhinussumatrensis/avg",
-    "value": 4
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-dicerorhinussumatrensis/var",
-    "value": 0.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-dicerosbicornis/avg",
-    "value": 5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-dicerosbicornis/var",
-    "value": 0.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-rhinocerossondaicus/avg",
-    "value": 5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-rhinocerossondaicus/var",
-    "value": 0.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-rhinocerosunicornis/avg",
-    "value": 5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-rhinocerosunicornis/var",
-    "value": 0.5
+    "value": 3
   },
   {
     "dependsOn": [
@@ -822,7 +481,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-ceratotheriumsimum/avg",
-    "value": 11.5
+    "value": 28
   },
   {
     "dependsOn": [
@@ -833,7 +492,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-ceratotheriumsimum/var",
-    "value": 1
+    "value": 3
   },
   {
     "dependsOn": [
@@ -844,7 +503,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-coelodontaantiquitatis/avg",
-    "value": 10
+    "value": 25
   },
   {
     "dependsOn": [
@@ -855,7 +514,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-coelodontaantiquitatis/var",
-    "value": 1
+    "value": 2.5
   },
   {
     "dependsOn": [
@@ -866,7 +525,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-dicerorhinussumatrensis/avg",
-    "value": 4
+    "value": 10
   },
   {
     "dependsOn": [
@@ -877,7 +536,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-dicerorhinussumatrensis/var",
-    "value": 0.5
+    "value": 1
   },
   {
     "dependsOn": [
@@ -888,7 +547,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-dicerosbicornis/avg",
-    "value": 7.5
+    "value": 19
   },
   {
     "dependsOn": [
@@ -899,7 +558,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-dicerosbicornis/var",
-    "value": 0.5
+    "value": 2
   },
   {
     "dependsOn": [
@@ -910,7 +569,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-rhinocerossondaicus/avg",
-    "value": 7.5
+    "value": 19
   },
   {
     "dependsOn": [
@@ -921,7 +580,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-rhinocerossondaicus/var",
-    "value": 0.5
+    "value": 2
   },
   {
     "dependsOn": [
@@ -932,7 +591,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-rhinocerosunicornis/avg",
-    "value": 10.5
+    "value": 27
   },
   {
     "dependsOn": [
@@ -943,7 +602,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-rhinocerosunicornis/var",
-    "value": 1
+    "value": 3
   },
   {
     "dependsOn": [
@@ -954,18 +613,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-ceratotheriumsimum/avg",
-    "value": 15.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-ceratotheriumsimum/var",
-    "value": 1.5
+    "value": 32
   },
   {
     "dependsOn": [
@@ -976,7 +624,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-coelodontaantiquitatis/avg",
-    "value": 13.5
+    "value": 30
   },
   {
     "dependsOn": [
@@ -987,7 +635,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-coelodontaantiquitatis/var",
-    "value": 1.5
+    "value": 2
   },
   {
     "dependsOn": [
@@ -998,72 +646,6 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-dicerorhinussumatrensis/avg",
-    "value": 5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-dicerorhinussumatrensis/var",
-    "value": 0.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-dicerosbicornis/avg",
-    "value": 9.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-dicerosbicornis/var",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-rhinocerossondaicus/avg",
-    "value": 9.5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-rhinocerossondaicus/var",
-    "value": 1
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "rhinocerotidae"
-      }
-    ],
-    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-rhinocerosunicornis/avg",
     "value": 14
   },
   {
@@ -1074,7 +656,7 @@
     ],
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-rhinocerosunicornis/var",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-dicerorhinussumatrensis/var",
     "value": 1.5
   },
   {
@@ -1085,8 +667,74 @@
     ],
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-baby-*-ceratotheriumsimum/avg",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-dicerosbicornis/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-dicerosbicornis/var",
     "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-rhinocerossondaicus/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-rhinocerossondaicus/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-rhinocerosunicornis/avg",
+    "value": 31
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-rhinocerosunicornis/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-baby-*-ceratotheriumsimum/avg",
+    "value": 5
   },
   {
     "dependsOn": [
@@ -1108,7 +756,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-baby-*-coelodontaantiquitatis/avg",
-    "value": 2.5
+    "value": 5
   },
   {
     "dependsOn": [
@@ -1130,7 +778,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-baby-*-dicerorhinussumatrensis/avg",
-    "value": 1.5
+    "value": 4
   },
   {
     "dependsOn": [
@@ -1152,7 +800,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-baby-*-dicerosbicornis/avg",
-    "value": 2
+    "value": 5
   },
   {
     "dependsOn": [
@@ -1174,7 +822,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-baby-*-rhinocerossondaicus/avg",
-    "value": 2
+    "value": 5
   },
   {
     "dependsOn": [
@@ -1196,7 +844,7 @@
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-baby-*-rhinocerosunicornis/avg",
-    "value": 2.5
+    "value": 5
   },
   {
     "dependsOn": [
@@ -1217,7 +865,128 @@
     ],
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*/avg",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-male-ceratotheriumsimum/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-male-ceratotheriumsimum/var",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-male-coelodontaantiquitatis/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-male-coelodontaantiquitatis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-male-rhinocerosunicornis/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-male-rhinocerosunicornis/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-ceratotheriumsimum/avg",
+    "value": 11.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-ceratotheriumsimum/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-coelodontaantiquitatis/avg",
+    "value": 10
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-coelodontaantiquitatis/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-dicerorhinussumatrensis/avg",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-dicerorhinussumatrensis/var",
     "value": 0.5
   },
   {
@@ -1228,7 +997,348 @@
     ],
     "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*/avg",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-dicerosbicornis/avg",
+    "value": 7.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-dicerosbicornis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-rhinocerossondaicus/avg",
+    "value": 7.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-rhinocerossondaicus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-rhinocerosunicornis/avg",
+    "value": 10.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-female-rhinocerosunicornis/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-ceratotheriumsimum/avg",
+    "value": 15.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-ceratotheriumsimum/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-coelodontaantiquitatis/avg",
+    "value": 13.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-coelodontaantiquitatis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-dicerorhinussumatrensis/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-dicerorhinussumatrensis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-dicerosbicornis/avg",
+    "value": 9.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-dicerosbicornis/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-rhinocerossondaicus/avg",
+    "value": 9.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-rhinocerossondaicus/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-rhinocerosunicornis/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-adult-male-rhinocerosunicornis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-ceratotheriumsimum/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-ceratotheriumsimum/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-coelodontaantiquitatis/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-coelodontaantiquitatis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-dicerorhinussumatrensis/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-dicerorhinussumatrensis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-dicerosbicornis/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-dicerosbicornis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-rhinocerossondaicus/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-rhinocerossondaicus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-rhinocerosunicornis/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/4/quantityByType/*-baby-*-rhinocerosunicornis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/5/quantityByType/*-adult-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "rhinocerotidae"
+      }
+    ],
+    "file": "rhinocerotidae:entities/land/rhinocerotidae.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/6/quantityByType/*-baby-*/avg",
     "value": 0.5
   },
   {
