@@ -7,7 +7,7 @@
     ],
     "file": "meiolaniidae:entities/land/meiolaniidae-egg.json",
     "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByType/*",
+    "path": "/server/behaviors/6/hoursToGrowByType/*",
     "value": 86
   },
   {
@@ -18,7 +18,7 @@
     ],
     "file": "meiolaniidae:entities/land/meiolaniidae-egg.json",
     "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByType/*-ninjemysoweni-*",
+    "path": "/server/behaviors/6/hoursToGrowByType/*-ninjemysoweni-*",
     "value": 150
   },
   {
