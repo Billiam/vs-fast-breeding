@@ -5,7 +5,51 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-tetracerusquadricornis/avg",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-*-tetracerusquadricornis/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-boselaphustragocamelus/avg",
+    "value": 9
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-boselaphustragocamelus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bosprimigeniusprimigenius/avg",
     "value": 17
@@ -16,7 +60,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bosprimigeniusprimigenius/var",
     "value": 1.5
@@ -27,7 +71,381 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusarnee/avg",
+    "value": 17
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusarnee/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusbrevicornis/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusbrevicornis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubaluscebuensis/avg",
+    "value": 8.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubaluscebuensis/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusdepressicornis/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusdepressicornis/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusgrovesi/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusgrovesi/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusmephistopheles/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusmephistopheles/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusmindorensis/avg",
+    "value": 13
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusmindorensis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusmurrensis/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusmurrensis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusquarlesi/avg",
+    "value": 6.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-bubalusquarlesi/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-pseudoryxnghetinhensis/avg",
+    "value": 6.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-pseudoryxnghetinhensis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-syncerusantiquus/avg",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-syncerusantiquus/var",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-synceruscaffer/avg",
+    "value": 17
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-synceruscaffer/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-syncerusnanus/avg",
+    "value": 14.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-syncerusnanus/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-taurotragusderbianus/avg",
+    "value": 18
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-taurotragusderbianus/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-taurotragusoryx/avg",
+    "value": 18
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-taurotragusoryx/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusangasii/avg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusangasii/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusbuxtoni/avg",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusbuxtoni/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphuseurycerus/avg",
     "value": 11
@@ -38,7 +456,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphuseurycerus/var",
     "value": 1
@@ -49,7 +467,139 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusimberbis/avg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusimberbis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusscriptus/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusscriptus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusspekii/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusspekii/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusstrepsiceros/avg",
+    "value": 10.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphusstrepsiceros/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphussylvaticus/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-female-tragelaphussylvaticus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-boselaphustragocamelus/avg",
+    "value": 12
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-boselaphustragocamelus/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bosprimigeniusprimigenius/avg",
     "value": 27
@@ -60,7 +610,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bosprimigeniusprimigenius/var",
     "value": 3
@@ -71,7 +621,370 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusarnee/avg",
+    "value": 30.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusarnee/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusbrevicornis/avg",
+    "value": 15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusbrevicornis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubaluscebuensis/avg",
+    "value": 9.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubaluscebuensis/var",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusdepressicornis/avg",
+    "value": 13.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusdepressicornis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusgrovesi/avg",
+    "value": 13.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusgrovesi/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusmephistopheles/avg",
+    "value": 16.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusmephistopheles/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusmindorensis/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusmindorensis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusmurrensis/avg",
+    "value": 16.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusmurrensis/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusquarlesi/avg",
+    "value": 7.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-bubalusquarlesi/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-pseudoryxnghetinhensis/avg",
+    "value": 6
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-pseudoryxnghetinhensis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-syncerusantiquus/avg",
+    "value": 32
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-synceruscaffer/avg",
+    "value": 25.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-synceruscaffer/var",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-syncerusnanus/avg",
+    "value": 17
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-syncerusnanus/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-taurotragusderbianus/avg",
+    "value": 27
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-taurotragusderbianus/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-taurotragusoryx/avg",
+    "value": 18.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-taurotragusoryx/var",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusangasii/avg",
+    "value": 6.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusangasii/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusbuxtoni/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusbuxtoni/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphuseurycerus/avg",
     "value": 17
@@ -82,7 +995,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphuseurycerus/var",
     "value": 1.5
@@ -93,9 +1006,207 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-bosprimigeniusprimigenius/avg",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusimberbis/avg",
+    "value": 6.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusimberbis/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusscriptus/avg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusscriptus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusspekii/avg",
+    "value": 6.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusspekii/var",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusstrepsiceros/avg",
+    "value": 13.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphusstrepsiceros/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphussylvaticus/avg",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-adult-male-tragelaphussylvaticus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-bubalusarnee/avg",
+    "value": 14.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-bubalusarnee/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-syncerusantiquus/avg",
+    "value": 8.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-syncerusantiquus/var",
+    "value": 4.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-*-tetracerusquadricornis/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-*-tetracerusquadricornis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-boselaphustragocamelus/avg",
+    "value": 1.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-boselaphustragocamelus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bosprimigeniusprimigenius/avg",
     "value": 3.5
   },
   {
@@ -104,9 +1215,9 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-bosprimigeniusprimigenius/var",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bosprimigeniusprimigenius/var",
     "value": 0.5
   },
   {
@@ -115,10 +1226,10 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-tragelaphuseurycerus/avg",
-    "value": 1.25
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusarnee/avg",
+    "value": 3.5
   },
   {
     "dependsOn": [
@@ -126,31 +1237,9 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-female-tragelaphuseurycerus/var",
-    "value": 0.25
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "bovinae"
-      }
-    ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-bosprimigeniusprimigenius/avg",
-    "value": 5
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "bovinae"
-      }
-    ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-bosprimigeniusprimigenius/var",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusarnee/var",
     "value": 0.5
   },
   {
@@ -159,9 +1248,9 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-tragelaphuseurycerus/avg",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusbrevicornis/avg",
     "value": 2.25
   },
   {
@@ -170,20 +1259,9 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
-    "path": "/server/behaviors/6/drops/1/quantityByType/*-adult-male-tragelaphuseurycerus/var",
-    "value": 0.25
-  },
-  {
-    "dependsOn": [
-      {
-        "modId": "bovinae"
-      }
-    ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
-    "op": "replace",
-    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-*/avg",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusbrevicornis/var",
     "value": 0.5
   },
   {
@@ -192,7 +1270,1030 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubaluscebuensis/avg",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubaluscebuensis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusdepressicornis/avg",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusdepressicornis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusgrovesi/avg",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusgrovesi/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusmephistopheles/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusmephistopheles/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusmindorensis/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusmindorensis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusmurrensis/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusmurrensis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusquarlesi/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-bubalusquarlesi/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-pseudoryxnghetinhensis/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-pseudoryxnghetinhensis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-syncerusantiquus/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-syncerusantiquus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-synceruscaffer/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-synceruscaffer/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-syncerusnanus/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-syncerusnanus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-taurotragusderbianus/avg",
+    "value": 2.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-taurotragusderbianus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-taurotragusoryx/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-taurotragusoryx/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusangasii/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusangasii/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusbuxtoni/avg",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusbuxtoni/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphuseurycerus/avg",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphuseurycerus/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusimberbis/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusimberbis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusscriptus/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusscriptus/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusspekii/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusspekii/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusstrepsiceros/avg",
+    "value": 1.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphusstrepsiceros/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphussylvaticus/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-female-tragelaphussylvaticus/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-boselaphustragocamelus/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-boselaphustragocamelus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bosprimigeniusprimigenius/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bosprimigeniusprimigenius/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusarnee/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusarnee/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusbrevicornis/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusbrevicornis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubaluscebuensis/avg",
+    "value": 1.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubaluscebuensis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusdepressicornis/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusdepressicornis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusgrovesi/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusgrovesi/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusmephistopheles/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusmephistopheles/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusmindorensis/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusmindorensis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusmurrensis/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusmurrensis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusquarlesi/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-bubalusquarlesi/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-pseudoryxnghetinhensis/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-pseudoryxnghetinhensis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-syncerusantiquus/avg",
+    "value": 5.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-syncerusantiquus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-synceruscaffer/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-synceruscaffer/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-syncerusnanus/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-syncerusnanus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-taurotragusderbianus/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-taurotragusderbianus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-taurotragusoryx/avg",
+    "value": 2.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-taurotragusoryx/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusangasii/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusangasii/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusbuxtoni/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusbuxtoni/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphuseurycerus/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphuseurycerus/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusimberbis/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusimberbis/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusscriptus/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusscriptus/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusspekii/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusspekii/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusstrepsiceros/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphusstrepsiceros/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphussylvaticus/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/2/quantityByType/*-adult-male-tragelaphussylvaticus/var",
+    "value": 0.15
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/3/quantityByType/*-adult-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMaxByType/*",
     "value": 11
@@ -203,7 +2304,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/multiplyCooldownDaysMinByType/*",
     "value": 4
@@ -214,7 +2315,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-adult.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
     "op": "replace",
     "path": "/server/behaviors/8/pregnancyDaysByType/*",
     "value": 29
@@ -225,7 +2326,271 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-boselaphustragocamelus",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bubalusarnee",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bubalusbrevicornis",
+    "value": 28
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bubaluscebuensis",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bubalusdepressicornis",
+    "value": 28
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bubalusgrovesi",
+    "value": 28
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bubalusmephistopheles",
+    "value": 31
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bubalusmindorensis",
+    "value": 30
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bubalusmurrensis",
+    "value": 31
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-bubalusquarlesi",
+    "value": 28
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-pseudoryxnghetinhensis",
+    "value": 18
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-syncerus*",
+    "value": 27
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-taurotragusderbianus",
+    "value": 27
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-taurotragusoryx",
+    "value": 27
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tetracerusquadricornis",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tragelaphusangasii",
+    "value": 22
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tragelaphusbuxtoni",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tragelaphusimberbis",
+    "value": 21
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tragelaphusscriptus",
+    "value": 18
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tragelaphusspekii",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tragelaphusstrepsiceros",
+    "value": 24
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-adult.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/pregnancyDaysByType/*-tragelaphussylvaticus",
+    "value": 18
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-boselaphustragocamelus/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-boselaphustragocamelus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bosprimigeniusprimigenius/avg",
     "value": 2.5
@@ -236,7 +2601,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bosprimigeniusprimigenius/var",
     "value": 0.5
@@ -247,7 +2612,425 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusarnee/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusarnee/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusbrevicornis/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusbrevicornis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusbubalis/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusbubalis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubaluscebuensis/avg",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubaluscebuensis/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusdepressicornis/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusdepressicornis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusgrovesi/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusgrovesi/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusmephistopheles/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusmephistopheles/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusmindorensis/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusmindorensis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusmurrensis/avg",
+    "value": 2.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusmurrensis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusquarlesi/avg",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-bubalusquarlesi/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-pseudoryxnghetinhensis/avg",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-pseudoryxnghetinhensis/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-syncerusantiquus/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-syncerusantiquus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-synceruscaffer/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-synceruscaffer/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-syncerusnanus/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-syncerusnanus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-taurotragusderbianus/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-taurotragusderbianus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-taurotragusoryx/avg",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-taurotragusoryx/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tetracerusquadricornis/avg",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tetracerusquadricornis/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusangasii/avg",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusangasii/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusbuxtoni/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusbuxtoni/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphuseurycerus/avg",
     "value": 2
@@ -258,7 +3041,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphuseurycerus/var",
     "value": 0.5
@@ -269,7 +3052,139 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusimberbis/avg",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusimberbis/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusscriptus/avg",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusscriptus/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusspekii/avg",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusspekii/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusstrepsiceros/avg",
+    "value": 2
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphusstrepsiceros/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphussylvaticus/avg",
+    "value": 0.75
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/0/quantityByType/*-baby-*-tragelaphussylvaticus/var",
+    "value": 0.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-boselaphustragocamelus/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-boselaphustragocamelus/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bosprimigeniusprimigenius/avg",
     "value": 1
@@ -280,7 +3195,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bosprimigeniusprimigenius/var",
     "value": 0.5
@@ -291,7 +3206,414 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusarnee/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusarnee/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusbrevicornis/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusbrevicornis/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusbubalis/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusbubalis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubaluscebuensis/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubaluscebuensis/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusdepressicornis/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusdepressicornis/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusgrovesi/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusgrovesi/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusmephistopheles/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusmephistopheles/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusmindorensis/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusmindorensis/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusmurrensis/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusmurrensis/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusquarlesi/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-bubalusquarlesi/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-pseudoryxnghetinhensis/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-pseudoryxnghetinhensis/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-syncerusantiquus/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-syncerusantiquus/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-synceruscaffer/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-synceruscaffer/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-syncerusnanus/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-syncerusnanus/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-taurotragusderbianus/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-taurotragusderbianus/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-taurotragusoryx/avg",
+    "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-taurotragusoryx/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tetracerusquadricornis/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusangasii/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusangasii/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusbuxtoni/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusbuxtoni/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphuseurycerus/avg",
     "value": 0.5
@@ -302,7 +3624,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphuseurycerus/var",
     "value": 0.1
@@ -313,7 +3635,117 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusimberbis/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusimberbis/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusscriptus/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusscriptus/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusspekii/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusspekii/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusstrepsiceros/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphusstrepsiceros/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphussylvaticus/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/6/drops/1/quantityByType/*-baby-*-tragelaphussylvaticus/var",
+    "value": 0.1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/6/drops/2/quantityByType/*-baby-*/avg",
     "value": 0.5
@@ -324,7 +3756,7 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-baby.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "replace",
     "path": "/server/behaviors/8/hoursToGrowByType/*",
     "value": 175
@@ -335,7 +3767,95 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-carcass.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-pseudoryxnghetinhensis",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-syncerus*",
+    "value": 350
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-tragelaphusangasii",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-tragelaphusimberbis",
+    "value": 131
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-tragelaphusscriptus",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-tragelaphusspekii",
+    "value": 88
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-tragelaphusstrepsiceros",
+    "value": 88
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
+    "op": "replace",
+    "path": "/server/behaviors/8/hoursToGrowByType/*-tragelaphussylvaticus",
+    "value": 80
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-carcass.json",
     "op": "replace",
     "path": "/server/behaviors/5/drops/0/quantityByType/*/avg",
     "value": 2
@@ -346,9 +3866,350 @@
         "modId": "bovinae"
       }
     ],
-    "file": "bovinae:entities/land/bovinae-carcass.json",
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-carcass.json",
     "op": "replace",
     "path": "/server/behaviors/5/drops/0/quantityByType/*/var",
     "value": 1
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-female-bosprimigeniusprimigenius-*/avg",
+    "value": 17
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-female-bosprimigeniusprimigenius-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-female-bubalusarnee/avg",
+    "value": 17
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-female-bubalusarnee/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-female-bubalusbubalis-*/avg",
+    "value": 14
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-female-bubalusbubalis-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-male-bosprimigeniusprimigenius-*/avg",
+    "value": 27
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-male-bosprimigeniusprimigenius-*/var",
+    "value": 3
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-male-bubalusarnee/avg",
+    "value": 16
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-male-bubalusarnee/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-male-bubalusbubalis-*/avg",
+    "value": 16.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/0/quantityByType/*-adult-male-bubalusbubalis-*/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-adult-male-bubalusarnee/avg",
+    "value": 14.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/1/quantityByType/*-adult-male-bubalusarnee/var",
+    "value": 1.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-female-bosprimigeniusprimigenius-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-female-bosprimigeniusprimigenius-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-female-bubalusarnee/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-female-bubalusarnee/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-female-bubalusbubalis-*/avg",
+    "value": 2.25
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-female-bubalusbubalis-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-male-bosprimigeniusprimigenius-*/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-male-bosprimigeniusprimigenius-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-male-bubalusarnee/avg",
+    "value": 5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-male-bubalusarnee/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-male-bubalusbubalis-*/avg",
+    "value": 3.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/2/quantityByType/*-adult-male-bubalusbubalis-*/var",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/5/drops/3/quantityByType/*-adult-*/avg",
+    "value": 0.5
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMaxByType/*",
+    "value": 11
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/multiplyCooldownDaysMinByType/*",
+    "value": 4
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*",
+    "value": 29
+  },
+  {
+    "dependsOn": [
+      {
+        "modId": "bovinae"
+      }
+    ],
+    "file": "bovinae:entities/animal/mammal/hooved/bovinae-tamed.json",
+    "op": "replace",
+    "path": "/server/behaviors/7/pregnancyDaysByType/*-bubalusbubalis-*",
+    "value": 31
   }
 ]
