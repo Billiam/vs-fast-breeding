@@ -370,7 +370,7 @@
     ],
     "file": "chelonioidea:entities/water/chelonioidea-egg.json",
     "op": "replace",
-    "path": "/server/behaviors/7/hoursToGrowByType/*",
+    "path": "/server/behaviors/6/hoursToGrowByType/*",
     "value": 120
   }
 ]
